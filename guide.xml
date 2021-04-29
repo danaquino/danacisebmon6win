@@ -1,0 +1,2471 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="RO: DIGI SPORT 1 HD RO">
+    <display-name lang="ro">RO: DIGI SPORT 1 HD RO</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="RO: DIGI SPORT 2 HD RO">
+    <display-name lang="ro">RO: DIGI SPORT 2 HD RO</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="RO: DIGI SPORT 3 HD RO">
+    <display-name lang="ro">RO: DIGI SPORT 3</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="RO: DIGI SPORT 4 HD RO">
+    <display-name lang="ro">RO: DIGI SPORT 4</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="RO: EUROSPORT 1 HD">
+    <display-name lang="ro">RO: EUROSPORT 1 HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="RO: EUROSPORT 2 HD">
+    <display-name lang="ro">RO: EUROSPORT 2 HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="RO: TELEKOM SPORT 1">
+    <display-name lang="ro">RO: TELEKOM SPORT 1</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="RO: TELEKOM SPORT 2">
+    <display-name lang="ro">RO: TELEKOM SPORT 2</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="RO: TELEKOM SPORT 3">
+    <display-name lang="ro">RO: TELEKOM SPORT 3</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="RO: TELEKOM SPORT 4">
+    <display-name lang="ro">RO: TELEKOM SPORT 4</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="EXYU: SPORT KLUB 1(HR)">
+    <display-name lang="hr">EXYU: SPORT KLUB 1(HR)</display-name>
+    <url>http://www.mojtv.hr</url>
+  </channel>
+  <channel id="EXYU: SPORT KLUB 2 (HR)">
+    <display-name lang="hr">EXYU: SPORT KLUB 2 (HR)</display-name>
+    <url>http://www.mojtv.hr</url>
+  </channel>
+  <channel id="EXYU: SPORT KLUB 3 (HR)">
+    <display-name lang="hr">EXYU: SPORT KLUB 3 (HR)</display-name>
+    <url>http://www.mojtv.hr</url>
+  </channel>
+  <channel id="EXYU: SPORT KLUB 4 (HR)">
+    <display-name lang="hr">EXYU: SPORT KLUB 4 (HR)</display-name>
+    <url>http://www.mojtv.hr</url>
+  </channel>
+  <channel id="EXYU: SPORT KLUB 5 (HR)">
+    <display-name lang="hr">EXYU: SPORT KLUB 5 (HR)</display-name>
+    <url>http://www.mojtv.hr</url>
+  </channel>
+  <channel id="EXYU: SPORT KLUB 6 (HR)">
+    <display-name lang="hr">EXYU: SPORT KLUB 6 (HR)</display-name>
+    <url>http://www.mojtv.hr</url>
+  </channel>
+  <channel id="EXYU: SPORTKLUB HD">
+    <display-name lang="hr">EXYU: SPORTKLUB HD</display-name>
+    <url>http://www.mojtv.hr</url>
+  </channel>
+  <channel id="EXYU: ARENA SPORT 1 HKURD: (HR)">
+    <display-name lang="hr">EXYU: ARENA SPORT 1 HKURD: (HR)</display-name>
+    <url>http://www.mojtv.hr</url>
+  </channel>
+  <channel id="EXYU: ARENA SPORT 2 HKURD: (HR)">
+    <display-name lang="hr">EXYU: ARENA SPORT 2 HKURD: (HR)</display-name>
+    <url>http://www.mojtv.hr</url>
+  </channel>
+  <channel id="EXYU: ARENA SPORT 3 HKURD: (HR)">
+    <display-name lang="hr">EXYU: ARENA SPORT 3 HKURD: (HR)</display-name>
+    <url>http://www.mojtv.hr</url>
+  </channel>
+  <channel id="EXYU: ARENA SPORT 4 HKURD: (HR)">
+    <display-name lang="hr">EXYU: ARENA SPORT 4 HKURD: (HR)</display-name>
+    <url>http://www.mojtv.hr</url>
+  </channel>
+  <channel id="EXYU: ARENA SPORT 5 HKURD: (HR)">
+    <display-name lang="hr">EXYU: ARENA SPORT 5 HKURD: (HR)</display-name>
+    <url>http://www.mojtv.hr</url>
+  </channel>
+  <channel id="EXYU: EUROSPORT 2 HD">
+    <display-name lang="hr">EXYU: EUROSPORT 2 HD</display-name>
+    <url>http://www.mojtv.hr</url>
+  </channel>
+  <channel id="EXYU: EUROSPORT 1 HD">
+    <display-name lang="hr">EXYU: EUROSPORT 1 HD</display-name>
+    <url>http://www.mojtv.hr</url>
+  </channel>
+  <programme start="20210429070000 -0300" stop="20210429073000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20210429073000 -0300" stop="20210429080000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20210429080000 -0300" stop="20210429083000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20210429083000 -0300" stop="20210429090000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20210429090000 -0300" stop="20210429093000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20210429093000 -0300" stop="20210429100000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20210429100000 -0300" stop="20210429101500 -0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20210429101500 -0300" stop="20210429110000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Euro fotbal</title>
+  </programme>
+  <programme start="20210429110000 -0300" stop="20210429111500 -0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20210429111500 -0300" stop="20210429120000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Rezumate UEFA Europa League</title>
+  </programme>
+  <programme start="20210429120000 -0300" stop="20210429121500 -0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20210429121500 -0300" stop="20210429124500 -0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Euro fotbal</title>
+  </programme>
+  <programme start="20210429124500 -0300" stop="20210429130000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Live Stirile Digi Sport</title>
+  </programme>
+  <programme start="20210429130000 -0300" stop="20210429143000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Live Liga Digi Sport</title>
+  </programme>
+  <programme start="20210429143000 -0300" stop="20210429151500 -0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Live Liga 1: Politehnica Iasi - Viitorul Liga 1: play-out</title>
+  </programme>
+  <programme start="20210429151500 -0300" stop="20210429153000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Live Stirile Digi Sport</title>
+  </programme>
+  <programme start="20210429153000 -0300" stop="20210429163000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Live Liga 1: Politehnica Iasi - Viitorul Liga 1: play-out</title>
+  </programme>
+  <programme start="20210429163000 -0300" stop="20210429170000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Live Stirile Digi Sport</title>
+  </programme>
+  <programme start="20210429170000 -0300" stop="20210429174500 -0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Live Liga 1: Dinamo - Voluntari Liga 1: play-out</title>
+  </programme>
+  <programme start="20210429174500 -0300" stop="20210429180000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Live Fotbal club</title>
+  </programme>
+  <programme start="20210429180000 -0300" stop="20210429190000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Live Liga 1: Dinamo - Voluntari Liga 1: play-out</title>
+  </programme>
+  <programme start="20210429190000 -0300" stop="20210429194500 -0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Live Fotbal club</title>
+  </programme>
+  <programme start="20210429194500 -0300" stop="20210430070000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Live Liga 1: Universitatea Craiova - FCSB Liga 1: play-off</title>
+  </programme>
+  <programme start="20210430070000 -0300" stop="20210430073000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20210430073000 -0300" stop="20210430080000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20210430080000 -0300" stop="20210430083000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20210430083000 -0300" stop="20210430090000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20210430090000 -0300" stop="20210430093000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20210430093000 -0300" stop="20210430100000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20210430100000 -0300" stop="20210430101500 -0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20210430101500 -0300" stop="20210430110000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Euro fotbal</title>
+  </programme>
+  <programme start="20210430110000 -0300" stop="20210430111500 -0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20210430111500 -0300" stop="20210430120000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Fotbal club</title>
+  </programme>
+  <programme start="20210430120000 -0300" stop="20210430121500 -0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20210430121500 -0300" stop="20210430130000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Live Rezumatele etapei Liga 1</title>
+  </programme>
+  <programme start="20210430130000 -0300" stop="20210430131500 -0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Live Stirile Digi Sport</title>
+  </programme>
+  <programme start="20210430131500 -0300" stop="20210430140000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Live Liga Digi Sport</title>
+  </programme>
+  <programme start="20210430140000 -0300" stop="20210430141500 -0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Live Stirile Digi Sport</title>
+  </programme>
+  <programme start="20210430141500 -0300" stop="20210430150000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Live Liga Digi Sport</title>
+  </programme>
+  <programme start="20210430150000 -0300" stop="20210430154500 -0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Live Liga a 2-a: ASU Poli Timisoara - Dunarea Calarasi Liga a 2-a: play-off</title>
+  </programme>
+  <programme start="20210430154500 -0300" stop="20210430160000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Live Stirile Digi Sport</title>
+  </programme>
+  <programme start="20210430160000 -0300" stop="20210430170000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Live Liga a 2-a: ASU Poli Timisoara - Dunarea Calarasi Liga a 2-a: play-off</title>
+  </programme>
+  <programme start="20210430170000 -0300" stop="20210430173000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Live Stirile Digi Sport</title>
+  </programme>
+  <programme start="20210430173000 -0300" stop="20210430181500 -0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Live Liga 1: Gaz Metan Medias - FC Arges Liga 1: play-out</title>
+  </programme>
+  <programme start="20210430181500 -0300" stop="20210430183000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Live Stirile Digi Sport</title>
+  </programme>
+  <programme start="20210430183000 -0300" stop="20210430193000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Live Liga 1: Gaz Metan Medias - FC Arges Liga 1: play-out</title>
+  </programme>
+  <programme start="20210430193000 -0300" stop="20210501070000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Live Digi sport special</title>
+  </programme>
+  <programme start="20210501070000 -0300" stop="20210501073000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20210501073000 -0300" stop="20210501080000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20210501080000 -0300" stop="20210501083000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20210501083000 -0300" stop="20210501090000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20210501090000 -0300" stop="20210501093000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20210501093000 -0300" stop="20210501100000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20210501100000 -0300" stop="20210501101500 -0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Live Stirile Digi Sport</title>
+  </programme>
+  <programme start="20210501101500 -0300" stop="20210501110000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Live Digi Sport Matinal</title>
+  </programme>
+  <programme start="20210501110000 -0300" stop="20210501120000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Live Stirile Digi Sport</title>
+  </programme>
+  <programme start="20210501120000 -0300" stop="20210501123000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Live Stirile Digi Sport</title>
+  </programme>
+  <programme start="20210501123000 -0300" stop="20210501131500 -0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Live Liga a 2-a: Farul Constanta - Universitatea Cluj Liga a 2-a: play-out</title>
+  </programme>
+  <programme start="20210501131500 -0300" stop="20210501133000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Live Stirile Digi Sport</title>
+  </programme>
+  <programme start="20210501133000 -0300" stop="20210501143000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Live Liga a 2-a: Farul Constanta - Universitatea Cluj Liga a 2-a: play-out</title>
+  </programme>
+  <programme start="20210501143000 -0300" stop="20210501150000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Live Stirile Digi Sport</title>
+  </programme>
+  <programme start="20210501150000 -0300" stop="20210501154500 -0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Live Liga 1: UTA Arad - Chindia Targoviste Liga 1: play-out</title>
+  </programme>
+  <programme start="20210501154500 -0300" stop="20210501160000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Live Stirile Digi Sport</title>
+  </programme>
+  <programme start="20210501160000 -0300" stop="20210501170000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Live Liga 1: UTA Arad - Chindia Targoviste Liga 1: play-out</title>
+  </programme>
+  <programme start="20210501170000 -0300" stop="20210501173000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Live Digi sport special</title>
+  </programme>
+  <programme start="20210501173000 -0300" stop="20210501181500 -0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Live Liga 1: Botosani - Sepsi Sfantu Gheorghe Liga 1: play-off</title>
+  </programme>
+  <programme start="20210501181500 -0300" stop="20210501183000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Live Digi sport special</title>
+  </programme>
+  <programme start="20210501183000 -0300" stop="20210501193000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Live Liga 1: Botosani - Sepsi Sfantu Gheorghe Liga 1: play-off</title>
+  </programme>
+  <programme start="20210501193000 -0300" stop="20210502070000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Live Digi sport special</title>
+  </programme>
+  <programme start="20210502070000 -0300" stop="20210502073000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20210502073000 -0300" stop="20210502080000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20210502080000 -0300" stop="20210502083000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20210502083000 -0300" stop="20210502090000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20210502090000 -0300" stop="20210502093000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20210502093000 -0300" stop="20210502100000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20210502100000 -0300" stop="20210502101500 -0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20210502101500 -0300" stop="20210502120000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">La Liga: Real Madrid - Osasuna La Liga</title>
+  </programme>
+  <programme start="20210502120000 -0300" stop="20210502133000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Live Liga Digi Sport</title>
+  </programme>
+  <programme start="20210502133000 -0300" stop="20210502141500 -0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Live Liga 1: Astra - Politehnica Iasi Liga 1: play-out</title>
+  </programme>
+  <programme start="20210502141500 -0300" stop="20210502143000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Live Stirile Digi Sport</title>
+  </programme>
+  <programme start="20210502143000 -0300" stop="20210502153000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Live Liga 1: Astra - Politehnica Iasi Liga 1: play-out</title>
+  </programme>
+  <programme start="20210502153000 -0300" stop="20210502160000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Live Stirile Digi Sport</title>
+  </programme>
+  <programme start="20210502160000 -0300" stop="20210502164500 -0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Live Liga 1: Voluntari - Hermannstadt Liga 1: play-out</title>
+  </programme>
+  <programme start="20210502164500 -0300" stop="20210502170000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Live Stirile Digi Sport</title>
+  </programme>
+  <programme start="20210502170000 -0300" stop="20210502180000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Live Liga 1: Voluntari - Hermannstadt Liga 1: play-out</title>
+  </programme>
+  <programme start="20210502180000 -0300" stop="20210502183000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Live Stirile Digi Sport</title>
+  </programme>
+  <programme start="20210502183000 -0300" stop="20210502191500 -0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Live Liga 1: Viitorul - Dinamo Liga 1: play-out</title>
+  </programme>
+  <programme start="20210502191500 -0300" stop="20210502193000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Live Stirile Digi Sport</title>
+  </programme>
+  <programme start="20210502193000 -0300" stop="20210503070000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Live Liga 1: Viitorul - Dinamo Liga 1: play-out</title>
+  </programme>
+  <programme start="20210429080000 -0300" stop="20210429100000 -0300" channel="RO: DIGI SPORT 2 HD RO">
+    <title lang="ro">UCL: PSG - Manchester City UEFA Champions League</title>
+  </programme>
+  <programme start="20210429100000 -0300" stop="20210429114500 -0300" channel="RO: DIGI SPORT 2 HD RO">
+    <title lang="ro">Liga 1: CFR Cluj - Botosani Liga 1: play-off</title>
+  </programme>
+  <programme start="20210429114500 -0300" stop="20210429120000 -0300" channel="RO: DIGI SPORT 2 HD RO">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20210429120000 -0300" stop="20210429140000 -0300" channel="RO: DIGI SPORT 2 HD RO">
+    <title lang="ro">Live Tenis: WTA Madrid: Elina SVITOLINA (UKR) - Jil TEICHMANN (SUI)</title>
+  </programme>
+  <programme start="20210429140000 -0300" stop="20210429160000 -0300" channel="RO: DIGI SPORT 2 HD RO">
+    <title lang="ro">Live Tenis: WTA Madrid: Petra KVITOVA (CZE) - Marie BOUZKOVA (CZE)</title>
+  </programme>
+  <programme start="20210429160000 -0300" stop="20210429180000 -0300" channel="RO: DIGI SPORT 2 HD RO">
+    <title lang="ro">Live Tenis: WTA Madrid: Ashleigh BARTY (AUS) - Shelby ROGERS (USA)</title>
+  </programme>
+  <programme start="20210429180000 -0300" stop="20210430120000 -0300" channel="RO: DIGI SPORT 2 HD RO">
+    <title lang="ro">Live Tenis: WTA Madrid: Ana BOGDAN (ROU) - Anastasija SEVASTOVA (LAT)</title>
+  </programme>
+  <programme start="20210430120000 -0300" stop="20210430140000 -0300" channel="RO: DIGI SPORT 2 HD RO">
+    <title lang="ro">Live Tenis: WTA Madrid : Irina-Camelia BEGU (ROU) - Daria KASATKINA (RUS)</title>
+  </programme>
+  <programme start="20210430140000 -0300" stop="20210430160000 -0300" channel="RO: DIGI SPORT 2 HD RO">
+    <title lang="ro">Live Tenis: WTA Madrid: Sorana CIRSTEA (ROU) - Jessica PEGULA (USA)</title>
+  </programme>
+  <programme start="20210430160000 -0300" stop="20210430180000 -0300" channel="RO: DIGI SPORT 2 HD RO">
+    <title lang="ro">Live Tenis: WTA Madrid: Simona HALEP (ROU) - Sara SORRIBES TORMO (ESP</title>
+  </programme>
+  <programme start="20210430180000 -0300" stop="20210501100000 -0300" channel="RO: DIGI SPORT 2 HD RO">
+    <title lang="ro">LIVE Tenis: WTA Madrid: Karolina PLISKOVA (CZE) - Cori GAUFF (USA)</title>
+  </programme>
+  <programme start="20210501100000 -0300" stop="20210501120000 -0300" channel="RO: DIGI SPORT 2 HD RO">
+    <title lang="ro">Tenis: WTA Madrid</title>
+  </programme>
+  <programme start="20210501120000 -0300" stop="20210501150000 -0300" channel="RO: DIGI SPORT 2 HD RO">
+    <title lang="ro">Live Tenis: WTA Madrid</title>
+  </programme>
+  <programme start="20210501150000 -0300" stop="20210501180000 -0300" channel="RO: DIGI SPORT 2 HD RO">
+    <title lang="ro">Live Tenis: WTA Madrid</title>
+  </programme>
+  <programme start="20210501180000 -0300" stop="20210502100000 -0300" channel="RO: DIGI SPORT 2 HD RO">
+    <title lang="ro">Live Tenis: WTA Madrid</title>
+  </programme>
+  <programme start="20210502100000 -0300" stop="20210502120000 -0300" channel="RO: DIGI SPORT 2 HD RO">
+    <title lang="ro">Tenis: WTA Madrid</title>
+  </programme>
+  <programme start="20210502120000 -0300" stop="20210502150000 -0300" channel="RO: DIGI SPORT 2 HD RO">
+    <title lang="ro">Live Tenis: WTA Madrid</title>
+  </programme>
+  <programme start="20210502150000 -0300" stop="20210502180000 -0300" channel="RO: DIGI SPORT 2 HD RO">
+    <title lang="ro">Live Tenis: WTA Madrid</title>
+  </programme>
+  <programme start="20210502180000 -0300" stop="20210503070000 -0300" channel="RO: DIGI SPORT 2 HD RO">
+    <title lang="ro">Live Tenis: WTA Madrid</title>
+  </programme>
+  <programme start="20210429071500 -0300" stop="20210429073000 -0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Gimnastica de dimineata</title>
+  </programme>
+  <programme start="20210429073000 -0300" stop="20210429074500 -0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Gimnastica de dimineata</title>
+  </programme>
+  <programme start="20210429074500 -0300" stop="20210429080000 -0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Gimnastica de dimineata</title>
+  </programme>
+  <programme start="20210429080000 -0300" stop="20210429081500 -0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Gimnastica de dimineata</title>
+  </programme>
+  <programme start="20210429081500 -0300" stop="20210429083000 -0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Gimnastica de dimineata</title>
+  </programme>
+  <programme start="20210429083000 -0300" stop="20210429084500 -0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Gimnastica de dimineata</title>
+  </programme>
+  <programme start="20210429084500 -0300" stop="20210429090000 -0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Gimnastica de dimineata</title>
+  </programme>
+  <programme start="20210429090000 -0300" stop="20210429091500 -0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Gimnastica de dimineata</title>
+  </programme>
+  <programme start="20210429091500 -0300" stop="20210429093000 -0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Gimnastica de dimineata</title>
+  </programme>
+  <programme start="20210429093000 -0300" stop="20210429094500 -0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Gimnastica de dimineata</title>
+  </programme>
+  <programme start="20210429094500 -0300" stop="20210429100000 -0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Gimnastica de dimineata</title>
+  </programme>
+  <programme start="20210429100000 -0300" stop="20210429101500 -0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Digi Sport Show</title>
+  </programme>
+  <programme start="20210429101500 -0300" stop="20210429110000 -0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20210429110000 -0300" stop="20210429111500 -0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Digi Sport Show</title>
+  </programme>
+  <programme start="20210429111500 -0300" stop="20210429114500 -0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20210429114500 -0300" stop="20210429121500 -0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Serie A: full impact</title>
+  </programme>
+  <programme start="20210429121500 -0300" stop="20210429130000 -0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20210429130000 -0300" stop="20210429131500 -0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Digi Sport Show</title>
+  </programme>
+  <programme start="20210429131500 -0300" stop="20210429140000 -0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20210429140000 -0300" stop="20210429141500 -0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Digi Sport Show</title>
+  </programme>
+  <programme start="20210429141500 -0300" stop="20210429144500 -0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20210429144500 -0300" stop="20210429151500 -0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20210429151500 -0300" stop="20210429154500 -0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20210429154500 -0300" stop="20210429160000 -0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Digi Sport Show</title>
+  </programme>
+  <programme start="20210429160000 -0300" stop="20210429163000 -0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20210429163000 -0300" stop="20210429170000 -0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20210429170000 -0300" stop="20210429190000 -0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Live Baschet M.: CS SCM Timisoara - SCM U Craiova Liga Nationala</title>
+  </programme>
+  <programme start="20210429190000 -0300" stop="20210429193000 -0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20210429193000 -0300" stop="20210430071500 -0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20210430071500 -0300" stop="20210430073000 -0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Gimnastica de dimineata</title>
+  </programme>
+  <programme start="20210430073000 -0300" stop="20210430074500 -0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Gimnastica de dimineata</title>
+  </programme>
+  <programme start="20210430074500 -0300" stop="20210430080000 -0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Gimnastica de dimineata</title>
+  </programme>
+  <programme start="20210430080000 -0300" stop="20210430081500 -0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Gimnastica de dimineata</title>
+  </programme>
+  <programme start="20210430081500 -0300" stop="20210430083000 -0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Gimnastica de dimineata</title>
+  </programme>
+  <programme start="20210430083000 -0300" stop="20210430084500 -0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Gimnastica de dimineata</title>
+  </programme>
+  <programme start="20210430084500 -0300" stop="20210430090000 -0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Gimnastica de dimineata</title>
+  </programme>
+  <programme start="20210430090000 -0300" stop="20210430091500 -0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Gimnastica de dimineata</title>
+  </programme>
+  <programme start="20210430091500 -0300" stop="20210430093000 -0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Gimnastica de dimineata</title>
+  </programme>
+  <programme start="20210430093000 -0300" stop="20210430094500 -0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Gimnastica de dimineata</title>
+  </programme>
+  <programme start="20210430094500 -0300" stop="20210430100000 -0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Gimnastica de dimineata</title>
+  </programme>
+  <programme start="20210430100000 -0300" stop="20210430124500 -0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Live Moto: antrenamente Marele Premiu al Spaniei</title>
+  </programme>
+  <programme start="20210430124500 -0300" stop="20210430130000 -0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20210430130000 -0300" stop="20210430131500 -0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Digi Sport Show</title>
+  </programme>
+  <programme start="20210430131500 -0300" stop="20210430133000 -0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20210430133000 -0300" stop="20210430144500 -0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Live F1: antrenamente Marele Premiu al Portugaliei</title>
+  </programme>
+  <programme start="20210430144500 -0300" stop="20210430150000 -0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20210430150000 -0300" stop="20210430170000 -0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Live Moto: antrenamente Marele Premiu al Spaniei</title>
+  </programme>
+  <programme start="20210430170000 -0300" stop="20210430184500 -0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Live Baschet M.: SCM U Craiova - CSM CSU Oradea Liga Nationala</title>
+  </programme>
+  <programme start="20210430184500 -0300" stop="20210501071500 -0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Premiera F1: antrenamente Marele Premiu al Portugaliei</title>
+  </programme>
+  <programme start="20210501071500 -0300" stop="20210501073000 -0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Gimnastica de dimineata</title>
+  </programme>
+  <programme start="20210501073000 -0300" stop="20210501074500 -0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Gimnastica de dimineata</title>
+  </programme>
+  <programme start="20210501074500 -0300" stop="20210501080000 -0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Gimnastica de dimineata</title>
+  </programme>
+  <programme start="20210501080000 -0300" stop="20210501081500 -0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Gimnastica de dimineata</title>
+  </programme>
+  <programme start="20210501081500 -0300" stop="20210501083000 -0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Gimnastica de dimineata</title>
+  </programme>
+  <programme start="20210501083000 -0300" stop="20210501084500 -0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Gimnastica de dimineata</title>
+  </programme>
+  <programme start="20210501084500 -0300" stop="20210501090000 -0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Gimnastica de dimineata</title>
+  </programme>
+  <programme start="20210501090000 -0300" stop="20210501091500 -0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Gimnastica de dimineata</title>
+  </programme>
+  <programme start="20210501091500 -0300" stop="20210501093000 -0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Gimnastica de dimineata</title>
+  </programme>
+  <programme start="20210501093000 -0300" stop="20210501094500 -0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Gimnastica de dimineata</title>
+  </programme>
+  <programme start="20210501094500 -0300" stop="20210501100000 -0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Gimnastica de dimineata</title>
+  </programme>
+  <programme start="20210501100000 -0300" stop="20210501101500 -0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Digi Sport Show</title>
+  </programme>
+  <programme start="20210501101500 -0300" stop="20210501110000 -0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20210501110000 -0300" stop="20210501113000 -0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Avanpremiera Ligue 1</title>
+  </programme>
+  <programme start="20210501113000 -0300" stop="20210501120000 -0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20210501120000 -0300" stop="20210501123000 -0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Avanpremiera Serie A</title>
+  </programme>
+  <programme start="20210501123000 -0300" stop="20210501130000 -0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Avanpremiera La Liga</title>
+  </programme>
+  <programme start="20210501130000 -0300" stop="20210501131500 -0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20210501131500 -0300" stop="20210501133000 -0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Digi Sport Show</title>
+  </programme>
+  <programme start="20210501133000 -0300" stop="20210501140000 -0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20210501140000 -0300" stop="20210501160000 -0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Live F1: antrenamente Marele Premiu al Portugaliei</title>
+  </programme>
+  <programme start="20210501160000 -0300" stop="20210501170000 -0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Live La Liga: Eibar - Alaves La Liga</title>
+  </programme>
+  <programme start="20210501170000 -0300" stop="20210501171500 -0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20210501171500 -0300" stop="20210501190000 -0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Live La Liga: Elche - Atletico Madrid La Liga</title>
+  </programme>
+  <programme start="20210501190000 -0300" stop="20210502071500 -0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Live Serie A: Crotone - Inter Serie A</title>
+  </programme>
+  <programme start="20210502071500 -0300" stop="20210502073000 -0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Gimnastica de dimineata</title>
+  </programme>
+  <programme start="20210502073000 -0300" stop="20210502074500 -0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Gimnastica de dimineata</title>
+  </programme>
+  <programme start="20210502074500 -0300" stop="20210502080000 -0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Gimnastica de dimineata</title>
+  </programme>
+  <programme start="20210502080000 -0300" stop="20210502081500 -0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Gimnastica de dimineata</title>
+  </programme>
+  <programme start="20210502081500 -0300" stop="20210502083000 -0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Gimnastica de dimineata</title>
+  </programme>
+  <programme start="20210502083000 -0300" stop="20210502084500 -0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Gimnastica de dimineata</title>
+  </programme>
+  <programme start="20210502084500 -0300" stop="20210502090000 -0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Gimnastica de dimineata</title>
+  </programme>
+  <programme start="20210502090000 -0300" stop="20210502091500 -0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Gimnastica de dimineata</title>
+  </programme>
+  <programme start="20210502091500 -0300" stop="20210502104500 -0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Live Moto: curse Marele Premiu al Spaniei</title>
+  </programme>
+  <programme start="20210502104500 -0300" stop="20210502110000 -0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20210502110000 -0300" stop="20210502160000 -0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Live Moto: curse Marele Premiu al Spaniei</title>
+  </programme>
+  <programme start="20210502160000 -0300" stop="20210502170000 -0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Live Grila de start</title>
+  </programme>
+  <programme start="20210502170000 -0300" stop="20210502190000 -0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Live F1: Cursa Marele Premiu al Portugaliei</title>
+  </programme>
+  <programme start="20210502190000 -0300" stop="20210503071500 -0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Live Serie A: Udinese - Juventus Serie A</title>
+  </programme>
+  <programme start="20210429070000 -0300" stop="20210429080000 -0300" channel="RO: DIGI SPORT 4 HD RO">
+    <title lang="ro">Rezumat Franta Ligue 1</title>
+  </programme>
+  <programme start="20210429080000 -0300" stop="20210429083000 -0300" channel="RO: DIGI SPORT 4 HD RO">
+    <title lang="ro">Rezumat Cupa Ligii Angliei</title>
+  </programme>
+  <programme start="20210429083000 -0300" stop="20210429101500 -0300" channel="RO: DIGI SPORT 4 HD RO">
+    <title lang="ro">Liga 1: Sepsi Sfantu Gheorghe - Academica Clinceni Liga 1: play-off</title>
+  </programme>
+  <programme start="20210429101500 -0300" stop="20210429120000 -0300" channel="RO: DIGI SPORT 4 HD RO">
+    <title lang="ro">La Liga: Athletic Bilbao - Valladolid La Liga</title>
+  </programme>
+  <programme start="20210429120000 -0300" stop="20210429140000 -0300" channel="RO: DIGI SPORT 4 HD RO">
+    <title lang="ro">Live Tenis: WTA Madrid: Angelique KERBER (GER) - Marketa VONDROUSOVA (CZE)</title>
+  </programme>
+  <programme start="20210429140000 -0300" stop="20210429160000 -0300" channel="RO: DIGI SPORT 4 HD RO">
+    <title lang="ro">Live Tenis: WTA Madrid: Yulia PUTINTSEVA (KAZ) - Johanna KONTA (GBR)</title>
+  </programme>
+  <programme start="20210429160000 -0300" stop="20210429180000 -0300" channel="RO: DIGI SPORT 4 HD RO">
+    <title lang="ro">Live Tenis: WTA Madrid: Alison RISKE (USA) - Iga SWIATEK (POL)</title>
+  </programme>
+  <programme start="20210429180000 -0300" stop="20210430070000 -0300" channel="RO: DIGI SPORT 4 HD RO">
+    <title lang="ro">Live Tenis, WTA Madrid: Garbiñe MUGURUZA (ESP) - Sloane STEPHENS (USA)</title>
+  </programme>
+  <programme start="20210430070000 -0300" stop="20210430083000 -0300" channel="RO: DIGI SPORT 4 HD RO">
+    <title lang="ro">Liga 1: Universitatea Craiova - FCSB Liga 1: play-off</title>
+  </programme>
+  <programme start="20210430083000 -0300" stop="20210430101500 -0300" channel="RO: DIGI SPORT 4 HD RO">
+    <title lang="ro">UEL: Villareal - Arsenal UEFA Europa League</title>
+  </programme>
+  <programme start="20210430101500 -0300" stop="20210430120000 -0300" channel="RO: DIGI SPORT 4 HD RO">
+    <title lang="ro">UEL: Manchester United - Roma UEFA Europa League</title>
+  </programme>
+  <programme start="20210430120000 -0300" stop="20210430140000 -0300" channel="RO: DIGI SPORT 4 HD RO">
+    <title lang="ro">Live Tenis: WTA Madrid: Aryna SABALENKA (BLR) - Vera ZVONAREVA (RUS)</title>
+  </programme>
+  <programme start="20210430140000 -0300" stop="20210430160000 -0300" channel="RO: DIGI SPORT 4 HD RO">
+    <title lang="ro">Live Tenis: WTA Madrid: Misaki DOI (JPN) - Naomi OSAKA (JPN)</title>
+  </programme>
+  <programme start="20210430160000 -0300" stop="20210430180000 -0300" channel="RO: DIGI SPORT 4 HD RO">
+    <title lang="ro">Live Tenis: WTA Madrid: Elise MERTENS (BEL) - Shuai ZHANG (CHN)</title>
+  </programme>
+  <programme start="20210430180000 -0300" stop="20210501070000 -0300" channel="RO: DIGI SPORT 4 HD RO">
+    <title lang="ro">LIVE Tenis: WTA Madrid: Monica NICULESCU (ROU)/) Lyudmyla KICHENOK (UKR) - Sharon FICHMAN (CAN)/Giuliana OLMOS (MEX)</title>
+  </programme>
+  <programme start="20210501070000 -0300" stop="20210501074500 -0300" channel="RO: DIGI SPORT 4 HD RO">
+    <title lang="ro">Rezumatele etapei Liga 1</title>
+  </programme>
+  <programme start="20210501074500 -0300" stop="20210501081500 -0300" channel="RO: DIGI SPORT 4 HD RO">
+    <title lang="ro">Rezumate UEFA Europa League</title>
+  </programme>
+  <programme start="20210501081500 -0300" stop="20210501100000 -0300" channel="RO: DIGI SPORT 4 HD RO">
+    <title lang="ro">Liga a 2-a: U Craiova 1948 - Mioveni Liga a 2-a: play-off</title>
+  </programme>
+  <programme start="20210501100000 -0300" stop="20210501124500 -0300" channel="RO: DIGI SPORT 4 HD RO">
+    <title lang="ro">Live Moto: antrenamente Marele Premiu al Spaniei</title>
+  </programme>
+  <programme start="20210501124500 -0300" stop="20210501133000 -0300" channel="RO: DIGI SPORT 4 HD RO">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20210501133000 -0300" stop="20210501170000 -0300" channel="RO: DIGI SPORT 4 HD RO">
+    <title lang="ro">Live Moto: calificari Marele Premiu al Spaniei</title>
+  </programme>
+  <programme start="20210501170000 -0300" stop="20210501180000 -0300" channel="RO: DIGI SPORT 4 HD RO">
+    <title lang="ro">Live F1: calificari Marele Premiu al Portugaliei</title>
+  </programme>
+  <programme start="20210501180000 -0300" stop="20210502070000 -0300" channel="RO: DIGI SPORT 4 HD RO">
+    <title lang="ro">Live Ligue 1: PSG - Lens Ligue 1</title>
+  </programme>
+  <programme start="20210502070000 -0300" stop="20210502080000 -0300" channel="RO: DIGI SPORT 4 HD RO">
+    <title lang="ro">F1: calificari Marele Premiu al Portugaliei</title>
+  </programme>
+  <programme start="20210502080000 -0300" stop="20210502094500 -0300" channel="RO: DIGI SPORT 4 HD RO">
+    <title lang="ro">Liga 1: UTA Arad - Chindia Targoviste Liga 1: play-off</title>
+  </programme>
+  <programme start="20210502094500 -0300" stop="20210502113000 -0300" channel="RO: DIGI SPORT 4 HD RO">
+    <title lang="ro">Liga 1: Botosani - Sepsi Sfantu Gheorghe Liga 1: play-off</title>
+  </programme>
+  <programme start="20210502113000 -0300" stop="20210502131500 -0300" channel="RO: DIGI SPORT 4 HD RO">
+    <title lang="ro">Liga a 2-a: Rapid - Csikszereda Liga a 2-a: play-off</title>
+  </programme>
+  <programme start="20210502131500 -0300" stop="20210502133000 -0300" channel="RO: DIGI SPORT 4 HD RO">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20210502133000 -0300" stop="20210502153000 -0300" channel="RO: DIGI SPORT 4 HD RO">
+    <title lang="ro">Live Serie A: Lazio - Genoa Serie A</title>
+  </programme>
+  <programme start="20210502153000 -0300" stop="20210502160000 -0300" channel="RO: DIGI SPORT 4 HD RO">
+    <title lang="ro">UCL Magazin</title>
+  </programme>
+  <programme start="20210502160000 -0300" stop="20210502180000 -0300" channel="RO: DIGI SPORT 4 HD RO">
+    <title lang="ro">Live Serie A: Sassuolo - Atalanta Serie A</title>
+  </programme>
+  <programme start="20210502180000 -0300" stop="20210503070000 -0300" channel="RO: DIGI SPORT 4 HD RO">
+    <title lang="ro">Live Tenis: WTA Madrid</title>
+  </programme>
+  <programme start="20210429080000 -0300" stop="20210429093000 -0300" channel="RO: EUROSPORT 1 HD">
+    <title lang="ro">Snooker: Campionatul Mondial</title>
+    <desc lang="ro">Sferturi de finală Programul britanic.(n)</desc>
+  </programme>
+  <programme start="20210429093000 -0300" stop="20210429110000 -0300" channel="RO: EUROSPORT 1 HD">
+    <title lang="ro">Curse de maşini: Campionatul Mondial de anduranţă, la Austin, în Statele Unite</title>
+  </programme>
+  <programme start="20210429110000 -0300" stop="20210429120000 -0300" channel="RO: EUROSPORT 1 HD">
+    <title lang="ro">Snooker: Campionatul Mondial</title>
+    <desc lang="ro">Sferturi de finală Programul britanic.(n)</desc>
+  </programme>
+  <programme start="20210429120000 -0300" stop="20210429123000 -0300" channel="RO: EUROSPORT 1 HD">
+    <title lang="ro">Golf: GolfTV săptămânal</title>
+  </programme>
+  <programme start="20210429123000 -0300" stop="20210429133000 -0300" channel="RO: EUROSPORT 1 HD">
+    <title lang="ro">Jocurile olimpice: Mare în Japonia</title>
+  </programme>
+  <programme start="20210429133000 -0300" stop="20210429140000 -0300" channel="RO: EUROSPORT 1 HD">
+    <title lang="ro">Jocurile olimpice: Faţă în faţă</title>
+    <desc lang="ro">m. marcă - M. Michael.(n)</desc>
+  </programme>
+  <programme start="20210429140000 -0300" stop="20210429144500 -0300" channel="RO: EUROSPORT 1 HD">
+    <title lang="ro">Snooker: Campionatul Mondial</title>
+    <desc lang="ro">Sferturi de finală Programul britanic.(n)</desc>
+  </programme>
+  <programme start="20210429144500 -0300" stop="20210429180000 -0300" channel="RO: EUROSPORT 1 HD">
+    <title lang="ro">Snooker: Campionatul Mondial</title>
+    <desc lang="ro">Semifinale Programul britanic.(n)</desc>
+  </programme>
+  <programme start="20210429180000 -0300" stop="20210429190000 -0300" channel="RO: EUROSPORT 1 HD">
+    <title lang="ro">Călărie: Turneul de Mare Slem, la 's Hertogenbosch, în Olanda</title>
+    <desc lang="ro">Sărituri peste obstacole.(n)</desc>
+  </programme>
+  <programme start="20210429190000 -0300" stop="20210429195500 -0300" channel="RO: EUROSPORT 1 HD">
+    <title lang="ro">Snooker: Campionatul Mondial</title>
+    <desc lang="ro">Sferturi de finală Programul britanic.(n)</desc>
+  </programme>
+  <programme start="20210429195500 -0300" stop="20210430080000 -0300" channel="RO: EUROSPORT 1 HD">
+    <title lang="ro">Snooker: Campionatul Mondial</title>
+    <desc lang="ro">Sferturi de finală Programul britanic.(n)</desc>
+  </programme>
+  <programme start="20210430080000 -0300" stop="20210430093000 -0300" channel="RO: EUROSPORT 1 HD">
+    <title lang="ro">Snooker: Campionatul Mondial</title>
+    <desc lang="ro">Semifinale Programul britanic.(n)</desc>
+  </programme>
+  <programme start="20210430093000 -0300" stop="20210430110000 -0300" channel="RO: EUROSPORT 1 HD">
+    <title lang="ro">Curse de maşini: Campionatul Mondial de anduranţă, la Le Mans, în Franţa</title>
+  </programme>
+  <programme start="20210430110000 -0300" stop="20210430120000 -0300" channel="RO: EUROSPORT 1 HD">
+    <title lang="ro">Snooker: Campionatul Mondial</title>
+    <desc lang="ro">Semifinale Programul britanic.(n)</desc>
+  </programme>
+  <programme start="20210430120000 -0300" stop="20210430150000 -0300" channel="RO: EUROSPORT 1 HD">
+    <title lang="ro">Snooker: Campionatul Mondial</title>
+    <desc lang="ro">Semifinale Programul britanic.(n)</desc>
+  </programme>
+  <programme start="20210430150000 -0300" stop="20210430161500 -0300" channel="RO: EUROSPORT 1 HD">
+    <title lang="ro">Snooker: Campionatul Mondial</title>
+    <desc lang="ro">Semifinale Programul britanic.(n)</desc>
+  </programme>
+  <programme start="20210430161500 -0300" stop="20210430193000 -0300" channel="RO: EUROSPORT 1 HD">
+    <title lang="ro">Snooker: Campionatul Mondial</title>
+    <desc lang="ro">Semifinale Programul britanic.(n)</desc>
+  </programme>
+  <programme start="20210430193000 -0300" stop="20210501080000 -0300" channel="RO: EUROSPORT 1 HD">
+    <title lang="ro">Snooker: Campionatul Mondial</title>
+    <desc lang="ro">Semifinale Programul britanic.(n)</desc>
+  </programme>
+  <programme start="20210501080000 -0300" stop="20210501093000 -0300" channel="RO: EUROSPORT 1 HD">
+    <title lang="ro">Snooker: Campionatul Mondial</title>
+    <desc lang="ro">Semifinale Programul britanic.(n)</desc>
+  </programme>
+  <programme start="20210501093000 -0300" stop="20210501110000 -0300" channel="RO: EUROSPORT 1 HD">
+    <title lang="ro">Curse de maşini: Campionatul Mondial de anduranţă</title>
+  </programme>
+  <programme start="20210501110000 -0300" stop="20210501120000 -0300" channel="RO: EUROSPORT 1 HD">
+    <title lang="ro">Snooker: Campionatul Mondial</title>
+    <desc lang="ro">Semifinale Programul britanic.(n)</desc>
+  </programme>
+  <programme start="20210501120000 -0300" stop="20210501133000 -0300" channel="RO: EUROSPORT 1 HD">
+    <title lang="ro">Snooker: Campionatul Mondial</title>
+    <desc lang="ro">Semifinale Programul britanic.(n)</desc>
+  </programme>
+  <programme start="20210501133000 -0300" stop="20210501142500 -0300" channel="RO: EUROSPORT 1 HD">
+    <title lang="ro">Fotbal: Premier League Show</title>
+  </programme>
+  <programme start="20210501142500 -0300" stop="20210501163000 -0300" channel="RO: EUROSPORT 1 HD">
+    <title lang="ro">Fotbal: Premier League</title>
+    <desc lang="ro">Crystal Palace - Manchester City.(n)</desc>
+  </programme>
+  <programme start="20210501163000 -0300" stop="20210501165500 -0300" channel="RO: EUROSPORT 1 HD">
+    <title lang="ro">Fotbal: Premier League Show</title>
+  </programme>
+  <programme start="20210501165500 -0300" stop="20210501190000 -0300" channel="RO: EUROSPORT 1 HD">
+    <title lang="ro">Fotbal: Premier League</title>
+    <desc lang="ro">Brighton and Hove Albion - Leeds United.(n)</desc>
+  </programme>
+  <programme start="20210501190000 -0300" stop="20210502070000 -0300" channel="RO: EUROSPORT 1 HD">
+    <title lang="ro">Fotbal: Premier League</title>
+    <desc lang="ro">Chelsea - Fulham.(n)</desc>
+  </programme>
+  <programme start="20210502070000 -0300" stop="20210502080000 -0300" channel="RO: EUROSPORT 1 HD">
+    <title lang="ro">Ciclism: Circuitul Mondial - Turul Romandiei, în Elveţia</title>
+    <desc lang="ro">Masculin, etapa a patra.(n)</desc>
+  </programme>
+  <programme start="20210502080000 -0300" stop="20210502093000 -0300" channel="RO: EUROSPORT 1 HD">
+    <title lang="ro">Snooker: Campionatul Mondial</title>
+    <desc lang="ro">Semifinale Programul britanic.(n)</desc>
+  </programme>
+  <programme start="20210502093000 -0300" stop="20210502110000 -0300" channel="RO: EUROSPORT 1 HD">
+    <title lang="ro">Curse auto de anduranţă: Campionatul Mondial, la Spa-Francorchamps, în Belgia</title>
+    <desc lang="ro">Cursa.(n)</desc>
+  </programme>
+  <programme start="20210502110000 -0300" stop="20210502120000 -0300" channel="RO: EUROSPORT 1 HD">
+    <title lang="ro">Călărie: Turneul de Mare Slem, la 's Hertogenbosch, în Olanda</title>
+    <desc lang="ro">Sărituri peste obstacole.(n)</desc>
+  </programme>
+  <programme start="20210502120000 -0300" stop="20210502130000 -0300" channel="RO: EUROSPORT 1 HD">
+    <title lang="ro">Ciclism: Circuitul Mondial - Turul Romandiei, în Elveţia</title>
+    <desc lang="ro">Masculin, etapa a patra.(n)</desc>
+  </programme>
+  <programme start="20210502130000 -0300" stop="20210502135000 -0300" channel="RO: EUROSPORT 1 HD">
+    <title lang="ro">Snooker: Campionatul Mondial</title>
+    <desc lang="ro">Semifinale Programul britanic.(n)</desc>
+  </programme>
+  <programme start="20210502135000 -0300" stop="20210502144500 -0300" channel="RO: EUROSPORT 1 HD">
+    <title lang="ro">Snooker: Campionatul Mondial</title>
+    <desc lang="ro">Semifinale Programul britanic.(n)</desc>
+  </programme>
+  <programme start="20210502144500 -0300" stop="20210502155500 -0300" channel="RO: EUROSPORT 1 HD">
+    <title lang="ro">Fotbal: Premier League Show</title>
+  </programme>
+  <programme start="20210502155500 -0300" stop="20210502180000 -0300" channel="RO: EUROSPORT 1 HD">
+    <title lang="ro">Fotbal: Premier League</title>
+    <desc lang="ro">Newcastle - Arsenal.(n)</desc>
+  </programme>
+  <programme start="20210502180000 -0300" stop="20210502182500 -0300" channel="RO: EUROSPORT 1 HD">
+    <title lang="ro">Fotbal: Premier League Show</title>
+  </programme>
+  <programme start="20210502182500 -0300" stop="20210503080000 -0300" channel="RO: EUROSPORT 1 HD">
+    <title lang="ro">Fotbal: Premier League</title>
+    <desc lang="ro">Manchester United - Liverpool.(n)</desc>
+  </programme>
+  <programme start="20210429080000 -0300" stop="20210429093000 -0300" channel="RO: EUROSPORT 2 HD">
+    <title lang="ro">Curse de maşini: Campionatul Mondial de anduranţă, la Le Mans, în Franţa</title>
+  </programme>
+  <programme start="20210429093000 -0300" stop="20210429110000 -0300" channel="RO: EUROSPORT 2 HD">
+    <title lang="ro">Snooker: Campionatul Mondial - Sferturi de finală Programul britanic</title>
+  </programme>
+  <programme start="20210429110000 -0300" stop="20210429113000 -0300" channel="RO: EUROSPORT 2 HD">
+    <title lang="ro">Ciclism: Circuitul Mondial - Turul Romandiei, în Elveţia - Masculin, etapa întâi</title>
+  </programme>
+  <programme start="20210429113000 -0300" stop="20210429123000 -0300" channel="RO: EUROSPORT 2 HD">
+    <title lang="ro">Curse de maşini: Campionatul Mondial de anduranţă, la Le Mans, în Franţa - Best Of</title>
+  </programme>
+  <programme start="20210429123000 -0300" stop="20210429140000 -0300" channel="RO: EUROSPORT 2 HD">
+    <title lang="ro">Snooker: Campionatul Mondial - Sferturi de finală Programul britanic</title>
+  </programme>
+  <programme start="20210429140000 -0300" stop="20210429144500 -0300" channel="RO: EUROSPORT 2 HD">
+    <title lang="ro">Ciclism: Circuitul Mondial - Săgeata Valonă, în Belgia - Feminin</title>
+  </programme>
+  <programme start="20210429144500 -0300" stop="20210429153000 -0300" channel="RO: EUROSPORT 2 HD">
+    <title lang="ro">Ciclism: Circuitul Mondial - Săgeata Valonă, în Belgia - Masculin</title>
+  </programme>
+  <programme start="20210429153000 -0300" stop="20210429163000 -0300" channel="RO: EUROSPORT 2 HD">
+    <title lang="ro">Ciclism: Circuitul Mondial - Turul Romandiei, în Elveţia - Masculin, etapa întâi</title>
+  </programme>
+  <programme start="20210429163000 -0300" stop="20210429183000 -0300" channel="RO: EUROSPORT 2 HD">
+    <title lang="ro">Ciclism: Circuitul Mondial - Turul Romandiei, în Elveţia - Masculin, etapa a doua</title>
+  </programme>
+  <programme start="20210429183000 -0300" stop="20210429190000 -0300" channel="RO: EUROSPORT 2 HD">
+    <title lang="ro">Jocurile olimpice: Faţă în faţă - C. Carl - U. Bolt</title>
+  </programme>
+  <programme start="20210429190000 -0300" stop="20210430070000 -0300" channel="RO: EUROSPORT 2 HD">
+    <title lang="ro">Curse de maşini: Campionatul Mondial de anduranţă, la Le Mans, în Franţa</title>
+  </programme>
+  <programme start="20210430070000 -0300" stop="20210430080000 -0300" channel="RO: EUROSPORT 2 HD">
+    <title lang="ro">Snooker: Campionatul Mondial - Semifinale Programul britanic</title>
+  </programme>
+  <programme start="20210430080000 -0300" stop="20210430093000 -0300" channel="RO: EUROSPORT 2 HD">
+    <title lang="ro">Curse de maşini: Campionatul Mondial de anduranţă</title>
+  </programme>
+  <programme start="20210430093000 -0300" stop="20210430110000 -0300" channel="RO: EUROSPORT 2 HD">
+    <title lang="ro">Snooker: Campionatul Mondial - Semifinale Programul britanic</title>
+  </programme>
+  <programme start="20210430110000 -0300" stop="20210430113000 -0300" channel="RO: EUROSPORT 2 HD">
+    <title lang="ro">Ciclism: Circuitul Mondial - Turul Romandiei, în Elveţia - Masculin, etapa a doua</title>
+  </programme>
+  <programme start="20210430113000 -0300" stop="20210430133000 -0300" channel="RO: EUROSPORT 2 HD">
+    <title lang="ro">Curse de maşini: Campionatul Mondial de anduranţă</title>
+  </programme>
+  <programme start="20210430133000 -0300" stop="20210430141500 -0300" channel="RO: EUROSPORT 2 HD">
+    <title lang="ro">Ciclism: Circuitul Mondial - Cursa Amstel Gold, în Olanda - Feminin</title>
+  </programme>
+  <programme start="20210430141500 -0300" stop="20210430153000 -0300" channel="RO: EUROSPORT 2 HD">
+    <title lang="ro">Ciclism: Circuitul Mondial - Cursa Amstel Gold, în Olanda - Masculin</title>
+  </programme>
+  <programme start="20210430153000 -0300" stop="20210430163000 -0300" channel="RO: EUROSPORT 2 HD">
+    <title lang="ro">Ciclism: Circuitul Mondial - Turul Romandiei, în Elveţia - Masculin, etapa a doua</title>
+  </programme>
+  <programme start="20210430163000 -0300" stop="20210430183000 -0300" channel="RO: EUROSPORT 2 HD">
+    <title lang="ro">Ciclism: Circuitul Mondial - Turul Romandiei, în Elveţia - Masculin, etapa a treia</title>
+  </programme>
+  <programme start="20210430183000 -0300" stop="20210430190000 -0300" channel="RO: EUROSPORT 2 HD">
+    <title lang="ro">Jocurile olimpice: Faţă în faţă - m. marcă - M. Michael</title>
+  </programme>
+  <programme start="20210430190000 -0300" stop="20210501070000 -0300" channel="RO: EUROSPORT 2 HD">
+    <title lang="ro">Curse de maşini: Campionatul Mondial de anduranţă</title>
+  </programme>
+  <programme start="20210501070000 -0300" stop="20210501080000 -0300" channel="RO: EUROSPORT 2 HD">
+    <title lang="ro">Snooker: Campionatul Mondial - Semifinale Programul britanic</title>
+  </programme>
+  <programme start="20210501080000 -0300" stop="20210501093000 -0300" channel="RO: EUROSPORT 2 HD">
+    <title lang="ro">Curse de maşini: Campionatul Mondial de anduranţă</title>
+  </programme>
+  <programme start="20210501093000 -0300" stop="20210501110000 -0300" channel="RO: EUROSPORT 2 HD">
+    <title lang="ro">Snooker: Campionatul Mondial - Semifinale Programul britanic</title>
+  </programme>
+  <programme start="20210501110000 -0300" stop="20210501131500 -0300" channel="RO: EUROSPORT 2 HD">
+    <title lang="ro">Ciclism: Circuitul Mondial - Liege - Bastogne - Liege, în Belgia - Masculin</title>
+  </programme>
+  <programme start="20210501131500 -0300" stop="20210501141500 -0300" channel="RO: EUROSPORT 2 HD">
+    <title lang="ro">Curse auto de anduranţă: Campionatul Mondial, la Spa-Francorchamps, în Belgia - Calificări</title>
+  </programme>
+  <programme start="20210501141500 -0300" stop="20210501163000 -0300" channel="RO: EUROSPORT 2 HD">
+    <title lang="ro">Curse auto de anduranţă: Campionatul Mondial, la Spa-Francorchamps, în Belgia - Cursa</title>
+  </programme>
+  <programme start="20210501163000 -0300" stop="20210501182000 -0300" channel="RO: EUROSPORT 2 HD">
+    <title lang="ro">Ciclism: Circuitul Mondial - Turul Romandiei, în Elveţia - Masculin, etapa a patra</title>
+  </programme>
+  <programme start="20210501182000 -0300" stop="20210502070000 -0300" channel="RO: EUROSPORT 2 HD">
+    <title lang="ro">Curse auto de anduranţă: Campionatul Mondial, la Spa-Francorchamps, în Belgia - Cursa</title>
+  </programme>
+  <programme start="20210502070000 -0300" stop="20210502080000 -0300" channel="RO: EUROSPORT 2 HD">
+    <title lang="ro">Snooker: Campionatul Mondial - Semifinale Programul britanic</title>
+  </programme>
+  <programme start="20210502080000 -0300" stop="20210502100000 -0300" channel="RO: EUROSPORT 2 HD">
+    <title lang="ro">Curse auto de anduranţă: Campionatul Mondial, la Spa-Francorchamps, în Belgia - Cursa</title>
+  </programme>
+  <programme start="20210502100000 -0300" stop="20210502110000 -0300" channel="RO: EUROSPORT 2 HD">
+    <title lang="ro">Snooker: Campionatul Mondial - Semifinale Programul britanic</title>
+  </programme>
+  <programme start="20210502110000 -0300" stop="20210502120000 -0300" channel="RO: EUROSPORT 2 HD">
+    <title lang="ro">Snooker: Campionatul Mondial - Semifinale Programul britanic</title>
+  </programme>
+  <programme start="20210502120000 -0300" stop="20210502130000 -0300" channel="RO: EUROSPORT 2 HD">
+    <title lang="ro">Tenis: Circuitul Mondial ATP 500, la Barcelona, în Spania - Simplu, finala</title>
+  </programme>
+  <programme start="20210502130000 -0300" stop="20210502133000 -0300" channel="RO: EUROSPORT 2 HD">
+    <title lang="ro">Tenis: Dezvăluiri ATP</title>
+  </programme>
+  <programme start="20210502133000 -0300" stop="20210502153000 -0300" channel="RO: EUROSPORT 2 HD">
+    <title lang="ro">Tenis: Circuitul Mondial ATP 1000, la Madrid, în Spania - Simplu, turul întâi</title>
+  </programme>
+  <programme start="20210502153000 -0300" stop="20210502173000 -0300" channel="RO: EUROSPORT 2 HD">
+    <title lang="ro">Tenis: Circuitul Mondial ATP 1000, la Madrid, în Spania - Simplu, turul întâi</title>
+  </programme>
+  <programme start="20210502173000 -0300" stop="20210502193000 -0300" channel="RO: EUROSPORT 2 HD">
+    <title lang="ro">Tenis: Circuitul Mondial ATP 1000, la Madrid, în Spania - Simplu, turul întâi</title>
+  </programme>
+  <programme start="20210502193000 -0300" stop="20210503080000 -0300" channel="RO: EUROSPORT 2 HD">
+    <title lang="ro">Ciclism: Circuitul Mondial - Turul Romandiei, în Elveţia - Masculin, etapa a cincea</title>
+  </programme>
+  <programme start="20210429080000 -0300" stop="20210429100000 -0300" channel="RO: TELEKOM SPORT 1">
+    <title lang="ro">Fotbal Liga I: Cfr Cluj - Fc Botosani</title>
+  </programme>
+  <programme start="20210429100000 -0300" stop="20210429120000 -0300" channel="RO: TELEKOM SPORT 1">
+    <title lang="ro">Fotbal Uefa Champions League: Real Madrid - Chelsea</title>
+  </programme>
+  <programme start="20210429120000 -0300" stop="20210429140000 -0300" channel="RO: TELEKOM SPORT 1">
+    <title lang="ro">Fotbal Liga 2: Dunarea Calarasi - U Craiova</title>
+  </programme>
+  <programme start="20210429140000 -0300" stop="20210429150000 -0300" channel="RO: TELEKOM SPORT 1">
+    <title lang="ro">Rezumate Fotbal: Italia</title>
+  </programme>
+  <programme start="20210429150000 -0300" stop="20210429170000 -0300" channel="RO: TELEKOM SPORT 1">
+    <title lang="ro">Direct Liga I: Poli Iasi - Viitorul</title>
+  </programme>
+  <programme start="20210429170000 -0300" stop="20210429171500 -0300" channel="RO: TELEKOM SPORT 1">
+    <title lang="ro">Sport 24</title>
+  </programme>
+  <programme start="20210429171500 -0300" stop="20210429191500 -0300" channel="RO: TELEKOM SPORT 1">
+    <title lang="ro">Direct Liga I: Dinamo - Fc Voluntari</title>
+  </programme>
+  <programme start="20210429191500 -0300" stop="20210429194500 -0300" channel="RO: TELEKOM SPORT 1">
+    <title lang="ro">Direct Sport Report (Talk Show)</title>
+  </programme>
+  <programme start="20210429194500 -0300" stop="20210430080000 -0300" channel="RO: TELEKOM SPORT 1">
+    <title lang="ro">Direct Liga I: Csu Craiova - Fcsb</title>
+  </programme>
+  <programme start="20210430080000 -0300" stop="20210430100000 -0300" channel="RO: TELEKOM SPORT 1">
+    <title lang="ro">Fotbal Liga I: Csu Craiova - Fcsb</title>
+  </programme>
+  <programme start="20210430100000 -0300" stop="20210430120000 -0300" channel="RO: TELEKOM SPORT 1">
+    <title lang="ro">Minutul 91 (Talk Show)</title>
+  </programme>
+  <programme start="20210430120000 -0300" stop="20210430140000 -0300" channel="RO: TELEKOM SPORT 1">
+    <title lang="ro">Fotbal Uefa Europa League: Manchester Utd - Roma</title>
+  </programme>
+  <programme start="20210430140000 -0300" stop="20210430150000 -0300" channel="RO: TELEKOM SPORT 1">
+    <title lang="ro">Rezumate Fotbal: Uefa Europa League (Premiera)</title>
+  </programme>
+  <programme start="20210430150000 -0300" stop="20210430170000 -0300" channel="RO: TELEKOM SPORT 1">
+    <title lang="ro">Direct Liga 2: Asu Timisoara - Dunarea Calarasi</title>
+  </programme>
+  <programme start="20210430170000 -0300" stop="20210430173000 -0300" channel="RO: TELEKOM SPORT 1">
+    <title lang="ro">Direct Sport Report (Talk Show)</title>
+  </programme>
+  <programme start="20210430173000 -0300" stop="20210430193000 -0300" channel="RO: TELEKOM SPORT 1">
+    <title lang="ro">Direct Liga I: Gaz Metan Medias - Fc Arges</title>
+  </programme>
+  <programme start="20210430193000 -0300" stop="20210501080000 -0300" channel="RO: TELEKOM SPORT 1">
+    <title lang="ro">Direct Sport Report (Talk Show)</title>
+  </programme>
+  <programme start="20210501080000 -0300" stop="20210501100000 -0300" channel="RO: TELEKOM SPORT 1">
+    <title lang="ro">Fotbal Liga 2: U Craiova - Mioveni</title>
+  </programme>
+  <programme start="20210501100000 -0300" stop="20210501120000 -0300" channel="RO: TELEKOM SPORT 1">
+    <title lang="ro">Fotbal Cupa Germaniei: Werder - Leipzig</title>
+  </programme>
+  <programme start="20210501120000 -0300" stop="20210501123000 -0300" channel="RO: TELEKOM SPORT 1">
+    <title lang="ro">Magazin Uefa Champions League (Premiera)</title>
+  </programme>
+  <programme start="20210501123000 -0300" stop="20210501143000 -0300" channel="RO: TELEKOM SPORT 1">
+    <title lang="ro">Direct Liga 2: Farul - U Cluj</title>
+  </programme>
+  <programme start="20210501143000 -0300" stop="20210501150000 -0300" channel="RO: TELEKOM SPORT 1">
+    <title lang="ro">Direct Sport Center (Talk Show)</title>
+  </programme>
+  <programme start="20210501150000 -0300" stop="20210501170000 -0300" channel="RO: TELEKOM SPORT 1">
+    <title lang="ro">Direct Liga I: Uta - Chindia</title>
+  </programme>
+  <programme start="20210501170000 -0300" stop="20210501173000 -0300" channel="RO: TELEKOM SPORT 1">
+    <title lang="ro">Direct Sport Report (Talk Show)</title>
+  </programme>
+  <programme start="20210501173000 -0300" stop="20210501193000 -0300" channel="RO: TELEKOM SPORT 1">
+    <title lang="ro">Direct Liga I: Fc Botosani - Sepsi Sf Gheorghe</title>
+  </programme>
+  <programme start="20210501193000 -0300" stop="20210502080000 -0300" channel="RO: TELEKOM SPORT 1">
+    <title lang="ro">Direct Sport Report (Talk Show)</title>
+  </programme>
+  <programme start="20210502080000 -0300" stop="20210502083000 -0300" channel="RO: TELEKOM SPORT 1">
+    <title lang="ro">Magazin Uefa Champions League</title>
+  </programme>
+  <programme start="20210502083000 -0300" stop="20210502090000 -0300" channel="RO: TELEKOM SPORT 1">
+    <title lang="ro">Nba Action (Premiera)</title>
+  </programme>
+  <programme start="20210502090000 -0300" stop="20210502120000 -0300" channel="RO: TELEKOM SPORT 1">
+    <title lang="ro">Nba: Houston - Golden State</title>
+  </programme>
+  <programme start="20210502120000 -0300" stop="20210502123000 -0300" channel="RO: TELEKOM SPORT 1">
+    <title lang="ro">Magazin Uefa Europa League (Premiera)</title>
+  </programme>
+  <programme start="20210502123000 -0300" stop="20210502133000 -0300" channel="RO: TELEKOM SPORT 1">
+    <title lang="ro">Direct Sport Center (Talk Show)</title>
+  </programme>
+  <programme start="20210502133000 -0300" stop="20210502153000 -0300" channel="RO: TELEKOM SPORT 1">
+    <title lang="ro">Direct Liga I: Astra - Poli Iasi</title>
+  </programme>
+  <programme start="20210502153000 -0300" stop="20210502160000 -0300" channel="RO: TELEKOM SPORT 1">
+    <title lang="ro">Direct Sport Center (Talk Show)</title>
+  </programme>
+  <programme start="20210502160000 -0300" stop="20210502180000 -0300" channel="RO: TELEKOM SPORT 1">
+    <title lang="ro">Direct Liga I: Voluntari - Hermannstadt</title>
+  </programme>
+  <programme start="20210502180000 -0300" stop="20210502183000 -0300" channel="RO: TELEKOM SPORT 1">
+    <title lang="ro">Direct Sport Center (Talk Show)</title>
+  </programme>
+  <programme start="20210502183000 -0300" stop="20210503080000 -0300" channel="RO: TELEKOM SPORT 1">
+    <title lang="ro">Direct Liga I: Viitorul - Dinamo</title>
+  </programme>
+  <programme start="20210429080000 -0300" stop="20210429120000 -0300" channel="RO: TELEKOM SPORT 2">
+    <title lang="ro">Fotbal Germania: Leipzig - Stuttgart</title>
+  </programme>
+  <programme start="20210429120000 -0300" stop="20210429140000 -0300" channel="RO: TELEKOM SPORT 2">
+    <title lang="ro">Fotbal Liga I: Cfr Cluj - Fc Botosani</title>
+  </programme>
+  <programme start="20210429140000 -0300" stop="20210429160000 -0300" channel="RO: TELEKOM SPORT 2">
+    <title lang="ro">Fotbal Italia: Benevento - Udinese</title>
+  </programme>
+  <programme start="20210429160000 -0300" stop="20210429180000 -0300" channel="RO: TELEKOM SPORT 2">
+    <title lang="ro">Fotbal Uefa Champions League: Real Madrid - Chelsea</title>
+  </programme>
+  <programme start="20210429180000 -0300" stop="20210430080000 -0300" channel="RO: TELEKOM SPORT 2">
+    <title lang="ro">Fotbal Uefa Champions League Futsal: Inter Fc - Ygra Yugorsk</title>
+  </programme>
+  <programme start="20210430080000 -0300" stop="20210430120000 -0300" channel="RO: TELEKOM SPORT 2">
+    <title lang="ro">Fotbal Germania: Wolfsburg - Borussia Dortmund</title>
+  </programme>
+  <programme start="20210430120000 -0300" stop="20210430140000 -0300" channel="RO: TELEKOM SPORT 2">
+    <title lang="ro">Fotbal Liga I: Csu Craiova - Fcsb</title>
+  </programme>
+  <programme start="20210430140000 -0300" stop="20210430160000 -0300" channel="RO: TELEKOM SPORT 2">
+    <title lang="ro">Fotbal Italia: Lazio - Milan</title>
+  </programme>
+  <programme start="20210430160000 -0300" stop="20210430180000 -0300" channel="RO: TELEKOM SPORT 2">
+    <title lang="ro">Fotbal Uefa Champions League: Psg - Manchester City</title>
+  </programme>
+  <programme start="20210430180000 -0300" stop="20210501080000 -0300" channel="RO: TELEKOM SPORT 2">
+    <title lang="ro">Fotbal Uefa Champions League Futsal: Karat Almaty - Benfica</title>
+  </programme>
+  <programme start="20210501080000 -0300" stop="20210501120000 -0300" channel="RO: TELEKOM SPORT 2">
+    <title lang="ro">Fotbal Cupa Germaniei: Werder - Leipzig</title>
+  </programme>
+  <programme start="20210501120000 -0300" stop="20210501140000 -0300" channel="RO: TELEKOM SPORT 2">
+    <title lang="ro">Fotbal Liga I: Gaz Metan Medias - Fc Arges</title>
+  </programme>
+  <programme start="20210501140000 -0300" stop="20210501150000 -0300" channel="RO: TELEKOM SPORT 2">
+    <title lang="ro">Rezumate Fotbal: Uefa Europa League</title>
+  </programme>
+  <programme start="20210501150000 -0300" stop="20210501170000 -0300" channel="RO: TELEKOM SPORT 2">
+    <title lang="ro">Direct Spania: Eibar - Deportivo Alaves</title>
+  </programme>
+  <programme start="20210501170000 -0300" stop="20210501171500 -0300" channel="RO: TELEKOM SPORT 2">
+    <title lang="ro">Sport 24 (Stiri)</title>
+  </programme>
+  <programme start="20210501171500 -0300" stop="20210501191500 -0300" channel="RO: TELEKOM SPORT 2">
+    <title lang="ro">Direct Spania: Elche - Atletico</title>
+  </programme>
+  <programme start="20210501191500 -0300" stop="20210501193000 -0300" channel="RO: TELEKOM SPORT 2">
+    <title lang="ro">Sport 24 (Stiri)</title>
+  </programme>
+  <programme start="20210501193000 -0300" stop="20210502080000 -0300" channel="RO: TELEKOM SPORT 2">
+    <title lang="ro">Direct Spania: Huesca - Real Sociedad</title>
+  </programme>
+  <programme start="20210502080000 -0300" stop="20210502120000 -0300" channel="RO: TELEKOM SPORT 2">
+    <title lang="ro">Fotbal Cupa Germaniei: Borussia Dortmund - Kiel</title>
+  </programme>
+  <programme start="20210502120000 -0300" stop="20210502133000 -0300" channel="RO: TELEKOM SPORT 2">
+    <title lang="ro">Handbal European Cup F: Malaga - Lokomotiva Moscova</title>
+  </programme>
+  <programme start="20210502133000 -0300" stop="20210502153000 -0300" channel="RO: TELEKOM SPORT 2">
+    <title lang="ro">Direct Italia: Lazio - Genoa</title>
+  </programme>
+  <programme start="20210502153000 -0300" stop="20210502160000 -0300" channel="RO: TELEKOM SPORT 2">
+    <title lang="ro">Magazin Uefa Europa League</title>
+  </programme>
+  <programme start="20210502160000 -0300" stop="20210502180000 -0300" channel="RO: TELEKOM SPORT 2">
+    <title lang="ro">Direct Italia: Sassuolo - Atalanta</title>
+  </programme>
+  <programme start="20210502180000 -0300" stop="20210502190000 -0300" channel="RO: TELEKOM SPORT 2">
+    <title lang="ro">Rezumate Fotbal: Uefa Europa League</title>
+  </programme>
+  <programme start="20210502190000 -0300" stop="20210503080000 -0300" channel="RO: TELEKOM SPORT 2">
+    <title lang="ro">Direct Italia: Udinese - Juventus</title>
+  </programme>
+  <programme start="20210429080000 -0300" stop="20210429090000 -0300" channel="RO: TELEKOM SPORT 3">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20210429090000 -0300" stop="20210429110000 -0300" channel="RO: TELEKOM SPORT 3">
+    <title lang="ro">Fotbal Liga I: Chindia - Astra</title>
+  </programme>
+  <programme start="20210429110000 -0300" stop="20210429113000 -0300" channel="RO: TELEKOM SPORT 3">
+    <title lang="ro">La Liga Show</title>
+  </programme>
+  <programme start="20210429113000 -0300" stop="20210429123000 -0300" channel="RO: TELEKOM SPORT 3">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20210429123000 -0300" stop="20210429140000 -0300" channel="RO: TELEKOM SPORT 3">
+    <title lang="ro">Handbal Liga Campionilor F: Ferencvaros - Csm Bucuresti</title>
+  </programme>
+  <programme start="20210429140000 -0300" stop="20210429150000 -0300" channel="RO: TELEKOM SPORT 3">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20210429150000 -0300" stop="20210429160000 -0300" channel="RO: TELEKOM SPORT 3">
+    <title lang="ro">Rezumate Fotbal: Spania</title>
+  </programme>
+  <programme start="20210429160000 -0300" stop="20210429180000 -0300" channel="RO: TELEKOM SPORT 3">
+    <title lang="ro">Uefa Champions League Futsal: Inter Fc - Ygra Yugorsk</title>
+  </programme>
+  <programme start="20210429180000 -0300" stop="20210429193000 -0300" channel="RO: TELEKOM SPORT 3">
+    <title lang="ro">Handbal Liga Campionilor F: Ferencvaros - Csm Bucuresti</title>
+  </programme>
+  <programme start="20210429193000 -0300" stop="20210430080000 -0300" channel="RO: TELEKOM SPORT 3">
+    <title lang="ro">Serie A Full Impact (Premiera)</title>
+  </programme>
+  <programme start="20210430080000 -0300" stop="20210430090000 -0300" channel="RO: TELEKOM SPORT 3">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20210430090000 -0300" stop="20210430110000 -0300" channel="RO: TELEKOM SPORT 3">
+    <title lang="ro">Uefa Champions League Futsal: Sporting - Sport Club Kprf</title>
+  </programme>
+  <programme start="20210430110000 -0300" stop="20210430113000 -0300" channel="RO: TELEKOM SPORT 3">
+    <title lang="ro">Serie A Full Impact</title>
+  </programme>
+  <programme start="20210430113000 -0300" stop="20210430123000 -0300" channel="RO: TELEKOM SPORT 3">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20210430123000 -0300" stop="20210430133000 -0300" channel="RO: TELEKOM SPORT 3">
+    <title lang="ro">Wrc Croatia - Rezumate</title>
+  </programme>
+  <programme start="20210430133000 -0300" stop="20210430143000 -0300" channel="RO: TELEKOM SPORT 3">
+    <title lang="ro">Formula 1 Portugalia - Antrenamente</title>
+  </programme>
+  <programme start="20210430143000 -0300" stop="20210430150000 -0300" channel="RO: TELEKOM SPORT 3">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20210430150000 -0300" stop="20210430170000 -0300" channel="RO: TELEKOM SPORT 3">
+    <title lang="ro">Fotbal Uefa Champions League Futsal: Barca - Donovec</title>
+  </programme>
+  <programme start="20210430170000 -0300" stop="20210430180000 -0300" channel="RO: TELEKOM SPORT 3">
+    <title lang="ro">Formula 1 Portugalia - Antrenamente</title>
+  </programme>
+  <programme start="20210430180000 -0300" stop="20210430183000 -0300" channel="RO: TELEKOM SPORT 3">
+    <title lang="ro">Preview Fotbal: Spania (Premiera)</title>
+  </programme>
+  <programme start="20210430183000 -0300" stop="20210430193000 -0300" channel="RO: TELEKOM SPORT 3">
+    <title lang="ro">Formula 1 Portugalia - Antrenamente</title>
+  </programme>
+  <programme start="20210430193000 -0300" stop="20210501080000 -0300" channel="RO: TELEKOM SPORT 3">
+    <title lang="ro">Preview Fotbal: Italia (Premiera)</title>
+  </programme>
+  <programme start="20210501080000 -0300" stop="20210501090000 -0300" channel="RO: TELEKOM SPORT 3">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20210501090000 -0300" stop="20210501110000 -0300" channel="RO: TELEKOM SPORT 3">
+    <title lang="ro">Fotbal Uefa Europa League: Manchester Utd - Roma</title>
+  </programme>
+  <programme start="20210501110000 -0300" stop="20210501113000 -0300" channel="RO: TELEKOM SPORT 3">
+    <title lang="ro">Preview Fotbal: Italia</title>
+  </programme>
+  <programme start="20210501113000 -0300" stop="20210501123000 -0300" channel="RO: TELEKOM SPORT 3">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20210501123000 -0300" stop="20210501140000 -0300" channel="RO: TELEKOM SPORT 3">
+    <title lang="ro">Handbal Liga Campionilor F: Krim - Csm Bucuresti</title>
+  </programme>
+  <programme start="20210501140000 -0300" stop="20210501150000 -0300" channel="RO: TELEKOM SPORT 3">
+    <title lang="ro">Formula 1 Portugalia - Antrenamente</title>
+  </programme>
+  <programme start="20210501150000 -0300" stop="20210501170000 -0300" channel="RO: TELEKOM SPORT 3">
+    <title lang="ro">Fotbal Cupa Germaniei: Werder - Leipzig</title>
+  </programme>
+  <programme start="20210501170000 -0300" stop="20210501180000 -0300" channel="RO: TELEKOM SPORT 3">
+    <title lang="ro">Formula 1 Portugalia - Calificari</title>
+  </programme>
+  <programme start="20210501180000 -0300" stop="20210501190000 -0300" channel="RO: TELEKOM SPORT 3">
+    <title lang="ro">Wrc Croatia - Rezumate</title>
+  </programme>
+  <programme start="20210501190000 -0300" stop="20210502080000 -0300" channel="RO: TELEKOM SPORT 3">
+    <title lang="ro">Italia: Crotone - Inter</title>
+  </programme>
+  <programme start="20210502080000 -0300" stop="20210502090000 -0300" channel="RO: TELEKOM SPORT 3">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20210502090000 -0300" stop="20210502110000 -0300" channel="RO: TELEKOM SPORT 3">
+    <title lang="ro">Fotbal Uefa Europa League: Villareal - Arsenal</title>
+  </programme>
+  <programme start="20210502110000 -0300" stop="20210502113000 -0300" channel="RO: TELEKOM SPORT 3">
+    <title lang="ro">Magazin Uefa Champions League</title>
+  </programme>
+  <programme start="20210502113000 -0300" stop="20210502123000 -0300" channel="RO: TELEKOM SPORT 3">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20210502123000 -0300" stop="20210502133000 -0300" channel="RO: TELEKOM SPORT 3">
+    <title lang="ro">Formula 1 Portugalia - Calificari</title>
+  </programme>
+  <programme start="20210502133000 -0300" stop="20210502140000 -0300" channel="RO: TELEKOM SPORT 3">
+    <title lang="ro">Magazin Uefa Europa League</title>
+  </programme>
+  <programme start="20210502140000 -0300" stop="20210502150000 -0300" channel="RO: TELEKOM SPORT 3">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20210502150000 -0300" stop="20210502170000 -0300" channel="RO: TELEKOM SPORT 3">
+    <title lang="ro">Spania: Valladolid - Betis</title>
+  </programme>
+  <programme start="20210502170000 -0300" stop="20210502190000 -0300" channel="RO: TELEKOM SPORT 3">
+    <title lang="ro">Formula 1 Portugalia</title>
+  </programme>
+  <programme start="20210502190000 -0300" stop="20210502193000 -0300" channel="RO: TELEKOM SPORT 3">
+    <title lang="ro">Magazin Uefa Europa League</title>
+  </programme>
+  <programme start="20210502193000 -0300" stop="20210503080000 -0300" channel="RO: TELEKOM SPORT 3">
+    <title lang="ro">Spania: Genoa - Cadiz</title>
+  </programme>
+  <programme start="20210429070000 -0300" stop="20210429090000 -0300" channel="RO: TELEKOM SPORT 4">
+    <title lang="ro">Fotbal Uefa Champions League: Real Madrid - Chelsea</title>
+  </programme>
+  <programme start="20210429090000 -0300" stop="20210429100000 -0300" channel="RO: TELEKOM SPORT 4">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20210429100000 -0300" stop="20210429120000 -0300" channel="RO: TELEKOM SPORT 4">
+    <title lang="ro">Fotbal Italia: Benevento - Udinese</title>
+  </programme>
+  <programme start="20210429120000 -0300" stop="20210429123000 -0300" channel="RO: TELEKOM SPORT 4">
+    <title lang="ro">La Liga World</title>
+  </programme>
+  <programme start="20210429123000 -0300" stop="20210429133000 -0300" channel="RO: TELEKOM SPORT 4">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20210429133000 -0300" stop="20210429153000 -0300" channel="RO: TELEKOM SPORT 4">
+    <title lang="ro">Fotbal Spania: Athletic - Valladolid</title>
+  </programme>
+  <programme start="20210429153000 -0300" stop="20210429163000 -0300" channel="RO: TELEKOM SPORT 4">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20210429163000 -0300" stop="20210429183000 -0300" channel="RO: TELEKOM SPORT 4">
+    <title lang="ro">Fotbal Germania: Bayer Leverkusen - Eintracht Frankfurt</title>
+  </programme>
+  <programme start="20210429183000 -0300" stop="20210430070000 -0300" channel="RO: TELEKOM SPORT 4">
+    <title lang="ro">Fotbal Liga 2: Rapid - Mioveni</title>
+  </programme>
+  <programme start="20210430070000 -0300" stop="20210430090000 -0300" channel="RO: TELEKOM SPORT 4">
+    <title lang="ro">Fotbal Uefa Champions League Futsal: Sporting - Sport Club Krpf</title>
+  </programme>
+  <programme start="20210430090000 -0300" stop="20210430100000 -0300" channel="RO: TELEKOM SPORT 4">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20210430100000 -0300" stop="20210430120000 -0300" channel="RO: TELEKOM SPORT 4">
+    <title lang="ro">Fotbal Italia: Torino - Napoli</title>
+  </programme>
+  <programme start="20210430120000 -0300" stop="20210430123000 -0300" channel="RO: TELEKOM SPORT 4">
+    <title lang="ro">Serie A Full Impact</title>
+  </programme>
+  <programme start="20210430123000 -0300" stop="20210430133000 -0300" channel="RO: TELEKOM SPORT 4">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20210430133000 -0300" stop="20210430153000 -0300" channel="RO: TELEKOM SPORT 4">
+    <title lang="ro">Fotbal Spania: Barcelona - Granada</title>
+  </programme>
+  <programme start="20210430153000 -0300" stop="20210430163000 -0300" channel="RO: TELEKOM SPORT 4">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20210430163000 -0300" stop="20210430183000 -0300" channel="RO: TELEKOM SPORT 4">
+    <title lang="ro">Fotbal Germania: Leipzig - Stuttgart</title>
+  </programme>
+  <programme start="20210430183000 -0300" stop="20210501070000 -0300" channel="RO: TELEKOM SPORT 4">
+    <title lang="ro">Fotbal Liga 2: Asu Timisoara - Dunarea Calarasi</title>
+  </programme>
+  <programme start="20210501070000 -0300" stop="20210501090000 -0300" channel="RO: TELEKOM SPORT 4">
+    <title lang="ro">Fotbal Uefa Champions League Futsal: Inter Fc - Ygra Yugorsk</title>
+  </programme>
+  <programme start="20210501090000 -0300" stop="20210501100000 -0300" channel="RO: TELEKOM SPORT 4">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20210501100000 -0300" stop="20210501120000 -0300" channel="RO: TELEKOM SPORT 4">
+    <title lang="ro">Fotbal Italia: Lazio - Milan</title>
+  </programme>
+  <programme start="20210501120000 -0300" stop="20210501123000 -0300" channel="RO: TELEKOM SPORT 4">
+    <title lang="ro">Preview Fotbal: Italia</title>
+  </programme>
+  <programme start="20210501123000 -0300" stop="20210501133000 -0300" channel="RO: TELEKOM SPORT 4">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20210501133000 -0300" stop="20210501153000 -0300" channel="RO: TELEKOM SPORT 4">
+    <title lang="ro">Fotbal Spania: Celta Vigo - Levante</title>
+  </programme>
+  <programme start="20210501153000 -0300" stop="20210501160000 -0300" channel="RO: TELEKOM SPORT 4">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20210501160000 -0300" stop="20210501180000 -0300" channel="RO: TELEKOM SPORT 4">
+    <title lang="ro">Italia: Verona - Spezia</title>
+  </programme>
+  <programme start="20210501180000 -0300" stop="20210502070000 -0300" channel="RO: TELEKOM SPORT 4">
+    <title lang="ro">Fotbal Cupa Germaniei: Borussia Dortmund - Kiel</title>
+  </programme>
+  <programme start="20210502070000 -0300" stop="20210502090000 -0300" channel="RO: TELEKOM SPORT 4">
+    <title lang="ro">Fotbal Uefa Europa League: Manchester Utd - Roma</title>
+  </programme>
+  <programme start="20210502090000 -0300" stop="20210502100000 -0300" channel="RO: TELEKOM SPORT 4">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20210502100000 -0300" stop="20210502120000 -0300" channel="RO: TELEKOM SPORT 4">
+    <title lang="ro">Fotbal Italia: Crotone - Inter</title>
+  </programme>
+  <programme start="20210502120000 -0300" stop="20210502123000 -0300" channel="RO: TELEKOM SPORT 4">
+    <title lang="ro">Magazin Uefa Champions League</title>
+  </programme>
+  <programme start="20210502123000 -0300" stop="20210502133000 -0300" channel="RO: TELEKOM SPORT 4">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20210502133000 -0300" stop="20210502153000 -0300" channel="RO: TELEKOM SPORT 4">
+    <title lang="ro">Fotbal Spania: Huesca - Real Sociedad</title>
+  </programme>
+  <programme start="20210502153000 -0300" stop="20210502160000 -0300" channel="RO: TELEKOM SPORT 4">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20210502160000 -0300" stop="20210502180000 -0300" channel="RO: TELEKOM SPORT 4">
+    <title lang="ro">Italia: Napoli - Cagliari</title>
+  </programme>
+  <programme start="20210502180000 -0300" stop="20210503070000 -0300" channel="RO: TELEKOM SPORT 4">
+    <title lang="ro">Fotbal Cupa Germaniei: Werder - Leipzig</title>
+  </programme>
+  <programme start="20210429063000 +0200" stop="20210429081500 +0200" channel="EXYU: SPORT KLUB 1(HR)">
+    <title lang="hr">Turska liga: Rize - Besiktas</title>
+  </programme>
+  <programme start="20210429081500 +0200" stop="20210429082500 +0200" channel="EXYU: SPORT KLUB 1(HR)">
+    <title lang="hr">Na današnji dan</title>
+  </programme>
+  <programme start="20210429082500 +0200" stop="20210429085500 +0200" channel="EXYU: SPORT KLUB 1(HR)">
+    <title lang="hr">F1 - GP Confidential (03)</title>
+  </programme>
+  <programme start="20210429085500 +0200" stop="20210429092500 +0200" channel="EXYU: SPORT KLUB 1(HR)">
+    <title lang="hr">TV Automagazin (28.4.)</title>
+  </programme>
+  <programme start="20210429092500 +0200" stop="20210429110000 +0200" channel="EXYU: SPORT KLUB 1(HR)">
+    <title lang="hr">Euroleague - Playoffs (G3): Bayern - Armani</title>
+  </programme>
+  <programme start="20210429110000 +0200" stop="20210429190000 +0200" channel="EXYU: SPORT KLUB 1(HR)">
+    <title lang="hr">WTA 1000 Madrid &amp; ATP Munich - 1/8 Finala (UŽIVO)</title>
+  </programme>
+  <programme start="20210429190000 +0200" stop="20210429210000 +0200" channel="EXYU: SPORT KLUB 1(HR)">
+    <title lang="hr">Španjolska liga: Barcelona - Granada (UŽIVO)</title>
+  </programme>
+  <programme start="20210429210000 +0200" stop="20210429230000 +0200" channel="EXYU: SPORT KLUB 1(HR)">
+    <title lang="hr">Euroleague - Playoffs (G4): Real Madrid - Efes (UŽIVO)</title>
+  </programme>
+  <programme start="20210429230000 +0200" stop="20210429234500 +0200" channel="EXYU: SPORT KLUB 1(HR)">
+    <title lang="hr">SK Kviz: Rizik ili oprez (5. sezona - 23 FINALE)</title>
+  </programme>
+  <programme start="20210429234500 +0200" stop="20210430004500 +0200" channel="EXYU: SPORT KLUB 1(HR)">
+    <title lang="hr">SK Studio - NFL: First Down</title>
+  </programme>
+  <programme start="20210430004500 +0200" stop="20210430014000 +0200" channel="EXYU: SPORT KLUB 1(HR)">
+    <title lang="hr">Pit Box - Moto GP Special</title>
+  </programme>
+  <programme start="20210430014000 +0200" stop="20210430020000 +0200" channel="EXYU: SPORT KLUB 1(HR)">
+    <title lang="hr">SK Mix &amp; Zlatni momenti YU sporta</title>
+  </programme>
+  <programme start="20210430020000 +0200" stop="20210430052500 +0200" channel="EXYU: SPORT KLUB 1(HR)">
+    <title lang="hr">NFL: Draft 2021 (UŽIVO)</title>
+  </programme>
+  <programme start="20210430052500 +0200" stop="20210430061500 +0200" channel="EXYU: SPORT KLUB 1(HR)">
+    <title lang="hr">Trans World Sport</title>
+  </programme>
+  <programme start="20210430061500 +0200" stop="20210430064500 +0200" channel="EXYU: SPORT KLUB 1(HR)">
+    <title lang="hr">La Liga Chronicles</title>
+  </programme>
+  <programme start="20210430064500 +0200" stop="20210430071500 +0200" channel="EXYU: SPORT KLUB 1(HR)">
+    <title lang="hr">La Liga Magazin</title>
+  </programme>
+  <programme start="20210430071500 +0200" stop="20210430081500 +0200" channel="EXYU: SPORT KLUB 1(HR)">
+    <title lang="hr">Pit Box - Moto GP Special</title>
+  </programme>
+  <programme start="20210430081500 +0200" stop="20210430091000 +0200" channel="EXYU: SPORT KLUB 1(HR)">
+    <title lang="hr">Premier League Netbusters</title>
+  </programme>
+  <programme start="20210430091000 +0200" stop="20210430110000 +0200" channel="EXYU: SPORT KLUB 1(HR)">
+    <title lang="hr">Cheslea TV (Liga prvaka 1/2 Finale - 1 st leg): Real Madrid - Chelsea</title>
+  </programme>
+  <programme start="20210430110000 +0200" stop="20210430190000 +0200" channel="EXYU: SPORT KLUB 1(HR)">
+    <title lang="hr">WTA 1000 Madrid &amp; ATP Munich - 1/4 Finale (UŽIVO)</title>
+  </programme>
+  <programme start="20210430190000 +0200" stop="20210430210000 +0200" channel="EXYU: SPORT KLUB 1(HR)">
+    <title lang="hr">Euroleague - Playoffs (G4): Zenit - Barcelona (UŽIVO)</title>
+  </programme>
+  <programme start="20210430210000 +0200" stop="20210430230000 +0200" channel="EXYU: SPORT KLUB 1(HR)">
+    <title lang="hr">Premier League: Southampton - Leicester (UŽIVO)</title>
+  </programme>
+  <programme start="20210430230000 +0200" stop="20210430235500 +0200" channel="EXYU: SPORT KLUB 1(HR)">
+    <title lang="hr">ESKanyola - Emisija SK o Španjolskoj ligi</title>
+  </programme>
+  <programme start="20210430235500 +0200" stop="20210501002000 +0200" channel="EXYU: SPORT KLUB 1(HR)">
+    <title lang="hr">Premier League Magazin</title>
+  </programme>
+  <programme start="20210501002000 +0200" stop="20210501010500 +0200" channel="EXYU: SPORT KLUB 1(HR)">
+    <title lang="hr">Turska liga - Pregled izvanrednog kola</title>
+  </programme>
+  <programme start="20210501010500 +0200" stop="20210501033000 +0200" channel="EXYU: SPORT KLUB 1(HR)">
+    <title lang="hr">NHL: Montreal - Winnipeg (UŽIVO)</title>
+  </programme>
+  <programme start="20210501033000 +0200" stop="20210501051500 +0200" channel="EXYU: SPORT KLUB 1(HR)">
+    <title lang="hr">Juventus TV (Serie A): Fiorentina - Juventus</title>
+  </programme>
+  <programme start="20210501051500 +0200" stop="20210501054500 +0200" channel="EXYU: SPORT KLUB 1(HR)">
+    <title lang="hr">Španjolska liga - Najava</title>
+  </programme>
+  <programme start="20210429061500 +0200" stop="20210429080000 +0200" channel="EXYU: SPORT KLUB 2 (HR)">
+    <title lang="hr">Euroleague Playoffs (G3): Fenerbahce - CSKA</title>
+  </programme>
+  <programme start="20210429080000 +0200" stop="20210429100000 +0200" channel="EXYU: SPORT KLUB 2 (HR)">
+    <title lang="hr">Japanska liga: Nagoya - Kawasaki (UŽIVO)</title>
+  </programme>
+  <programme start="20210429100000 +0200" stop="20210429103000 +0200" channel="EXYU: SPORT KLUB 2 (HR)">
+    <title lang="hr">La Liga magazin</title>
+  </programme>
+  <programme start="20210429103000 +0200" stop="20210429110000 +0200" channel="EXYU: SPORT KLUB 2 (HR)">
+    <title lang="hr">ATP Uncovered</title>
+  </programme>
+  <programme start="20210429110000 +0200" stop="20210429113000 +0200" channel="EXYU: SPORT KLUB 2 (HR)">
+    <title lang="hr">WTA 1000 Madrid &amp; ATP Munich (UŽIVO)</title>
+  </programme>
+  <programme start="20210429113000 +0200" stop="20210429194500 +0200" channel="EXYU: SPORT KLUB 2 (HR)">
+    <title lang="hr">ATP Estoril &amp; WTA 1000 Madrid &amp; ATP Munich (UŽIVO)</title>
+  </programme>
+  <programme start="20210429194500 +0200" stop="20210429200000 +0200" channel="EXYU: SPORT KLUB 2 (HR)">
+    <title lang="hr">Zlatni momenti YU sporta</title>
+  </programme>
+  <programme start="20210429200000 +0200" stop="20210429202500 +0200" channel="EXYU: SPORT KLUB 2 (HR)">
+    <title lang="hr">Premier League magazin</title>
+  </programme>
+  <programme start="20210429202500 +0200" stop="20210429221500 +0200" channel="EXYU: SPORT KLUB 2 (HR)">
+    <title lang="hr">KHL - Gagarin Cup (G6): Avangard - CSKA</title>
+  </programme>
+  <programme start="20210429221500 +0200" stop="20210429231000 +0200" channel="EXYU: SPORT KLUB 2 (HR)">
+    <title lang="hr">Trans World Sport</title>
+  </programme>
+  <programme start="20210429231000 +0200" stop="20210430010500 +0200" channel="EXYU: SPORT KLUB 2 (HR)">
+    <title lang="hr">Slovački Kup - 1/2 Finale (1st leg): Slovan - Banska Bystrica</title>
+  </programme>
+  <programme start="20210430010500 +0200" stop="20210430033000 +0200" channel="EXYU: SPORT KLUB 2 (HR)">
+    <title lang="hr">NHL: Tampa Bay - Dallas (UŽIVO)</title>
+  </programme>
+  <programme start="20210430033000 +0200" stop="20210430051000 +0200" channel="EXYU: SPORT KLUB 2 (HR)">
+    <title lang="hr">Kineska košarka Playoffs - FINALE (G2): Liaoning - Guangdong</title>
+  </programme>
+  <programme start="20210430051000 +0200" stop="20210430065500 +0200" channel="EXYU: SPORT KLUB 2 (HR)">
+    <title lang="hr">Turska liga: Alanya - Fenerbahce</title>
+  </programme>
+  <programme start="20210430065500 +0200" stop="20210430072500 +0200" channel="EXYU: SPORT KLUB 2 (HR)">
+    <title lang="hr">Ekstremni svijet sporta</title>
+  </programme>
+  <programme start="20210430072500 +0200" stop="20210430091000 +0200" channel="EXYU: SPORT KLUB 2 (HR)">
+    <title lang="hr">Španjolska liga: Barcelona - Granada</title>
+  </programme>
+  <programme start="20210430091000 +0200" stop="20210430092500 +0200" channel="EXYU: SPORT KLUB 2 (HR)">
+    <title lang="hr">SK Moments &amp; Galerija Slavnih</title>
+  </programme>
+  <programme start="20210430092500 +0200" stop="20210430110000 +0200" channel="EXYU: SPORT KLUB 2 (HR)">
+    <title lang="hr">Euroleague Playoffs (G4): Real Madrid - Efes</title>
+  </programme>
+  <programme start="20210430110000 +0200" stop="20210430113000 +0200" channel="EXYU: SPORT KLUB 2 (HR)">
+    <title lang="hr">ATP Munich - 1/4 Finale &amp; WTA Madrid (UŽIVO)</title>
+  </programme>
+  <programme start="20210430113000 +0200" stop="20210430210000 +0200" channel="EXYU: SPORT KLUB 2 (HR)">
+    <title lang="hr">ATP Estoril ATP Munich - 1/4 Finala &amp; WTA 1000 Madrid (UŽIVO)</title>
+  </programme>
+  <programme start="20210430210000 +0200" stop="20210430215500 +0200" channel="EXYU: SPORT KLUB 2 (HR)">
+    <title lang="hr">Moto GP Jerez: Moto GP - Trening 2</title>
+  </programme>
+  <programme start="20210430215500 +0200" stop="20210430230000 +0200" channel="EXYU: SPORT KLUB 2 (HR)">
+    <title lang="hr">F1 Portugal - Trening 2</title>
+  </programme>
+  <programme start="20210430230000 +0200" stop="20210501003000 +0200" channel="EXYU: SPORT KLUB 2 (HR)">
+    <title lang="hr">Euroleague Playoffs (G4): Zenit - Barcelona</title>
+  </programme>
+  <programme start="20210501003000 +0200" stop="20210501021500 +0200" channel="EXYU: SPORT KLUB 2 (HR)">
+    <title lang="hr">MUTV (Liga Europe 1/2 Finale - 1st leg): Manchester United - Roma</title>
+  </programme>
+  <programme start="20210501021500 +0200" stop="20210501024000 +0200" channel="EXYU: SPORT KLUB 2 (HR)">
+    <title lang="hr">Najava Premier League</title>
+  </programme>
+  <programme start="20210501024000 +0200" stop="20210501041000 +0200" channel="EXYU: SPORT KLUB 2 (HR)">
+    <title lang="hr">Turska košarka: Besiktas - Afyon</title>
+  </programme>
+  <programme start="20210429061500 +0200" stop="20210429075500 +0200" channel="EXYU: SPORT KLUB 3 (HR)">
+    <title lang="hr">NHL: Ottawa - Vancouver</title>
+  </programme>
+  <programme start="20210429075500 +0200" stop="20210429093000 +0200" channel="EXYU: SPORT KLUB 3 (HR)">
+    <title lang="hr">Euroleague Playoffs (G3): Zenit - Barcelona</title>
+  </programme>
+  <programme start="20210429093000 +0200" stop="20210429111500 +0200" channel="EXYU: SPORT KLUB 3 (HR)">
+    <title lang="hr">Španjolska liga: Athletic Bilbao - Valladolid</title>
+  </programme>
+  <programme start="20210429111500 +0200" stop="20210429114500 +0200" channel="EXYU: SPORT KLUB 3 (HR)">
+    <title lang="hr">F1 - GP Confidential</title>
+  </programme>
+  <programme start="20210429114500 +0200" stop="20210429133500 +0200" channel="EXYU: SPORT KLUB 3 (HR)">
+    <title lang="hr">CONCACAF Liga prvaka - 1/4 Finale (1st leg): Columbus - Monterrey</title>
+  </programme>
+  <programme start="20210429133500 +0200" stop="20210429154500 +0200" channel="EXYU: SPORT KLUB 3 (HR)">
+    <title lang="hr">Kineska košarka Playoffs - FINALE (G2): Liaoning - Guangdong (UŽIVO)</title>
+  </programme>
+  <programme start="20210429154500 +0200" stop="20210429160000 +0200" channel="EXYU: SPORT KLUB 3 (HR)">
+    <title lang="hr">SK Mix &amp; Galerija slavnih</title>
+  </programme>
+  <programme start="20210429160000 +0200" stop="20210429170000 +0200" channel="EXYU: SPORT KLUB 3 (HR)">
+    <title lang="hr">Pregled Premier League</title>
+  </programme>
+  <programme start="20210429170000 +0200" stop="20210429190000 +0200" channel="EXYU: SPORT KLUB 3 (HR)">
+    <title lang="hr">Nogomet - Liga prvaka Azije: Pakhtakor - Air Force (UŽIVO)</title>
+  </programme>
+  <programme start="20210429190000 +0200" stop="20210429192500 +0200" channel="EXYU: SPORT KLUB 3 (HR)">
+    <title lang="hr">Fast Zone</title>
+  </programme>
+  <programme start="20210429192500 +0200" stop="20210429200000 +0200" channel="EXYU: SPORT KLUB 3 (HR)">
+    <title lang="hr">Ekstremni svijet sporta</title>
+  </programme>
+  <programme start="20210429200000 +0200" stop="20210429220000 +0200" channel="EXYU: SPORT KLUB 3 (HR)">
+    <title lang="hr">Nogomet - Liga prvaka Azije: Al Sadd - Al Nassr (UŽIVO)</title>
+  </programme>
+  <programme start="20210429220000 +0200" stop="20210429222500 +0200" channel="EXYU: SPORT KLUB 3 (HR)">
+    <title lang="hr">Premier League magazin</title>
+  </programme>
+  <programme start="20210429222500 +0200" stop="20210430001000 +0200" channel="EXYU: SPORT KLUB 3 (HR)">
+    <title lang="hr">NHL: Montreal - Toronto</title>
+  </programme>
+  <programme start="20210430001000 +0200" stop="20210430003500 +0200" channel="EXYU: SPORT KLUB 3 (HR)">
+    <title lang="hr">Mobil 1 The Grid</title>
+  </programme>
+  <programme start="20210430003500 +0200" stop="20210430010500 +0200" channel="EXYU: SPORT KLUB 3 (HR)">
+    <title lang="hr">Premier League Netbusters</title>
+  </programme>
+  <programme start="20210430010500 +0200" stop="20210430033000 +0200" channel="EXYU: SPORT KLUB 3 (HR)">
+    <title lang="hr">NHL: NY Rangers - NY Islanders (UŽIVO)</title>
+  </programme>
+  <programme start="20210430033000 +0200" stop="20210430051500 +0200" channel="EXYU: SPORT KLUB 3 (HR)">
+    <title lang="hr">Nogomet - Liga prvaka Azije: Al Wehdat - Foolad</title>
+  </programme>
+  <programme start="20210430051500 +0200" stop="20210430060000 +0200" channel="EXYU: SPORT KLUB 3 (HR)">
+    <title lang="hr">SK Kviz: Rizik ili oprez - FINALE</title>
+  </programme>
+  <programme start="20210430060000 +0200" stop="20210430071500 +0200" channel="EXYU: SPORT KLUB 3 (HR)">
+    <title lang="hr">Moto GP Portugal: Moto GP - TRKA</title>
+  </programme>
+  <programme start="20210430071500 +0200" stop="20210430090000 +0200" channel="EXYU: SPORT KLUB 3 (HR)">
+    <title lang="hr">NHL: Edmonton - Calgary</title>
+  </programme>
+  <programme start="20210430090000 +0200" stop="20210430095000 +0200" channel="EXYU: SPORT KLUB 3 (HR)">
+    <title lang="hr">Moto GP Jerez: Moto 3 - Trening 1 (UŽIVO)</title>
+  </programme>
+  <programme start="20210430095000 +0200" stop="20210430105000 +0200" channel="EXYU: SPORT KLUB 3 (HR)">
+    <title lang="hr">Moto GP Jerez: Moto GP - Trening 1 (UŽIVO)</title>
+  </programme>
+  <programme start="20210430105000 +0200" stop="20210430114500 +0200" channel="EXYU: SPORT KLUB 3 (HR)">
+    <title lang="hr">Moto GP Jerez: Moto 2 - Trening 1 (UŽIVO)</title>
+  </programme>
+  <programme start="20210430114500 +0200" stop="20210430124000 +0200" channel="EXYU: SPORT KLUB 3 (HR)">
+    <title lang="hr">Pit Box - Moto GP Special</title>
+  </programme>
+  <programme start="20210430124000 +0200" stop="20210430131500 +0200" channel="EXYU: SPORT KLUB 3 (HR)">
+    <title lang="hr">Auto, emisija o automobilima</title>
+  </programme>
+  <programme start="20210430131500 +0200" stop="20210430140500 +0200" channel="EXYU: SPORT KLUB 3 (HR)">
+    <title lang="hr">Moto GP Jerez: Moto 3 - Trening 2 (UŽIVO)</title>
+  </programme>
+  <programme start="20210430140500 +0200" stop="20210430150500 +0200" channel="EXYU: SPORT KLUB 3 (HR)">
+    <title lang="hr">Moto GP Jerez: Moto GP - Trening 2 (UŽIVO)</title>
+  </programme>
+  <programme start="20210430150500 +0200" stop="20210430160000 +0200" channel="EXYU: SPORT KLUB 3 (HR)">
+    <title lang="hr">Moto GP Jerez: Moto 2 - Trening 2 (UŽIVO)</title>
+  </programme>
+  <programme start="20210430160000 +0200" stop="20210430171500 +0200" channel="EXYU: SPORT KLUB 3 (HR)">
+    <title lang="hr">F1 Portugal - Trening 2 (UŽIVO)</title>
+  </programme>
+  <programme start="20210430171500 +0200" stop="20210430191000 +0200" channel="EXYU: SPORT KLUB 3 (HR)">
+    <title lang="hr">Turska košarka: Besiktas - Afyon (UŽIVO)</title>
+  </programme>
+  <programme start="20210430191000 +0200" stop="20210430194500 +0200" channel="EXYU: SPORT KLUB 3 (HR)">
+    <title lang="hr">Premier League Match Pack</title>
+  </programme>
+  <programme start="20210430194500 +0200" stop="20210430214000 +0200" channel="EXYU: SPORT KLUB 3 (HR)">
+    <title lang="hr">Nogomet - Liga prvaka Azije: Esteghlal - Al Shorta (UŽIVO)</title>
+  </programme>
+  <programme start="20210430214000 +0200" stop="20210430221500 +0200" channel="EXYU: SPORT KLUB 3 (HR)">
+    <title lang="hr">ATP Uncovered</title>
+  </programme>
+  <programme start="20210430221500 +0200" stop="20210501001000 +0200" channel="EXYU: SPORT KLUB 3 (HR)">
+    <title lang="hr">Nogomet - Liga prvaka Azije: Al Sadd - Al Nassr (UŽIVO)</title>
+  </programme>
+  <programme start="20210501001000 +0200" stop="20210501020000 +0200" channel="EXYU: SPORT KLUB 3 (HR)">
+    <title lang="hr">E-Sports: League of Legends - EU Masters (Play-in)</title>
+  </programme>
+  <programme start="20210501020000 +0200" stop="20210501034500 +0200" channel="EXYU: SPORT KLUB 3 (HR)">
+    <title lang="hr">FA Youth Cup - 1/4 Finale: Liverpool - Arsenal</title>
+  </programme>
+  <programme start="20210501034500 +0200" stop="20210501043000 +0200" channel="EXYU: SPORT KLUB 3 (HR)">
+    <title lang="hr">Turska liga - Pregled vanrednog kola</title>
+  </programme>
+  <programme start="20210429063500 +0200" stop="20210429082000 +0200" channel="EXYU: SPORT KLUB 4 (HR)">
+    <title lang="hr">Slovenski Kup - 1/4 Finale: Nafta - Olimpija</title>
+  </programme>
+  <programme start="20210429082000 +0200" stop="20210429100500 +0200" channel="EXYU: SPORT KLUB 4 (HR)">
+    <title lang="hr">Austrijska liga Playoff: Salzburg - Wolfsberger</title>
+  </programme>
+  <programme start="20210429100500 +0200" stop="20210429115000 +0200" channel="EXYU: SPORT KLUB 4 (HR)">
+    <title lang="hr">FA Youth Cup - 1/4 Finale: Newcastle - Aston Villa</title>
+  </programme>
+  <programme start="20210429115000 +0200" stop="20210429133500 +0200" channel="EXYU: SPORT KLUB 4 (HR)">
+    <title lang="hr">Španjolska liga: Villarreal - Barcelona</title>
+  </programme>
+  <programme start="20210429133500 +0200" stop="20210429140000 +0200" channel="EXYU: SPORT KLUB 4 (HR)">
+    <title lang="hr">Rivalitet legendi</title>
+  </programme>
+  <programme start="20210429140000 +0200" stop="20210429155000 +0200" channel="EXYU: SPORT KLUB 4 (HR)">
+    <title lang="hr">Premier League: Aston Villa - WBA</title>
+  </programme>
+  <programme start="20210429155000 +0200" stop="20210429162000 +0200" channel="EXYU: SPORT KLUB 4 (HR)">
+    <title lang="hr">Pregled Championship</title>
+  </programme>
+  <programme start="20210429162000 +0200" stop="20210429163000 +0200" channel="EXYU: SPORT KLUB 4 (HR)">
+    <title lang="hr">SK Moments</title>
+  </programme>
+  <programme start="20210429163000 +0200" stop="20210429182500 +0200" channel="EXYU: SPORT KLUB 4 (HR)">
+    <title lang="hr">Nogomet - Liga prvaka Azije: Persepolis - Al Rayyan (UŽIVO)</title>
+  </programme>
+  <programme start="20210429182500 +0200" stop="20210429184500 +0200" channel="EXYU: SPORT KLUB 4 (HR)">
+    <title lang="hr">KHL Ice Week</title>
+  </programme>
+  <programme start="20210429184500 +0200" stop="20210429204500 +0200" channel="EXYU: SPORT KLUB 4 (HR)">
+    <title lang="hr">Rumunjska liga: Universitatea - Steaua (UŽIVO)</title>
+  </programme>
+  <programme start="20210429204500 +0200" stop="20210429214000 +0200" channel="EXYU: SPORT KLUB 4 (HR)">
+    <title lang="hr">Trans World Sport</title>
+  </programme>
+  <programme start="20210429214000 +0200" stop="20210429220500 +0200" channel="EXYU: SPORT KLUB 4 (HR)">
+    <title lang="hr">Posveta zvijezdama</title>
+  </programme>
+  <programme start="20210429220500 +0200" stop="20210429235000 +0200" channel="EXYU: SPORT KLUB 4 (HR)">
+    <title lang="hr">Nogomet - Liga prvaka Azije: Pakhtakor - Air Force</title>
+  </programme>
+  <programme start="20210429235000 +0200" stop="20210430013500 +0200" channel="EXYU: SPORT KLUB 4 (HR)">
+    <title lang="hr">Španjolska liga: Barcelona - Granada</title>
+  </programme>
+  <programme start="20210430013500 +0200" stop="20210430020500 +0200" channel="EXYU: SPORT KLUB 4 (HR)">
+    <title lang="hr">Premier League magazin</title>
+  </programme>
+  <programme start="20210430020500 +0200" stop="20210430023000 +0200" channel="EXYU: SPORT KLUB 4 (HR)">
+    <title lang="hr">Uži izbor</title>
+  </programme>
+  <programme start="20210430023000 +0200" stop="20210430041500 +0200" channel="EXYU: SPORT KLUB 4 (HR)">
+    <title lang="hr">Turska liga: Rize - Besiktas</title>
+  </programme>
+  <programme start="20210430041500 +0200" stop="20210430060000 +0200" channel="EXYU: SPORT KLUB 4 (HR)">
+    <title lang="hr">CONCACAF Liga prvaka - 1/4 Finale (1st leg): Atlanta - Philadelphia</title>
+  </programme>
+  <programme start="20210430060000 +0200" stop="20210430074500 +0200" channel="EXYU: SPORT KLUB 4 (HR)">
+    <title lang="hr">Nogomet - Liga prvaka Azije: Goa - Al Wahda</title>
+  </programme>
+  <programme start="20210430074500 +0200" stop="20210430093000 +0200" channel="EXYU: SPORT KLUB 4 (HR)">
+    <title lang="hr">Turska liga: Goztepe - Trabzon</title>
+  </programme>
+  <programme start="20210430093000 +0200" stop="20210430111500 +0200" channel="EXYU: SPORT KLUB 4 (HR)">
+    <title lang="hr">Slovački Kup - 1/2 Finale (1st leg): Slovan - Banska Bystrica</title>
+  </programme>
+  <programme start="20210430111500 +0200" stop="20210430130000 +0200" channel="EXYU: SPORT KLUB 4 (HR)">
+    <title lang="hr">Španjolska liga: Eibar - Sociedad</title>
+  </programme>
+  <programme start="20210430130000 +0200" stop="20210430132500 +0200" channel="EXYU: SPORT KLUB 4 (HR)">
+    <title lang="hr">Rivalitet legendi</title>
+  </programme>
+  <programme start="20210430132500 +0200" stop="20210430150000 +0200" channel="EXYU: SPORT KLUB 4 (HR)">
+    <title lang="hr">Eurocup - FINALE (G1): Monaco - UNICS</title>
+  </programme>
+  <programme start="20210430150000 +0200" stop="20210430170000 +0200" channel="EXYU: SPORT KLUB 4 (HR)">
+    <title lang="hr">Turska košarka: Orman - Karsiyaka (UŽIVO)</title>
+  </programme>
+  <programme start="20210430170000 +0200" stop="20210430173000 +0200" channel="EXYU: SPORT KLUB 4 (HR)">
+    <title lang="hr">Premier League magazin</title>
+  </programme>
+  <programme start="20210430173000 +0200" stop="20210430175500 +0200" channel="EXYU: SPORT KLUB 4 (HR)">
+    <title lang="hr">Kronike La Lige</title>
+  </programme>
+  <programme start="20210430175500 +0200" stop="20210430183000 +0200" channel="EXYU: SPORT KLUB 4 (HR)">
+    <title lang="hr">Nogomet - Road to EURO 2021 magazin</title>
+  </programme>
+  <programme start="20210430183000 +0200" stop="20210430202500 +0200" channel="EXYU: SPORT KLUB 4 (HR)">
+    <title lang="hr">Bjeloruska liga: Vitebsk - Gomel (UŽIVO)</title>
+  </programme>
+  <programme start="20210430202500 +0200" stop="20210430210000 +0200" channel="EXYU: SPORT KLUB 4 (HR)">
+    <title lang="hr">Premier League Match Pack</title>
+  </programme>
+  <programme start="20210430210000 +0200" stop="20210430230000 +0200" channel="EXYU: SPORT KLUB 4 (HR)">
+    <title lang="hr">Nogomet - Liga prvaka Azije: Istiklol - AGMK (UŽIVO)</title>
+  </programme>
+  <programme start="20210430230000 +0200" stop="20210430232500 +0200" channel="EXYU: SPORT KLUB 4 (HR)">
+    <title lang="hr">Posveta zvijezdama</title>
+  </programme>
+  <programme start="20210430232500 +0200" stop="20210501011000 +0200" channel="EXYU: SPORT KLUB 4 (HR)">
+    <title lang="hr">FA Youth Cup - 1/4 Finale: Ipswich - Sheffield United</title>
+  </programme>
+  <programme start="20210501011000 +0200" stop="20210501025500 +0200" channel="EXYU: SPORT KLUB 4 (HR)">
+    <title lang="hr">Islandska liga: Valur - Akranes</title>
+  </programme>
+  <programme start="20210501025500 +0200" stop="20210501032000 +0200" channel="EXYU: SPORT KLUB 4 (HR)">
+    <title lang="hr">Uži izbor</title>
+  </programme>
+  <programme start="20210501032000 +0200" stop="20210501050500 +0200" channel="EXYU: SPORT KLUB 4 (HR)">
+    <title lang="hr">Nogomet - Liga prvaka Azije: Al Hilal - Al Ahli Dubai</title>
+  </programme>
+  <programme start="20210429110000 +0200" stop="20210429113000 +0200" channel="EXYU: SPORT KLUB 6 (HR)">
+    <title lang="hr">WTA 1000 Madrid (UŽIVO)</title>
+  </programme>
+  <programme start="20210429113000 +0200" stop="20210429190000 +0200" channel="EXYU: SPORT KLUB 6 (HR)">
+    <title lang="hr">ATP Estoril &amp; WTA 1000 Madrid (UŽIVO)</title>
+  </programme>
+  <programme start="20210429190000 +0200" stop="20210430110000 +0200" channel="EXYU: SPORT KLUB 6 (HR)">
+    <title lang="hr">Nogomet - Liga prvaka Azije: Goa - Al Wahda (UŽIVO)</title>
+  </programme>
+  <programme start="20210430110000 +0200" stop="20210430113000 +0200" channel="EXYU: SPORT KLUB 6 (HR)">
+    <title lang="hr">WTA 1000 Madrid (UŽIVO)</title>
+  </programme>
+  <programme start="20210430113000 +0200" stop="20210430200000 +0200" channel="EXYU: SPORT KLUB 6 (HR)">
+    <title lang="hr">ATP Estoril - 1/4 Finale &amp; WTA 1000 Madrid (UŽIVO)</title>
+  </programme>
+  <programme start="20210429062500 +0200" stop="20210429094000 +0200" channel="EXYU: SPORTKLUB HD">
+    <title lang="hr">Moto-utrke - FIM CEV Repsol: Estoril</title>
+  </programme>
+  <programme start="20210429094000 +0200" stop="20210429112500 +0200" channel="EXYU: SPORTKLUB HD">
+    <title lang="hr">NHL: Dallas - Carolina</title>
+  </programme>
+  <programme start="20210429112500 +0200" stop="20210429125500 +0200" channel="EXYU: SPORTKLUB HD">
+    <title lang="hr">Euroleague Playoffs (G3): Real Madrid - Efes</title>
+  </programme>
+  <programme start="20210429125500 +0200" stop="20210429144000 +0200" channel="EXYU: SPORTKLUB HD">
+    <title lang="hr">KHL - Gagarin Cup (G6): Avangard - CSKA</title>
+  </programme>
+  <programme start="20210429144000 +0200" stop="20210429153000 +0200" channel="EXYU: SPORTKLUB HD">
+    <title lang="hr">Pregled NASCAR: Talladega 500</title>
+  </programme>
+  <programme start="20210429153000 +0200" stop="20210429172500 +0200" channel="EXYU: SPORTKLUB HD">
+    <title lang="hr">Slovački kup - 1/2 Finale (1st leg): Slovan - Banska Bystrica (UŽIVO)</title>
+  </programme>
+  <programme start="20210429172500 +0200" stop="20210429185500 +0200" channel="EXYU: SPORTKLUB HD">
+    <title lang="hr">Euroleague Playoffs (G3): Fenerbahce - CSKA</title>
+  </programme>
+  <programme start="20210429185500 +0200" stop="20210429193000 +0200" channel="EXYU: SPORTKLUB HD">
+    <title lang="hr">Mobil 1 The Grid</title>
+  </programme>
+  <programme start="20210429193000 +0200" stop="20210429213000 +0200" channel="EXYU: SPORTKLUB HD">
+    <title lang="hr">Turska liga: Alanya - Fenerbahce (UŽIVO)</title>
+  </programme>
+  <programme start="20210429213000 +0200" stop="20210429220000 +0200" channel="EXYU: SPORTKLUB HD">
+    <title lang="hr">Ekstremni svijet sporta</title>
+  </programme>
+  <programme start="20210429220000 +0200" stop="20210429222500 +0200" channel="EXYU: SPORTKLUB HD">
+    <title lang="hr">Fast Zone</title>
+  </programme>
+  <programme start="20210429222500 +0200" stop="20210429232000 +0200" channel="EXYU: SPORTKLUB HD">
+    <title lang="hr">Pregled ATP 500 Barcelona</title>
+  </programme>
+  <programme start="20210429232000 +0200" stop="20210430005000 +0200" channel="EXYU: SPORTKLUB HD">
+    <title lang="hr">Euroleague Playoffs (G4): Real Madrid - Efes</title>
+  </programme>
+  <programme start="20210430005000 +0200" stop="20210430030000 +0200" channel="EXYU: SPORTKLUB HD">
+    <title lang="hr">ATP Estoril &amp; ATP Munich</title>
+  </programme>
+  <programme start="20210430030000 +0200" stop="20210430053000 +0200" channel="EXYU: SPORTKLUB HD">
+    <title lang="hr">NHL: Edmonton - Calgary (UŽIVO)</title>
+  </programme>
+  <programme start="20210430053000 +0200" stop="20210430060000 +0200" channel="EXYU: SPORTKLUB HD">
+    <title lang="hr">Auto, emisija o automobilima</title>
+  </programme>
+  <programme start="20210430060000 +0200" stop="20210430072500 +0200" channel="EXYU: SPORTKLUB HD">
+    <title lang="hr">NHL: Winnipeg - Edmonton</title>
+  </programme>
+  <programme start="20210430072500 +0200" stop="20210430091000 +0200" channel="EXYU: SPORTKLUB HD">
+    <title lang="hr">Kineska košarka Playoffs - FINALE (G2): Liaoning - Guangdong</title>
+  </programme>
+  <programme start="20210430091000 +0200" stop="20210430123000 +0200" channel="EXYU: SPORTKLUB HD">
+    <title lang="hr">NASCAR: Talladega 500</title>
+  </programme>
+  <programme start="20210430123000 +0200" stop="20210430133500 +0200" channel="EXYU: SPORTKLUB HD">
+    <title lang="hr">F1 Portugal - Trening 1 (UŽIVO)</title>
+  </programme>
+  <programme start="20210430133500 +0200" stop="20210430143000 +0200" channel="EXYU: SPORTKLUB HD">
+    <title lang="hr">Trans World Sport</title>
+  </programme>
+  <programme start="20210430143000 +0200" stop="20210430160000 +0200" channel="EXYU: SPORTKLUB HD">
+    <title lang="hr">Euroleague Playoffs (G3): Zenit - Barcelona</title>
+  </programme>
+  <programme start="20210430160000 +0200" stop="20210430180000 +0200" channel="EXYU: SPORTKLUB HD">
+    <title lang="hr">Litvanska liga: Hegelmann - Suduva (UŽIVO)</title>
+  </programme>
+  <programme start="20210430180000 +0200" stop="20210430200000 +0200" channel="EXYU: SPORTKLUB HD">
+    <title lang="hr">Eurocup - FINALE (G2): UNICS - Monaco (UŽIVO)</title>
+  </programme>
+  <programme start="20210430200000 +0200" stop="20210430203000 +0200" channel="EXYU: SPORTKLUB HD">
+    <title lang="hr">Ekstremni svijet sporta (17)</title>
+  </programme>
+  <programme start="20210430203000 +0200" stop="20210430204500 +0200" channel="EXYU: SPORTKLUB HD">
+    <title lang="hr">SK Mix</title>
+  </programme>
+  <programme start="20210430204500 +0200" stop="20210430224500 +0200" channel="EXYU: SPORTKLUB HD">
+    <title lang="hr">Euroleague Playoffs (G4): Bayern - Armani (UŽIVO)</title>
+  </programme>
+  <programme start="20210430224500 +0200" stop="20210501002500 +0200" channel="EXYU: SPORTKLUB HD">
+    <title lang="hr">NHL: Pittsburgh - Boston</title>
+  </programme>
+  <programme start="20210501002500 +0200" stop="20210501050000 +0200" channel="EXYU: SPORTKLUB HD">
+    <title lang="hr">ATP Estoril ATP Munich - 1/4 Finala &amp; WTA 1000 Madrid</title>
+  </programme>
+  <programme start="20210429070000 +0200" stop="20210429083000 +0200" channel="EXYU: ARENA SPORT 1 HKURD: (HR)">
+    <title lang="hr">Rukomet: SLOVAČKA - HRVATSKA, ehf euro cup</title>
+  </programme>
+  <programme start="20210429083000 +0200" stop="20210429100000 +0200" channel="EXYU: ARENA SPORT 1 HKURD: (HR)">
+    <title lang="hr">Košarka: ZADAR - CRVENA ZVEZDA, aba liga</title>
+  </programme>
+  <programme start="20210429100000 +0200" stop="20210429120000 +0200" channel="EXYU: ARENA SPORT 1 HKURD: (HR)">
+    <title lang="hr">Nogomet: ANGERS - MONACO, francuska liga</title>
+  </programme>
+  <programme start="20210429120000 +0200" stop="20210429140000 +0200" channel="EXYU: ARENA SPORT 1 HKURD: (HR)">
+    <title lang="hr">Nogomet: VARAŽDIN - ISTRA, ht prva liga</title>
+  </programme>
+  <programme start="20210429140000 +0200" stop="20210429150000 +0200" channel="EXYU: ARENA SPORT 1 HKURD: (HR)">
+    <title lang="hr">Nogomet: PREGLED KOLA, talijanska liga</title>
+  </programme>
+  <programme start="20210429150000 +0200" stop="20210429170000 +0200" channel="EXYU: ARENA SPORT 1 HKURD: (HR)">
+    <title lang="hr">Futsal: 1/4 FINALE: INTER - GAZPROM UGRA, uefa champions league (UŽIVO)</title>
+  </programme>
+  <programme start="20210429170000 +0200" stop="20210429190000 +0200" channel="EXYU: ARENA SPORT 1 HKURD: (HR)">
+    <title lang="hr">odbojka: HAOK MLADOST - OK MARINA KAŠTELA 3.UTAKMICA, superliga žene (UŽIVO)</title>
+  </programme>
+  <programme start="20210429190000 +0200" stop="20210429193000 +0200" channel="EXYU: ARENA SPORT 1 HKURD: (HR)">
+    <title lang="hr">Nogomet: PREGLED KOLA, belgijska liga</title>
+  </programme>
+  <programme start="20210429193000 +0200" stop="20210429200000 +0200" channel="EXYU: ARENA SPORT 1 HKURD: (HR)">
+    <title lang="hr">Nogomet: MAGAZIN EUROPALIGE, magazin</title>
+  </programme>
+  <programme start="20210429200000 +0200" stop="20210429200000 +0200" channel="EXYU: ARENA SPORT 1 HKURD: (HR)">
+    <title lang="hr">Nogomet: EMISIJA EUROPALIGA, europaliga (UŽIVO)</title>
+  </programme>
+  <programme start="20210429200000 +0200" stop="20210429210000 +0200" channel="EXYU: ARENA SPORT 1 HKURD: (HR)">
+    <title lang="hr">Rukomet: POLJSKA - SLOVENIJA, kvalifikacije za euro (UŽIVO)</title>
+  </programme>
+  <programme start="20210429210000 +0200" stop="20210429230000 +0200" channel="EXYU: ARENA SPORT 1 HKURD: (HR)">
+    <title lang="hr">Nogomet: VILLARREAL - ARSENAL, europaliga (UŽIVO)</title>
+  </programme>
+  <programme start="20210429230000 +0200" stop="20210430000000 +0200" channel="EXYU: ARENA SPORT 1 HKURD: (HR)">
+    <title lang="hr">Nogomet: EMISIJA EUROPALIGA/SAŽETAK UTAKMICA, europaliga (UŽIVO)</title>
+  </programme>
+  <programme start="20210430000000 +0200" stop="20210430020000 +0200" channel="EXYU: ARENA SPORT 1 HKURD: (HR)">
+    <title lang="hr">Nogomet: RACING - SPORTING C, copa libertadores (UŽIVO)</title>
+  </programme>
+  <programme start="20210430020000 +0200" stop="20210430040000 +0200" channel="EXYU: ARENA SPORT 1 HKURD: (HR)">
+    <title lang="hr">Nogomet: SAO PAULO - RENTISTAS, copa libertadores (UŽIVO)</title>
+  </programme>
+  <programme start="20210430040000 +0200" stop="20210430050000 +0200" channel="EXYU: ARENA SPORT 1 HKURD: (HR)">
+    <title lang="hr">Dokumentarni film: LET THEM WEAR TOWELLS</title>
+  </programme>
+  <programme start="20210430050000 +0200" stop="20210430070000 +0200" channel="EXYU: ARENA SPORT 1 HKURD: (HR)">
+    <title lang="hr">Nogomet: POLUFINALE 1 VILLARREAL - ARSENAL, europaliga</title>
+  </programme>
+  <programme start="20210430070000 +0200" stop="20210430090000 +0200" channel="EXYU: ARENA SPORT 1 HKURD: (HR)">
+    <title lang="hr">Nogomet: RIVER PLATE - JUNIOR, copa libertadores</title>
+  </programme>
+  <programme start="20210430090000 +0200" stop="20210430110000 +0200" channel="EXYU: ARENA SPORT 1 HKURD: (HR)">
+    <title lang="hr">Nogomet: REIMS - O. MARSEILLE, francuska liga</title>
+  </programme>
+  <programme start="20210430110000 +0200" stop="20210430113500 +0200" channel="EXYU: ARENA SPORT 1 HKURD: (HR)">
+    <title lang="hr">Dokumentarni film: SHORTLIST 90</title>
+  </programme>
+  <programme start="20210430113500 +0200" stop="20210430133000 +0200" channel="EXYU: ARENA SPORT 1 HKURD: (HR)">
+    <title lang="hr">Nogomet: ADELAIDE UNITED - WESTERN UNITED, australska liga (UŽIVO)</title>
+  </programme>
+  <programme start="20210430133000 +0200" stop="20210430151000 +0200" channel="EXYU: ARENA SPORT 1 HKURD: (HR)">
+    <title lang="hr">Nogomet: POLUFINALE 1 VILLARREAL - ARSENAL, europaliga</title>
+  </programme>
+  <programme start="20210430151000 +0200" stop="20210430170000 +0200" channel="EXYU: ARENA SPORT 1 HKURD: (HR)">
+    <title lang="hr">Nogomet: POLUFINALE 2 MANCHESTER UNITED - ROMA, europaliga</title>
+  </programme>
+  <programme start="20210430170000 +0200" stop="20210430173000 +0200" channel="EXYU: ARENA SPORT 1 HKURD: (HR)">
+    <title lang="hr">Nogomet: NAJAVA FRANCUSKE LIGE, francuska liga</title>
+  </programme>
+  <programme start="20210430173000 +0200" stop="20210430180000 +0200" channel="EXYU: ARENA SPORT 1 HKURD: (HR)">
+    <title lang="hr">Nogomet: TOTAL ITALIAN FOOTBALL, magazin</title>
+  </programme>
+  <programme start="20210430180000 +0200" stop="20210430200000 +0200" channel="EXYU: ARENA SPORT 1 HKURD: (HR)">
+    <title lang="hr">Nogomet: LOKOMOTIVA - ŠIBENIK, ht prva liga (UŽIVO)</title>
+  </programme>
+  <programme start="20210430200000 +0200" stop="20210430211500 +0200" channel="EXYU: ARENA SPORT 1 HKURD: (HR)">
+    <title lang="hr">Futsal: OLMISSUM - FUTSAL DINAMO 1.UTAKMICA, prva liga (UŽIVO)</title>
+  </programme>
+  <programme start="20210430211500 +0200" stop="20210430220000 +0200" channel="EXYU: ARENA SPORT 1 HKURD: (HR)">
+    <title lang="hr">Košarka: MURCIA - VALENCIA, endesa (UŽIVO)</title>
+  </programme>
+  <programme start="20210430220000 +0200" stop="20210430223000 +0200" channel="EXYU: ARENA SPORT 1 HKURD: (HR)">
+    <title lang="hr">Košarka: NBA ACTION, emisija</title>
+  </programme>
+  <programme start="20210430223000 +0200" stop="20210430230000 +0200" channel="EXYU: ARENA SPORT 1 HKURD: (HR)">
+    <title lang="hr">Nogomet: MAGAZIN LIGE PRVAKA, emisija</title>
+  </programme>
+  <programme start="20210430230000 +0200" stop="20210501010000 +0200" channel="EXYU: ARENA SPORT 1 HKURD: (HR)">
+    <title lang="hr">Nogomet: O.MARSEILLE - STRASBOURG, francuska liga</title>
+  </programme>
+  <programme start="20210501010000 +0200" stop="20210501020000 +0200" channel="EXYU: ARENA SPORT 1 HKURD: (HR)">
+    <title lang="hr">Dokumentrani film: SEPP BLATTER</title>
+  </programme>
+  <programme start="20210501020000 +0200" stop="20210501043000 +0200" channel="EXYU: ARENA SPORT 1 HKURD: (HR)">
+    <title lang="hr">Košarka: BROOKLYN - PORTLAND, nba liga (UŽIVO)</title>
+  </programme>
+  <programme start="20210501043000 +0200" stop="20210501050000 +0200" channel="EXYU: ARENA SPORT 1 HKURD: (HR)">
+    <title lang="hr">Košarka: NBA ACTION, emisija</title>
+  </programme>
+  <programme start="20210501050000 +0200" stop="20210501070000 +0200" channel="EXYU: ARENA SPORT 1 HKURD: (HR)">
+    <title lang="hr">Nogomet: MANCHESTER UNITED - ROMA, europaliga polufinale 2</title>
+  </programme>
+  <programme start="20210501070000 +0200" stop="20210501093000 +0200" channel="EXYU: ARENA SPORT 1 HKURD: (HR)">
+    <title lang="hr">Nogomet: WERDER BREMEN - RB LEIPZIG, njemački kup polufinale</title>
+  </programme>
+  <programme start="20210501093000 +0200" stop="20210501111000 +0200" channel="EXYU: ARENA SPORT 1 HKURD: (HR)">
+    <title lang="hr">Nogomet: SUWON - POHANG STEELERS, korejska liga (UŽIVO)</title>
+  </programme>
+  <programme start="20210501111000 +0200" stop="20210501130000 +0200" channel="EXYU: ARENA SPORT 1 HKURD: (HR)">
+    <title lang="hr">Nogomet: WESTERN SYDNEY WANDERERS - SYDNEY, australska liga (UŽIVO)</title>
+  </programme>
+  <programme start="20210501130000 +0200" stop="20210501150000 +0200" channel="EXYU: ARENA SPORT 1 HKURD: (HR)">
+    <title lang="hr">Futsal: CORDOBA - OSASUNA, španjolska liga (UŽIVO)</title>
+  </programme>
+  <programme start="20210501150000 +0200" stop="20210501170000 +0200" channel="EXYU: ARENA SPORT 1 HKURD: (HR)">
+    <title lang="hr">Futsal: POLUFINALE 1, uefa champions league (UŽIVO)</title>
+  </programme>
+  <programme start="20210501170000 +0200" stop="20210501190000 +0200" channel="EXYU: ARENA SPORT 1 HKURD: (HR)">
+    <title lang="hr">Nogomet: PSG - LENS, francuska liga (UŽIVO)</title>
+  </programme>
+  <programme start="20210501190000 +0200" stop="20210501203000 +0200" channel="EXYU: ARENA SPORT 1 HKURD: (HR)">
+    <title lang="hr">Nogomet: NEW YORK - CHICAGO FIRE, mls (UŽIVO)</title>
+  </programme>
+  <programme start="20210501203000 +0200" stop="20210501210000 +0200" channel="EXYU: ARENA SPORT 1 HKURD: (HR)">
+    <title lang="hr">Nogomet: BASEL - ST GALLEN, švicarska liga (UŽIVO)</title>
+  </programme>
+  <programme start="20210501210000 +0200" stop="20210501230000 +0200" channel="EXYU: ARENA SPORT 1 HKURD: (HR)">
+    <title lang="hr">Nogomet: LILLE - NICE, francuska liga (UŽIVO)</title>
+  </programme>
+  <programme start="20210501230000 +0200" stop="20210502010000 +0200" channel="EXYU: ARENA SPORT 1 HKURD: (HR)">
+    <title lang="hr">Nogomet: SLAVEN BELUPO - DINAMO, ht prva liga</title>
+  </programme>
+  <programme start="20210502010000 +0200" stop="20210502030000 +0200" channel="EXYU: ARENA SPORT 1 HKURD: (HR)">
+    <title lang="hr">Nogomet: NEW ENGLAND - ATLANTA, mls liga (UŽIVO)</title>
+  </programme>
+  <programme start="20210502030000 +0200" stop="20210502050000 +0200" channel="EXYU: ARENA SPORT 1 HKURD: (HR)">
+    <title lang="hr">Nogomet: MILAN - BENEVENTO, talijanska liga</title>
+  </programme>
+  <programme start="20210502050000 +0200" stop="20210502070000 +0200" channel="EXYU: ARENA SPORT 1 HKURD: (HR)">
+    <title lang="hr">Nogomet: VILLARREAL - ARSENAL, europaliga polufinale 1</title>
+  </programme>
+  <programme start="20210502070000 +0200" stop="20210502080000 +0200" channel="EXYU: ARENA SPORT 1 HKURD: (HR)">
+    <title lang="hr">Nogomet: SAŽETAK POLUFINALA, europaliga</title>
+  </programme>
+  <programme start="20210502080000 +0200" stop="20210502100000 +0200" channel="EXYU: ARENA SPORT 1 HKURD: (HR)">
+    <title lang="hr">Nogomet: MELBOURNE VICTORY - CENTRAL COST M., australska liga (UŽIVO)</title>
+  </programme>
+  <programme start="20210502100000 +0200" stop="20210502120000 +0200" channel="EXYU: ARENA SPORT 1 HKURD: (HR)">
+    <title lang="hr">Nogomet: HAJDUK - RIJEKA, ht prva liga</title>
+  </programme>
+  <programme start="20210502120000 +0200" stop="20210502130000 +0200" channel="EXYU: ARENA SPORT 1 HKURD: (HR)">
+    <title lang="hr">Dokumentrani film: SEPP BLATTER</title>
+  </programme>
+  <programme start="20210502130000 +0200" stop="20210502150000 +0200" channel="EXYU: ARENA SPORT 1 HKURD: (HR)">
+    <title lang="hr">Nogomet: RANGERS - CELTIC, škotska premijer liga (UŽIVO)</title>
+  </programme>
+  <programme start="20210502150000 +0200" stop="20210502170000 +0200" channel="EXYU: ARENA SPORT 1 HKURD: (HR)">
+    <title lang="hr">Nogomet: BOLOGNA - FIORENTINA, talijanska liga (UŽIVO)</title>
+  </programme>
+  <programme start="20210502170000 +0200" stop="20210502170000 +0200" channel="EXYU: ARENA SPORT 1 HKURD: (HR)">
+    <title lang="hr">Dokumentarni film: JULES RIMET TROPHY</title>
+  </programme>
+  <programme start="20210502170000 +0200" stop="20210502173000 +0200" channel="EXYU: ARENA SPORT 1 HKURD: (HR)">
+    <title lang="hr">Nogomet: MONTPELLIER - ST ETIENNE, francuska liga (UŽIVO)</title>
+  </programme>
+  <programme start="20210502173000 +0200" stop="20210502190000 +0200" channel="EXYU: ARENA SPORT 1 HKURD: (HR)">
+    <title lang="hr">Nogomet: VIITORUL - DINAMO B., rumunjska liga (UŽIVO)</title>
+  </programme>
+  <programme start="20210502190000 +0200" stop="20210502210000 +0200" channel="EXYU: ARENA SPORT 1 HKURD: (HR)">
+    <title lang="hr">Nogomet: NASHVILLE - INTER MIAMI, mls liga (UŽIVO)</title>
+  </programme>
+  <programme start="20210502210000 +0200" stop="20210502213000 +0200" channel="EXYU: ARENA SPORT 1 HKURD: (HR)">
+    <title lang="hr">Košarka: NBA ACTION, emisija</title>
+  </programme>
+  <programme start="20210502213000 +0200" stop="20210503000000 +0200" channel="EXYU: ARENA SPORT 1 HKURD: (HR)">
+    <title lang="hr">Košarka: MILWAUKEE - BROOKLYN, nba liga (UŽIVO)</title>
+  </programme>
+  <programme start="20210429070000 +0200" stop="20210429080000 +0200" channel="EXYU: ARENA SPORT 2 HKURD: (HR)">
+    <title lang="hr">Dokumentarni film: TYSON</title>
+  </programme>
+  <programme start="20210429080000 +0200" stop="20210429103000 +0200" channel="EXYU: ARENA SPORT 2 HKURD: (HR)">
+    <title lang="hr">Baseball: KANSAS CITY - LA ANGELS, mlb</title>
+  </programme>
+  <programme start="20210429103000 +0200" stop="20210429120000 +0200" channel="EXYU: ARENA SPORT 2 HKURD: (HR)">
+    <title lang="hr">Košarka: BADALONA - MANRESA, endesa</title>
+  </programme>
+  <programme start="20210429120000 +0200" stop="20210429140000 +0200" channel="EXYU: ARENA SPORT 2 HKURD: (HR)">
+    <title lang="hr">Ragbi: ENGLESKA - ITALIJA, kup 6 nacija</title>
+  </programme>
+  <programme start="20210429140000 +0200" stop="20210429160000 +0200" channel="EXYU: ARENA SPORT 2 HKURD: (HR)">
+    <title lang="hr">Rukomet: GRČKA - SRBIJA, kvalifikacije za euro (UŽIVO)</title>
+  </programme>
+  <programme start="20210429160000 +0200" stop="20210429180000 +0200" channel="EXYU: ARENA SPORT 2 HKURD: (HR)">
+    <title lang="hr">Rukomet: BIH - NJEMAČKA, kvalifikacije za euro (UŽIVO)</title>
+  </programme>
+  <programme start="20210429180000 +0200" stop="20210429194000 +0200" channel="EXYU: ARENA SPORT 2 HKURD: (HR)">
+    <title lang="hr">Rukomet: HRVATSKA - SLOVAČKA, ehf euro cup (UŽIVO)</title>
+  </programme>
+  <programme start="20210429194000 +0200" stop="20210429203000 +0200" channel="EXYU: ARENA SPORT 2 HKURD: (HR)">
+    <title lang="hr">Dokumentarni film: DIPLOMAT</title>
+  </programme>
+  <programme start="20210429203000 +0200" stop="20210429211500 +0200" channel="EXYU: ARENA SPORT 2 HKURD: (HR)">
+    <title lang="hr">Košarka: ENDESA MAGAZIN, magazin</title>
+  </programme>
+  <programme start="20210429211500 +0200" stop="20210429231500 +0200" channel="EXYU: ARENA SPORT 2 HKURD: (HR)">
+    <title lang="hr">Nogomet: RIVER PLATE - JUNIOR, copa libertadores</title>
+  </programme>
+  <programme start="20210429231500 +0200" stop="20210430000000 +0200" channel="EXYU: ARENA SPORT 2 HKURD: (HR)">
+    <title lang="hr">automobilizam: WRC HRVATSKA COMPLETE HL, wrc</title>
+  </programme>
+  <programme start="20210430000000 +0200" stop="20210430020000 +0200" channel="EXYU: ARENA SPORT 2 HKURD: (HR)">
+    <title lang="hr">Nogomet: POLUFINALE MANCHESTER UNITED - ROMA, europaliga</title>
+  </programme>
+  <programme start="20210430020000 +0200" stop="20210430050000 +0200" channel="EXYU: ARENA SPORT 2 HKURD: (HR)">
+    <title lang="hr">Baseball: KANSAS CITY - LA ANGELS, mlb</title>
+  </programme>
+  <programme start="20210430050000 +0200" stop="20210430070000 +0200" channel="EXYU: ARENA SPORT 2 HKURD: (HR)">
+    <title lang="hr">Ragbi: IRSKA - ENGLESKA, kup 6 nacija</title>
+  </programme>
+  <programme start="20210430070000 +0200" stop="20210430080000 +0200" channel="EXYU: ARENA SPORT 2 HKURD: (HR)">
+    <title lang="hr">Dokumentarni film: LET THEM WEAR TOWELLS</title>
+  </programme>
+  <programme start="20210430080000 +0200" stop="20210430103000 +0200" channel="EXYU: ARENA SPORT 2 HKURD: (HR)">
+    <title lang="hr">Baseball: CLEVELAND - MINNESOTA, mlb</title>
+  </programme>
+  <programme start="20210430103000 +0200" stop="20210430120000 +0200" channel="EXYU: ARENA SPORT 2 HKURD: (HR)">
+    <title lang="hr">Košarka: BASKONIA - UNICAJA, endesa</title>
+  </programme>
+  <programme start="20210430120000 +0200" stop="20210430140000 +0200" channel="EXYU: ARENA SPORT 2 HKURD: (HR)">
+    <title lang="hr">Ragbi: WALES - IRSKA, kup 6 nacija</title>
+  </programme>
+  <programme start="20210430140000 +0200" stop="20210430160000 +0200" channel="EXYU: ARENA SPORT 2 HKURD: (HR)">
+    <title lang="hr">Košarka: DENVER - TORONTO, nba liga</title>
+  </programme>
+  <programme start="20210430160000 +0200" stop="20210430180000 +0200" channel="EXYU: ARENA SPORT 2 HKURD: (HR)">
+    <title lang="hr">Nogomet: PACOS FEREIRA - BELENSENS, portugalska liga (UŽIVO)</title>
+  </programme>
+  <programme start="20210430180000 +0200" stop="20210430200000 +0200" channel="EXYU: ARENA SPORT 2 HKURD: (HR)">
+    <title lang="hr">Košarka: ŠKRLJEVO - ZABOK, ht premijer liga (UŽIVO)</title>
+  </programme>
+  <programme start="20210430200000 +0200" stop="20210430220000 +0200" channel="EXYU: ARENA SPORT 2 HKURD: (HR)">
+    <title lang="hr">Nogomet: VELEŽ - BORAC, mtel premijer liga</title>
+  </programme>
+  <programme start="20210430220000 +0200" stop="20210501000000 +0200" channel="EXYU: ARENA SPORT 2 HKURD: (HR)">
+    <title lang="hr">Nogomet: LOKOMOTIVA - ŠIBENIK, ht prva liga</title>
+  </programme>
+  <programme start="20210501000000 +0200" stop="20210501020000 +0200" channel="EXYU: ARENA SPORT 2 HKURD: (HR)">
+    <title lang="hr">Nogomet: WERDER BREMEN - RB LEIPZIG, njemački kup polufinale</title>
+  </programme>
+  <programme start="20210501020000 +0200" stop="20210501040000 +0200" channel="EXYU: ARENA SPORT 2 HKURD: (HR)">
+    <title lang="hr">Nogomet: COLON - ARSENAL, argentinska liga (UŽIVO)</title>
+  </programme>
+  <programme start="20210501040000 +0200" stop="20210501070000 +0200" channel="EXYU: ARENA SPORT 2 HKURD: (HR)">
+    <title lang="hr">Bejzbol: ATLANTA - CHICAGO, mlb</title>
+  </programme>
+  <programme start="20210501070000 +0200" stop="20210501080000 +0200" channel="EXYU: ARENA SPORT 2 HKURD: (HR)">
+    <title lang="hr">Dokumentarni film: THE DAY THE SERIES STOPPED</title>
+  </programme>
+  <programme start="20210501080000 +0200" stop="20210501103000 +0200" channel="EXYU: ARENA SPORT 2 HKURD: (HR)">
+    <title lang="hr">Bejzbol: ST LOUIS - PHILADELPHIA, mlb</title>
+  </programme>
+  <programme start="20210501103000 +0200" stop="20210501120000 +0200" channel="EXYU: ARENA SPORT 2 HKURD: (HR)">
+    <title lang="hr">Košarka: VRIJEDNOSNICE OSIJEK - SONIK P., ht premijer liga</title>
+  </programme>
+  <programme start="20210501120000 +0200" stop="20210501141000 +0200" channel="EXYU: ARENA SPORT 2 HKURD: (HR)">
+    <title lang="hr">Ragbi: ŠKOTSKA - ITALIJA, kup 6 nacija</title>
+  </programme>
+  <programme start="20210501141000 +0200" stop="20210501153000 +0200" channel="EXYU: ARENA SPORT 2 HKURD: (HR)">
+    <title lang="hr">Rukomet: MAĐARSKA - HRVATSKA, ehf cup 2021 (UŽIVO)</title>
+  </programme>
+  <programme start="20210501153000 +0200" stop="20210501170000 +0200" channel="EXYU: ARENA SPORT 2 HKURD: (HR)">
+    <title lang="hr">Dokumentarni film: ANGRY SKY</title>
+  </programme>
+  <programme start="20210501170000 +0200" stop="20210501190000 +0200" channel="EXYU: ARENA SPORT 2 HKURD: (HR)">
+    <title lang="hr">Odbojka: CONEGLIANO - VAKIFBANK, cev liga prvaka žene (UŽIVO)</title>
+  </programme>
+  <programme start="20210501190000 +0200" stop="20210501203000 +0200" channel="EXYU: ARENA SPORT 2 HKURD: (HR)">
+    <title lang="hr">Rukomet: MALAGA - LOKOMOTIVA, europski kup žene finale (UŽIVO)</title>
+  </programme>
+  <programme start="20210501203000 +0200" stop="20210501230000 +0200" channel="EXYU: ARENA SPORT 2 HKURD: (HR)">
+    <title lang="hr">Odbojka: KEDZIERZYN - TRENTINO, cev liga prvaka (UŽIVO)</title>
+  </programme>
+  <programme start="20210501230000 +0200" stop="20210502010000 +0200" channel="EXYU: ARENA SPORT 2 HKURD: (HR)">
+    <title lang="hr">Nogomet: COLON - ARSENAL, argentinska liga</title>
+  </programme>
+  <programme start="20210502010000 +0200" stop="20210502030000 +0200" channel="EXYU: ARENA SPORT 2 HKURD: (HR)">
+    <title lang="hr">Automobilizam: GENESYS 300 UTRKA, indycar (UŽIVO)</title>
+  </programme>
+  <programme start="20210502030000 +0200" stop="20210502040000 +0200" channel="EXYU: ARENA SPORT 2 HKURD: (HR)">
+    <title lang="hr">Automobilizam: COMPLETE HL, wrc hrvatska</title>
+  </programme>
+  <programme start="20210502040000 +0200" stop="20210502050000 +0200" channel="EXYU: ARENA SPORT 2 HKURD: (HR)">
+    <title lang="hr">Dokumentarni film: DIPLOMAT</title>
+  </programme>
+  <programme start="20210502050000 +0200" stop="20210502070000 +0200" channel="EXYU: ARENA SPORT 2 HKURD: (HR)">
+    <title lang="hr">Ragbi: WALES - IRSKA, kup 6 nacija</title>
+  </programme>
+  <programme start="20210502070000 +0200" stop="20210502080000 +0200" channel="EXYU: ARENA SPORT 2 HKURD: (HR)">
+    <title lang="hr">Dokumentarni film: THE SON OF KONGO</title>
+  </programme>
+  <programme start="20210502080000 +0200" stop="20210502103000 +0200" channel="EXYU: ARENA SPORT 2 HKURD: (HR)">
+    <title lang="hr">Bejzbol: KANSAS CITY - LA ANGELS, mlb</title>
+  </programme>
+  <programme start="20210502103000 +0200" stop="20210502120000 +0200" channel="EXYU: ARENA SPORT 2 HKURD: (HR)">
+    <title lang="hr">Košarka: UNICAJA - BADALONA, endesa</title>
+  </programme>
+  <programme start="20210502120000 +0200" stop="20210502130000 +0200" channel="EXYU: ARENA SPORT 2 HKURD: (HR)">
+    <title lang="hr">Nogomet: 1/4 FINALE UZVRATI, europaliga</title>
+  </programme>
+  <programme start="20210502130000 +0200" stop="20210502150000 +0200" channel="EXYU: ARENA SPORT 2 HKURD: (HR)">
+    <title lang="hr">Nogomet: BORDEAUX - RENNES, francuska liga (UŽIVO)</title>
+  </programme>
+  <programme start="20210502150000 +0200" stop="20210502170000 +0200" channel="EXYU: ARENA SPORT 2 HKURD: (HR)">
+    <title lang="hr">Nogomet: BREST - NANTES, francuska liga (UŽIVO)</title>
+  </programme>
+  <programme start="20210502170000 +0200" stop="20210502183000 +0200" channel="EXYU: ARENA SPORT 2 HKURD: (HR)">
+    <title lang="hr">Rukomet: MAĐARSKA - HRVATSKA, ehf cup 2021</title>
+  </programme>
+  <programme start="20210502183000 +0200" stop="20210502203000 +0200" channel="EXYU: ARENA SPORT 2 HKURD: (HR)">
+    <title lang="hr">Košarka: ZARAGOZA - REAL MADRID, endesa (UŽIVO)</title>
+  </programme>
+  <programme start="20210502203000 +0200" stop="20210502223000 +0200" channel="EXYU: ARENA SPORT 2 HKURD: (HR)">
+    <title lang="hr">Nogomet: ACADEMICA - UNIVERSITATEA, rumunjska liga (UŽIVO)</title>
+  </programme>
+  <programme start="20210502223000 +0200" stop="20210502234000 +0200" channel="EXYU: ARENA SPORT 2 HKURD: (HR)">
+    <title lang="hr">Dokumentarni film: 250 STEPENIKA</title>
+  </programme>
+  <programme start="20210502234000 +0200" stop="20210503010000 +0200" channel="EXYU: ARENA SPORT 2 HKURD: (HR)">
+    <title lang="hr">Nogomet: ROSARIO - NEWELLS OLD BOYS, argentinska liga (UŽIVO)</title>
+  </programme>
+  <programme start="20210429070000 +0200" stop="20210429090000 +0200" channel="EXYU: ARENA SPORT 3 HKURD: (HR)">
+    <title lang="hr">Nogomet: INTER - VERONA, talijanska liga</title>
+  </programme>
+  <programme start="20210429090000 +0200" stop="20210429093000 +0200" channel="EXYU: ARENA SPORT 3 HKURD: (HR)">
+    <title lang="hr">Dokumentarni film: SHORTLIST EP.55</title>
+  </programme>
+  <programme start="20210429093000 +0200" stop="20210429100000 +0200" channel="EXYU: ARENA SPORT 3 HKURD: (HR)">
+    <title lang="hr">Dokumentarni film: SHORTLIST EP.56</title>
+  </programme>
+  <programme start="20210429100000 +0200" stop="20210429120000 +0200" channel="EXYU: ARENA SPORT 3 HKURD: (HR)">
+    <title lang="hr">Nogomet: FARENSE - PORTIMONENSE, portugalska liga</title>
+  </programme>
+  <programme start="20210429120000 +0200" stop="20210429140000 +0200" channel="EXYU: ARENA SPORT 3 HKURD: (HR)">
+    <title lang="hr">Nogomet: ROMA - AJAX, europaliga</title>
+  </programme>
+  <programme start="20210429140000 +0200" stop="20210429145500 +0200" channel="EXYU: ARENA SPORT 3 HKURD: (HR)">
+    <title lang="hr">emisija: KAO NEKADA, emisija (UŽIVO)</title>
+  </programme>
+  <programme start="20210429145500 +0200" stop="20210429165500 +0200" channel="EXYU: ARENA SPORT 3 HKURD: (HR)">
+    <title lang="hr">Nogomet: MULTIPRIJENOS, superliga srbije (UŽIVO)</title>
+  </programme>
+  <programme start="20210429165500 +0200" stop="20210429190000 +0200" channel="EXYU: ARENA SPORT 3 HKURD: (HR)">
+    <title lang="hr">Nogomet: PROLETER - PARTIZAN, superliga srbije (UŽIVO)</title>
+  </programme>
+  <programme start="20210429190000 +0200" stop="20210429210000 +0200" channel="EXYU: ARENA SPORT 3 HKURD: (HR)">
+    <title lang="hr">Nogomet: NICE - MONTPELLIER, francuska liga</title>
+  </programme>
+  <programme start="20210429210000 +0200" stop="20210429230000 +0200" channel="EXYU: ARENA SPORT 3 HKURD: (HR)">
+    <title lang="hr">Nogomet: MANCHESTER UNITED - ROMA, europaliga (UŽIVO)</title>
+  </programme>
+  <programme start="20210429230000 +0200" stop="20210430000000 +0200" channel="EXYU: ARENA SPORT 3 HKURD: (HR)">
+    <title lang="hr">Nogomet: PRVA LIGA, emisija</title>
+  </programme>
+  <programme start="20210430000000 +0200" stop="20210430020000 +0200" channel="EXYU: ARENA SPORT 3 HKURD: (HR)">
+    <title lang="hr">Nogomet: POLUFINALE VILLARREAL - ARSENAL, europaliga</title>
+  </programme>
+  <programme start="20210430020000 +0200" stop="20210430030000 +0200" channel="EXYU: ARENA SPORT 3 HKURD: (HR)">
+    <title lang="hr">Dokumentarni film: MNR: ENG/NJEM</title>
+  </programme>
+  <programme start="20210430030000 +0200" stop="20210430050000 +0200" channel="EXYU: ARENA SPORT 3 HKURD: (HR)">
+    <title lang="hr">Nogomet: NICE - MONTPELLIER, francuska liga</title>
+  </programme>
+  <programme start="20210430050000 +0200" stop="20210430064500 +0200" channel="EXYU: ARENA SPORT 3 HKURD: (HR)">
+    <title lang="hr">Nogomet: VARAŽDIN - ISTRA, ht prva liga</title>
+  </programme>
+  <programme start="20210430064500 +0200" stop="20210430071500 +0200" channel="EXYU: ARENA SPORT 3 HKURD: (HR)">
+    <title lang="hr">Emisija: HOMMAGE 11</title>
+  </programme>
+  <programme start="20210430071500 +0200" stop="20210430090000 +0200" channel="EXYU: ARENA SPORT 3 HKURD: (HR)">
+    <title lang="hr">Nogomet: TORINO - NAPOLI, talijanska liga</title>
+  </programme>
+  <programme start="20210430090000 +0200" stop="20210430093000 +0200" channel="EXYU: ARENA SPORT 3 HKURD: (HR)">
+    <title lang="hr">Dokumentarni film: SHORTLIST 57</title>
+  </programme>
+  <programme start="20210430093000 +0200" stop="20210430100000 +0200" channel="EXYU: ARENA SPORT 3 HKURD: (HR)">
+    <title lang="hr">Dokumentarni film: SHORTLIST 58</title>
+  </programme>
+  <programme start="20210430100000 +0200" stop="20210430120000 +0200" channel="EXYU: ARENA SPORT 3 HKURD: (HR)">
+    <title lang="hr">Nogomet: BELENENSES - GIL VICENTE, portugalska liga</title>
+  </programme>
+  <programme start="20210430120000 +0200" stop="20210430140000 +0200" channel="EXYU: ARENA SPORT 3 HKURD: (HR)">
+    <title lang="hr">Nogomet: POLUFINALE MANCHESTER UNITED - ROMA, europaliga</title>
+  </programme>
+  <programme start="20210430140000 +0200" stop="20210430150000 +0200" channel="EXYU: ARENA SPORT 3 HKURD: (HR)">
+    <title lang="hr">Dokumentarni film: MNR: POR/ŠPA</title>
+  </programme>
+  <programme start="20210430150000 +0200" stop="20210430170000 +0200" channel="EXYU: ARENA SPORT 3 HKURD: (HR)">
+    <title lang="hr">Nogomet: RACING - SPORTING C, copa libertadores</title>
+  </programme>
+  <programme start="20210430170000 +0200" stop="20210430190000 +0200" channel="EXYU: ARENA SPORT 3 HKURD: (HR)">
+    <title lang="hr">Nogomet: LENS - NIMES, francuska liga</title>
+  </programme>
+  <programme start="20210430190000 +0200" stop="20210430210000 +0200" channel="EXYU: ARENA SPORT 3 HKURD: (HR)">
+    <title lang="hr">Nogomet: LAZIO - MILAN, talijanska liga</title>
+  </programme>
+  <programme start="20210430210000 +0200" stop="20210430230000 +0200" channel="EXYU: ARENA SPORT 3 HKURD: (HR)">
+    <title lang="hr">Nogomet: O.MARSEILLE - STRASBOURG, francuska liga (UŽIVO)</title>
+  </programme>
+  <programme start="20210430230000 +0200" stop="20210501000000 +0200" channel="EXYU: ARENA SPORT 3 HKURD: (HR)">
+    <title lang="hr">Nogomet: PREGLED KOLA, talijanska liga</title>
+  </programme>
+  <programme start="20210501000000 +0200" stop="20210501020000 +0200" channel="EXYU: ARENA SPORT 3 HKURD: (HR)">
+    <title lang="hr">Nogomet: VILLARREAL - ARSENAL, europaliga polufinale</title>
+  </programme>
+  <programme start="20210501020000 +0200" stop="20210501030000 +0200" channel="EXYU: ARENA SPORT 3 HKURD: (HR)">
+    <title lang="hr">Dokumentarni film: MNR:BRA/ARG</title>
+  </programme>
+  <programme start="20210501030000 +0200" stop="20210501050000 +0200" channel="EXYU: ARENA SPORT 3 HKURD: (HR)">
+    <title lang="hr">Nogomet: O. MARSEILLE - STRASBOURG, francuska liga</title>
+  </programme>
+  <programme start="20210501050000 +0200" stop="20210501064500 +0200" channel="EXYU: ARENA SPORT 3 HKURD: (HR)">
+    <title lang="hr">Nogomet: LOKOMOTIVA - ŠIBENIK, ht prva liga</title>
+  </programme>
+  <programme start="20210501064500 +0200" stop="20210501071500 +0200" channel="EXYU: ARENA SPORT 3 HKURD: (HR)">
+    <title lang="hr">Dokumentarni film: HOMMAGE EP.12</title>
+  </programme>
+  <programme start="20210501071500 +0200" stop="20210501090000 +0200" channel="EXYU: ARENA SPORT 3 HKURD: (HR)">
+    <title lang="hr">Nogomet: LAZIO - MILAN, talijanska liga</title>
+  </programme>
+  <programme start="20210501090000 +0200" stop="20210501093000 +0200" channel="EXYU: ARENA SPORT 3 HKURD: (HR)">
+    <title lang="hr">Dokumentarni film: SHORTLIST EP.59</title>
+  </programme>
+  <programme start="20210501093000 +0200" stop="20210501100000 +0200" channel="EXYU: ARENA SPORT 3 HKURD: (HR)">
+    <title lang="hr">Dokumentarni film: SHORTLIST EP.60</title>
+  </programme>
+  <programme start="20210501100000 +0200" stop="20210501120000 +0200" channel="EXYU: ARENA SPORT 3 HKURD: (HR)">
+    <title lang="hr">Nogomet: PACOS FEREIRA - BELENSES, portugalska liga</title>
+  </programme>
+  <programme start="20210501120000 +0200" stop="20210501140000 +0200" channel="EXYU: ARENA SPORT 3 HKURD: (HR)">
+    <title lang="hr">Nogomet: O. MARSEILLE - STRASBOURG, francuska liga</title>
+  </programme>
+  <programme start="20210501140000 +0200" stop="20210501150000 +0200" channel="EXYU: ARENA SPORT 3 HKURD: (HR)">
+    <title lang="hr">Dokumentarni film: MNR: BRA/ARG</title>
+  </programme>
+  <programme start="20210501150000 +0200" stop="20210501170000 +0200" channel="EXYU: ARENA SPORT 3 HKURD: (HR)">
+    <title lang="hr">Nogomet: VERONA - SPEZIA, talijanska liga (UŽIVO)</title>
+  </programme>
+  <programme start="20210501170000 +0200" stop="20210501190000 +0200" channel="EXYU: ARENA SPORT 3 HKURD: (HR)">
+    <title lang="hr">Nogomet: SLAVEN BELUPO - DINAMO, ht prva liga (UŽIVO)</title>
+  </programme>
+  <programme start="20210501190000 +0200" stop="20210501200000 +0200" channel="EXYU: ARENA SPORT 3 HKURD: (HR)">
+    <title lang="hr">Nogomet: EMISIJA UOČI UTAKMICE, ht prva liga (UŽIVO)</title>
+  </programme>
+  <programme start="20210501200000 +0200" stop="20210501220000 +0200" channel="EXYU: ARENA SPORT 3 HKURD: (HR)">
+    <title lang="hr">Nogomet: HAJDUK - RIJEKA, ht prva liga (UŽIVO)</title>
+  </programme>
+  <programme start="20210501220000 +0200" stop="20210501230000 +0200" channel="EXYU: ARENA SPORT 3 HKURD: (HR)">
+    <title lang="hr">Nogomet: SAŽETAK POLUFINALA, europaliga</title>
+  </programme>
+  <programme start="20210501230000 +0200" stop="20210502010000 +0200" channel="EXYU: ARENA SPORT 3 HKURD: (HR)">
+    <title lang="hr">Nogomet: VERONA - SPEZIA, talijanska liga</title>
+  </programme>
+  <programme start="20210502010000 +0200" stop="20210502030000 +0200" channel="EXYU: ARENA SPORT 3 HKURD: (HR)">
+    <title lang="hr">Nogomet: HAJDUK - RIJEKA, ht prva liga</title>
+  </programme>
+  <programme start="20210502030000 +0200" stop="20210502050000 +0200" channel="EXYU: ARENA SPORT 3 HKURD: (HR)">
+    <title lang="hr">Nogomet: PSG - LENS, francuska liga</title>
+  </programme>
+  <programme start="20210502050000 +0200" stop="20210502064500 +0200" channel="EXYU: ARENA SPORT 3 HKURD: (HR)">
+    <title lang="hr">Nogomet: SLAVEN BELUPO - DINAMO, ht prva liga</title>
+  </programme>
+  <programme start="20210502064500 +0200" stop="20210502071500 +0200" channel="EXYU: ARENA SPORT 3 HKURD: (HR)">
+    <title lang="hr">Emisija: HOMMAGE 13, emisija</title>
+  </programme>
+  <programme start="20210502071500 +0200" stop="20210502090000 +0200" channel="EXYU: ARENA SPORT 3 HKURD: (HR)">
+    <title lang="hr">Nogomet: CROTONE - INTER, talijanska liga</title>
+  </programme>
+  <programme start="20210502090000 +0200" stop="20210502093000 +0200" channel="EXYU: ARENA SPORT 3 HKURD: (HR)">
+    <title lang="hr">Emisija: SHORTLIST 61, emisija</title>
+  </programme>
+  <programme start="20210502093000 +0200" stop="20210502100000 +0200" channel="EXYU: ARENA SPORT 3 HKURD: (HR)">
+    <title lang="hr">Emisija: SHORTLIST 62, emisija</title>
+  </programme>
+  <programme start="20210502100000 +0200" stop="20210502120000 +0200" channel="EXYU: ARENA SPORT 3 HKURD: (HR)">
+    <title lang="hr">Nogomet: NACIONAL - VITORIA, portugalska liga</title>
+  </programme>
+  <programme start="20210502120000 +0200" stop="20210502123000 +0200" channel="EXYU: ARENA SPORT 3 HKURD: (HR)">
+    <title lang="hr">Nogomet: TOTAL ITALIAN FOOTBALL, magazin</title>
+  </programme>
+  <programme start="20210502123000 +0200" stop="20210502143000 +0200" channel="EXYU: ARENA SPORT 3 HKURD: (HR)">
+    <title lang="hr">Nogomet: LAZIO - GENOA, talijanska liga (UŽIVO)</title>
+  </programme>
+  <programme start="20210502143000 +0200" stop="20210502150000 +0200" channel="EXYU: ARENA SPORT 3 HKURD: (HR)">
+    <title lang="hr">Emisija: SOY FOOTBALL 12, emisija</title>
+  </programme>
+  <programme start="20210502150000 +0200" stop="20210502170000 +0200" channel="EXYU: ARENA SPORT 3 HKURD: (HR)">
+    <title lang="hr">Nogomet: SASSUOLO - ATALANTA, talijanska liga (UŽIVO)</title>
+  </programme>
+  <programme start="20210502170000 +0200" stop="20210502190500 +0200" channel="EXYU: ARENA SPORT 3 HKURD: (HR)">
+    <title lang="hr">Nogomet: ISTRA - GORICA, ht prva liga (UŽIVO)</title>
+  </programme>
+  <programme start="20210502190500 +0200" stop="20210502211000 +0200" channel="EXYU: ARENA SPORT 3 HKURD: (HR)">
+    <title lang="hr">Nogomet: OSIJEK - VARAŽDIN, ht prva liga (UŽIVO)</title>
+  </programme>
+  <programme start="20210502211000 +0200" stop="20210502224500 +0200" channel="EXYU: ARENA SPORT 3 HKURD: (HR)">
+    <title lang="hr">Nogomet: HT PRVA LIGA - EMISIJA, emisija (UŽIVO)</title>
+  </programme>
+  <programme start="20210502224500 +0200" stop="20210502230000 +0200" channel="EXYU: ARENA SPORT 3 HKURD: (HR)">
+    <title lang="hr">Emisija: SOY FOOTBALL 13, emisija</title>
+  </programme>
+  <programme start="20210502230000 +0200" stop="20210503010000 +0200" channel="EXYU: ARENA SPORT 3 HKURD: (HR)">
+    <title lang="hr">Automobilizam: GENESYS XPL 375, indycar (UŽIVO)</title>
+  </programme>
+</tv>
