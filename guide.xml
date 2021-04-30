@@ -1,5 +1,29 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="ARG: FOX SPORT 1 HD">
+    <display-name lang="es">ARG: FOX SPORT 1 HD</display-name>
+    <url>http://www.telered.com.ar</url>
+  </channel>
+  <channel id="ARG: FOX SPORT 2 HD">
+    <display-name lang="es">ARG: FOX SPORT 2 HD</display-name>
+    <url>http://www.telered.com.ar</url>
+  </channel>
+  <channel id="ARG: FOX SPORT 3 HD">
+    <display-name lang="es">ARG: FOX SPORT 3 HD</display-name>
+    <url>http://www.telered.com.ar</url>
+  </channel>
+  <channel id="ARG: FOX SPORTS PREMIUM SD">
+    <display-name lang="es">ARG: FOX SPORTS PREMIUM SD</display-name>
+    <url>http://www.telered.com.ar</url>
+  </channel>
+  <channel id="ARG: TNT SPORTS SD">
+    <display-name lang="es">ARG: TNT SPORTS SD</display-name>
+    <url>http://www.telered.com.ar</url>
+  </channel>
+  <channel id="ARG: TYC SD">
+    <display-name lang="es">ARG: TYC SD</display-name>
+    <url>http://www.telered.com.ar</url>
+  </channel>
   <channel id="RO: DIGI SPORT 1 HD RO">
     <display-name lang="ro">RO: DIGI SPORT 1 HD RO</display-name>
     <url>http://www.cinemagia.ro</url>
@@ -96,1060 +120,1603 @@
     <display-name lang="hr">EXYU: EUROSPORT 1 HD</display-name>
     <url>http://www.mojtv.hr</url>
   </channel>
-  <programme start="20210429070000 -0300" stop="20210429073000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+   <programme start="20210430230000 -0300" stop="20210501010000 -0300" channel="ARG: FOX SPORT 1 HD">
+    <title lang="es">Wilstermann (Bol) vs. Bolívar (Bol), Fecha 2</title>
+  </programme>
+  <programme start="20210501010000 -0300" stop="20210501030000 -0300" channel="ARG: FOX SPORT 1 HD">
+    <title lang="es">U. Católica (Chi) vs. Argentinos Jrs. (Arg), Fecha 2</title>
+  </programme>
+  <programme start="20210501030000 -0300" stop="20210501040000 -0300" channel="ARG: FOX SPORT 1 HD">
+    <title lang="es">Expediente fútbol</title>
+  </programme>
+  <programme start="20210501040000 -0300" stop="20210501070000 -0300" channel="ARG: FOX SPORT 1 HD">
+    <title lang="es">UFC</title>
+  </programme>
+  <programme start="20210501070000 -0300" stop="20210501090000 -0300" channel="ARG: FOX SPORT 1 HD">
+    <title lang="es">Sao Paulo (Bra) vs. Rentistas (Uru), Fecha 2</title>
+  </programme>
+  <programme start="20210501090000 -0300" stop="20210501100000 -0300" channel="ARG: FOX SPORT 1 HD">
+    <title lang="es">UEFA Champions Classics</title>
+  </programme>
+  <programme start="20210501100000 -0300" stop="20210501110000 -0300" channel="ARG: FOX SPORT 1 HD">
+    <title lang="es">Expediente fútbol</title>
+  </programme>
+  <programme start="20210501110000 -0300" stop="20210501140000 -0300" channel="ARG: FOX SPORT 1 HD">
+    <title lang="es">UFC</title>
+  </programme>
+  <programme start="20210501140000 -0300" stop="20210501160000 -0300" channel="ARG: FOX SPORT 1 HD">
+    <title lang="es">UFC Clásicos</title>
+  </programme>
+  <programme start="20210501160000 -0300" stop="20210501180000 -0300" channel="ARG: FOX SPORT 1 HD">
+    <title lang="es">Racing Club (Arg) vs. Sporting Cristal (Per), Fecha 2</title>
+  </programme>
+  <programme start="20210501180000 -0300" stop="20210501190000 -0300" channel="ARG: FOX SPORT 1 HD">
+    <title lang="es">Argentina campeón Mundial 78</title>
+  </programme>
+  <programme start="20210501190000 -0300" stop="20210501200000 -0300" channel="ARG: FOX SPORT 1 HD">
+    <title lang="es">FC Bayern Munich vs. Real Madrid, Semifinal</title>
+  </programme>
+  <programme start="20210501200000 -0300" stop="20210501210000 -0300" channel="ARG: FOX SPORT 1 HD">
+    <title lang="es">Real Madrid vs. FC Bayern Munich, Semifinal</title>
+  </programme>
+  <programme start="20210501210000 -0300" stop="20210501230000 -0300" channel="ARG: FOX SPORT 1 HD">
+    <title lang="es">WWE Smackdown</title>
+  </programme>
+  <programme start="20210501230000 -0300" stop="20210502010000 -0300" channel="ARG: FOX SPORT 1 HD">
+    <title lang="es">Especial</title>
+  </programme>
+  <programme start="20210502230000 -0300" stop="20210503010000 -0300" channel="ARG: FOX SPORT 1 HD">
+    <title lang="es">Especial</title>
+  </programme>
+  <programme start="20210503010000 -0300" stop="20210503030000 -0300" channel="ARG: FOX SPORT 1 HD">
+    <title lang="es">WWE Smackdown</title>
+  </programme>
+  <programme start="20210503030000 -0300" stop="20210503040000 -0300" channel="ARG: FOX SPORT 1 HD">
+    <title lang="es">Expediente fútbol</title>
+  </programme>
+  <programme start="20210503040000 -0300" stop="20210503070000 -0300" channel="ARG: FOX SPORT 1 HD">
+    <title lang="es">UFC</title>
+  </programme>
+  <programme start="20210503070000 -0300" stop="20210503100000 -0300" channel="ARG: FOX SPORT 1 HD">
+    <title lang="es">UFC Main Event</title>
+  </programme>
+  <programme start="20210503100000 -0300" stop="20210503120000 -0300" channel="ARG: FOX SPORT 1 HD">
+    <title lang="es">WWE Smackdown</title>
+  </programme>
+  <programme start="20210503120000 -0300" stop="20210503130000 -0300" channel="ARG: FOX SPORT 1 HD">
+    <title lang="es">UFC Clásicos</title>
+  </programme>
+  <programme start="20210503130000 -0300" stop="20210503160000 -0300" channel="ARG: FOX SPORT 1 HD">
+    <title lang="es">UFC Reloaded</title>
+  </programme>
+  <programme start="20210503160000 -0300" stop="20210503170000 -0300" channel="ARG: FOX SPORT 1 HD">
+    <title lang="es">Expediente fútbol</title>
+  </programme>
+  <programme start="20210503170000 -0300" stop="20210503190000 -0300" channel="ARG: FOX SPORT 1 HD">
+    <title lang="es">Especial</title>
+  </programme>
+  <programme start="20210503190000 -0300" stop="20210503193000 -0300" channel="ARG: FOX SPORT 1 HD">
+    <title lang="es">UEFA Champions League Weekly</title>
+  </programme>
+  <programme start="20210503193000 -0300" stop="20210503200000 -0300" channel="ARG: FOX SPORT 1 HD">
+    <title lang="es">UFC Conectado</title>
+  </programme>
+  <programme start="20210503200000 -0300" stop="20210503210000 -0300" channel="ARG: FOX SPORT 1 HD">
+    <title lang="es">Estudiantes campeón Copa Libertadores 2009</title>
+  </programme>
+  <programme start="20210503210000 -0300" stop="20210503230000 -0300" channel="ARG: FOX SPORT 1 HD">
+    <title lang="es">River Plate vs. Boca Juniors</title>
+  </programme>
+  <programme start="20210503230000 -0300" stop="20210504010000 -0300" channel="ARG: FOX SPORT 1 HD">
+    <title lang="es">Racing Club vs. Independiente, Fecha 10, Estadio Presidente Perón</title>
+  </programme>
+  <programme start="20210504230000 -0300" stop="20210505010000 -0300" channel="ARG: FOX SPORT 1 HD">
+    <title lang="es">Racing Club vs. Independiente, Fecha 10, Estadio Presidente Perón</title>
+  </programme>
+  <programme start="20210430225500 -0300" stop="20210501010000 -0300" channel="ARG: FOX SPORT 2 HD">
+    <title lang="es">PSG (Fra) vs. Manchester City (Ing), Semifinal</title>
+  </programme>
+  <programme start="20210501010000 -0300" stop="20210501040000 -0300" channel="ARG: FOX SPORT 2 HD">
+    <title lang="es">UFC</title>
+  </programme>
+  <programme start="20210501040000 -0300" stop="20210501050000 -0300" channel="ARG: FOX SPORT 2 HD">
+    <title lang="es">Expediente fútbol</title>
+  </programme>
+  <programme start="20210501050000 -0300" stop="20210501070000 -0300" channel="ARG: FOX SPORT 2 HD">
+    <title lang="es">River Plate (Arg) vs. Junior (Col), Fecha 2</title>
+  </programme>
+  <programme start="20210501070000 -0300" stop="20210501090000 -0300" channel="ARG: FOX SPORT 2 HD">
+    <title lang="es">Villarreal (Esp) vs. Arsenal (Ing), Semifinal</title>
+  </programme>
+  <programme start="20210501090000 -0300" stop="20210501110000 -0300" channel="ARG: FOX SPORT 2 HD">
+    <title lang="es">WWE Smackdown</title>
+  </programme>
+  <programme start="20210501110000 -0300" stop="20210501120000 -0300" channel="ARG: FOX SPORT 2 HD">
+    <title lang="es">UFC Clásicos</title>
+  </programme>
+  <programme start="20210501120000 -0300" stop="20210501140000 -0300" channel="ARG: FOX SPORT 2 HD">
+    <title lang="es">Def. y Justicia (Arg) vs. Universitario (Per), Fecha 2</title>
+  </programme>
+  <programme start="20210501140000 -0300" stop="20210501160000 -0300" channel="ARG: FOX SPORT 2 HD">
+    <title lang="es">Fórmula 1</title>
+  </programme>
+  <programme start="20210501160000 -0300" stop="20210501190000 -0300" channel="ARG: FOX SPORT 2 HD">
+    <title lang="es">Real Madrid (Esp) vs. Atl. Madrid (Esp), Final 2015-2016</title>
+  </programme>
+  <programme start="20210501190000 -0300" stop="20210501200000 -0300" channel="ARG: FOX SPORT 2 HD">
+    <title lang="es">Highlights</title>
+  </programme>
+  <programme start="20210501200000 -0300" stop="20210501220000 -0300" channel="ARG: FOX SPORT 2 HD">
+    <title lang="es">Ind. Santa Fe (Col) vs. Fluminense (Bra), Fecha 2</title>
+  </programme>
+  <programme start="20210501220000 -0300" stop="20210502000000 -0300" channel="ARG: FOX SPORT 2 HD">
+    <title lang="es">Boca Jrs. (Arg) vs. Santos (Bra), Fecha 2</title>
+  </programme>
+  <programme start="20210502220000 -0300" stop="20210503000000 -0300" channel="ARG: FOX SPORT 2 HD">
+    <title lang="es">Boca Jrs. (Arg) vs. Santos (Bra), Fecha 2</title>
+  </programme>
+  <programme start="20210503000000 -0300" stop="20210503070000 -0300" channel="ARG: FOX SPORT 2 HD">
+    <title lang="es">Fox Sports 2</title>
+  </programme>
+  <programme start="20210503070000 -0300" stop="20210503090000 -0300" channel="ARG: FOX SPORT 2 HD">
+    <title lang="es">Racing Club (Arg) vs. Sporting Cristal (Per), Fecha 2</title>
+  </programme>
+  <programme start="20210503090000 -0300" stop="20210503100000 -0300" channel="ARG: FOX SPORT 2 HD">
+    <title lang="es">Expediente fútbol</title>
+  </programme>
+  <programme start="20210503100000 -0300" stop="20210503110000 -0300" channel="ARG: FOX SPORT 2 HD">
+    <title lang="es">UFC Clásicos</title>
+  </programme>
+  <programme start="20210503110000 -0300" stop="20210503130000 -0300" channel="ARG: FOX SPORT 2 HD">
+    <title lang="es">Boca Jrs. (Arg) vs. Santos (Bra), Fecha 2</title>
+  </programme>
+  <programme start="20210503130000 -0300" stop="20210503150000 -0300" channel="ARG: FOX SPORT 2 HD">
+    <title lang="es">Barcelona (Ecu) vs. The Strongest (Bol), Fecha 2</title>
+  </programme>
+  <programme start="20210503150000 -0300" stop="20210503170000 -0300" channel="ARG: FOX SPORT 2 HD">
+    <title lang="es">La era Ramón Díaz</title>
+  </programme>
+  <programme start="20210503170000 -0300" stop="20210503190000 -0300" channel="ARG: FOX SPORT 2 HD">
+    <title lang="es">PSG (Fra) vs. Manchester City (Ing), Semifinal</title>
+  </programme>
+  <programme start="20210503190000 -0300" stop="20210503210000 -0300" channel="ARG: FOX SPORT 2 HD">
+    <title lang="es">Real Madrid (Esp) vs. Chelsea (Ing), Semifinal</title>
+  </programme>
+  <programme start="20210503210000 -0300" stop="20210503213000 -0300" channel="ARG: FOX SPORT 2 HD">
+    <title lang="es">Momentos eternos</title>
+  </programme>
+  <programme start="20210503213000 -0300" stop="20210503220000 -0300" channel="ARG: FOX SPORT 2 HD">
+    <title lang="es">UEFA Champions League Weekly</title>
+  </programme>
+  <programme start="20210503220000 -0300" stop="20210503230000 -0300" channel="ARG: FOX SPORT 2 HD">
+    <title lang="es">Expediente fútbol</title>
+  </programme>
+  <programme start="20210503230000 -0300" stop="20210504020000 -0300" channel="ARG: FOX SPORT 2 HD">
+    <title lang="es">Santos (Bra) vs. Peñarol (Uru), Final</title>
+  </programme>
+  <programme start="20210504230000 -0300" stop="20210505020000 -0300" channel="ARG: FOX SPORT 2 HD">
+    <title lang="es">Santos (Bra) vs. Peñarol (Uru), Final</title>
+  </programme>
+  <programme start="20210430233000 -0300" stop="20210501020000 -0300" channel="ARG: FOX SPORT 3 HD">
+    <title lang="es">NASCAR Camping World Truck Series</title>
+  </programme>
+  <programme start="20210501020000 -0300" stop="20210501033000 -0300" channel="ARG: FOX SPORT 3 HD">
+    <title lang="es">Rally Mobil</title>
+  </programme>
+  <programme start="20210501033000 -0300" stop="20210501050000 -0300" channel="ARG: FOX SPORT 3 HD">
+    <title lang="es">FIA World Rally Championship</title>
+  </programme>
+  <programme start="20210501050000 -0300" stop="20210501070000 -0300" channel="ARG: FOX SPORT 3 HD">
+    <title lang="es">Fórmula 1</title>
+  </programme>
+  <programme start="20210501070000 -0300" stop="20210501080000 -0300" channel="ARG: FOX SPORT 3 HD">
+    <title lang="es">Circuito</title>
+  </programme>
+  <programme start="20210501080000 -0300" stop="20210501083000 -0300" channel="ARG: FOX SPORT 3 HD">
+    <title lang="es">Rally on Board</title>
+  </programme>
+  <programme start="20210501083000 -0300" stop="20210501090000 -0300" channel="ARG: FOX SPORT 3 HD">
+    <title lang="es">+Motor</title>
+  </programme>
+  <programme start="20210501090000 -0300" stop="20210501100000 -0300" channel="ARG: FOX SPORT 3 HD">
+    <title lang="es">Resumen</title>
+  </programme>
+  <programme start="20210501100000 -0300" stop="20210501120000 -0300" channel="ARG: FOX SPORT 3 HD">
+    <title lang="es">Off Road Electric Car Racing Series</title>
+  </programme>
+  <programme start="20210501120000 -0300" stop="20210501140000 -0300" channel="ARG: FOX SPORT 3 HD">
+    <title lang="es">Fórmula 1</title>
+  </programme>
+  <programme start="20210501140000 -0300" stop="20210501150000 -0300" channel="ARG: FOX SPORT 3 HD">
+    <title lang="es">Highlights Show</title>
+  </programme>
+  <programme start="20210501150000 -0300" stop="20210501153000 -0300" channel="ARG: FOX SPORT 3 HD">
+    <title lang="es">NASCAR</title>
+  </programme>
+  <programme start="20210501153000 -0300" stop="20210501160000 -0300" channel="ARG: FOX SPORT 3 HD">
+    <title lang="es">NASCAR</title>
+  </programme>
+  <programme start="20210501160000 -0300" stop="20210501173000 -0300" channel="ARG: FOX SPORT 3 HD">
+    <title lang="es">Rally Mobil</title>
+  </programme>
+  <programme start="20210501173000 -0300" stop="20210501180000 -0300" channel="ARG: FOX SPORT 3 HD">
+    <title lang="es">Rally on Board</title>
+  </programme>
+  <programme start="20210501180000 -0300" stop="20210501183000 -0300" channel="ARG: FOX SPORT 3 HD">
+    <title lang="es">+Motor</title>
+  </programme>
+  <programme start="20210501183000 -0300" stop="20210501190000 -0300" channel="ARG: FOX SPORT 3 HD">
+    <title lang="es">Magazine</title>
+  </programme>
+  <programme start="20210501190000 -0300" stop="20210501200000 -0300" channel="ARG: FOX SPORT 3 HD">
+    <title lang="es">Highlights Show</title>
+  </programme>
+  <programme start="20210501200000 -0300" stop="20210501210000 -0300" channel="ARG: FOX SPORT 3 HD">
+    <title lang="es">Circuito</title>
+  </programme>
+  <programme start="20210501210000 -0300" stop="20210501213000 -0300" channel="ARG: FOX SPORT 3 HD">
+    <title lang="es">NASCAR</title>
+  </programme>
+  <programme start="20210501213000 -0300" stop="20210501220000 -0300" channel="ARG: FOX SPORT 3 HD">
+    <title lang="es">NASCAR</title>
+  </programme>
+  <programme start="20210501220000 -0300" stop="20210501223000 -0300" channel="ARG: FOX SPORT 3 HD">
+    <title lang="es">+Motor</title>
+  </programme>
+  <programme start="20210501223000 -0300" stop="20210501230000 -0300" channel="ARG: FOX SPORT 3 HD">
+    <title lang="es">Rally on Board</title>
+  </programme>
+  <programme start="20210501230000 -0300" stop="20210501233000 -0300" channel="ARG: FOX SPORT 3 HD">
+    <title lang="es">Magazine</title>
+  </programme>
+  <programme start="20210501233000 -0300" stop="20210502003000 -0300" channel="ARG: FOX SPORT 3 HD">
+    <title lang="es">Circuito</title>
+  </programme>
+  <programme start="20210502233000 -0300" stop="20210503003000 -0300" channel="ARG: FOX SPORT 3 HD">
+    <title lang="es">Circuito</title>
+  </programme>
+  <programme start="20210503003000 -0300" stop="20210503070000 -0300" channel="ARG: FOX SPORT 3 HD">
+    <title lang="es">Fox Sports 3</title>
+  </programme>
+  <programme start="20210503070000 -0300" stop="20210503080000 -0300" channel="ARG: FOX SPORT 3 HD">
+    <title lang="es">Circuito</title>
+  </programme>
+  <programme start="20210503080000 -0300" stop="20210503083000 -0300" channel="ARG: FOX SPORT 3 HD">
+    <title lang="es">Rally on Board</title>
+  </programme>
+  <programme start="20210503083000 -0300" stop="20210503150000 -0300" channel="ARG: FOX SPORT 3 HD">
+    <title lang="es">WEC</title>
+  </programme>
+  <programme start="20210503150000 -0300" stop="20210503153000 -0300" channel="ARG: FOX SPORT 3 HD">
+    <title lang="es">Magazine</title>
+  </programme>
+  <programme start="20210503153000 -0300" stop="20210503173000 -0300" channel="ARG: FOX SPORT 3 HD">
+    <title lang="es">Extreme E Championship</title>
+  </programme>
+  <programme start="20210503173000 -0300" stop="20210503183000 -0300" channel="ARG: FOX SPORT 3 HD">
+    <title lang="es">Extreme E Championship Highlights</title>
+  </programme>
+  <programme start="20210503183000 -0300" stop="20210503190000 -0300" channel="ARG: FOX SPORT 3 HD">
+    <title lang="es">Magazine</title>
+  </programme>
+  <programme start="20210503190000 -0300" stop="20210503200000 -0300" channel="ARG: FOX SPORT 3 HD">
+    <title lang="es">Circuito</title>
+  </programme>
+  <programme start="20210503200000 -0300" stop="20210503220000 -0300" channel="ARG: FOX SPORT 3 HD">
+    <title lang="es">Fórmula 1</title>
+  </programme>
+  <programme start="20210503220000 -0300" stop="20210504000000 -0300" channel="ARG: FOX SPORT 3 HD">
+    <title lang="es">Extreme E Championship</title>
+  </programme>
+  <programme start="20210504220000 -0300" stop="20210505000000 -0300" channel="ARG: FOX SPORT 3 HD">
+    <title lang="es">Extreme E Championship</title>
+  </programme>
+  <programme start="20210430230000 -0300" stop="20210501010000 -0300" channel="ARG: FOX SPORTS PREMIUM SD">
+    <title lang="es">Lanús vs. Vélez, Zona B-Fecha 11, Estadio Ciudad de Lanús</title>
+  </programme>
+  <programme start="20210501010000 -0300" stop="20210501030000 -0300" channel="ARG: FOX SPORTS PREMIUM SD">
+    <title lang="es">Patronato vs. Sarmiento, Zona B-Fecha 11, Estadio Presbítero Bartolomé Grella</title>
+  </programme>
+  <programme start="20210501030000 -0300" stop="20210501050000 -0300" channel="ARG: FOX SPORTS PREMIUM SD">
+    <title lang="es">Godoy Cruz vs. Central Córdoba, Zona A-Fecha 11, Estadio Malvinas Argentinas</title>
+  </programme>
+  <programme start="20210501050000 -0300" stop="20210501070000 -0300" channel="ARG: FOX SPORTS PREMIUM SD">
+    <title lang="es">Argentinos Jrs. vs. Banfield, Zona A-Fecha 11, Estadio Diego Armando Maradona</title>
+  </programme>
+  <programme start="20210501070000 -0300" stop="20210501090000 -0300" channel="ARG: FOX SPORTS PREMIUM SD">
+    <title lang="es">Huracán vs. Boca Jrs., Zona B-Fecha 11, Estadio Tomás A. Ducó</title>
+  </programme>
+  <programme start="20210501090000 -0300" stop="20210501110000 -0300" channel="ARG: FOX SPORTS PREMIUM SD">
+    <title lang="es">Def. y Justicia vs. Arsenal, Interzonal-Fecha 11, Estadio Norberto Tomaghello</title>
+  </programme>
+  <programme start="20210501110000 -0300" stop="20210501130000 -0300" channel="ARG: FOX SPORTS PREMIUM SD">
+    <title lang="es">Racing Club vs. Colón, Zona A-Fecha 11, Estadio Presidente Perón</title>
+  </programme>
+  <programme start="20210501130000 -0300" stop="20210501150000 -0300" channel="ARG: FOX SPORTS PREMIUM SD">
+    <title lang="es">Patronato vs. Sarmiento, Zona B-Fecha 11, Estadio Presbítero Bartolomé Grella</title>
+  </programme>
+  <programme start="20210501150000 -0300" stop="20210501170000 -0300" channel="ARG: FOX SPORTS PREMIUM SD">
+    <title lang="es">Lanús vs. Vélez, Zona B-Fecha 11, Estadio Ciudad de Lanús</title>
+  </programme>
+  <programme start="20210501170000 -0300" stop="20210501175000 -0300" channel="ARG: FOX SPORTS PREMIUM SD">
+    <title lang="es">Huracán vs. Boca Juniors</title>
+  </programme>
+  <programme start="20210501175000 -0300" stop="20210501180000 -0300" channel="ARG: FOX SPORTS PREMIUM SD">
+    <title lang="es">Previa</title>
+  </programme>
+  <programme start="20210501180000 -0300" stop="20210501200000 -0300" channel="ARG: FOX SPORTS PREMIUM SD">
+    <title lang="es">Vélez vs. Patronato, Zona B-Fecha 12, Estadio José Amalfitani</title>
+  </programme>
+  <programme start="20210501200000 -0300" stop="20210501220000 -0300" channel="ARG: FOX SPORTS PREMIUM SD">
+    <title lang="es">River Plate vs. San Lorenzo, Zona A-Fecha 11, Estadio Antonio Vespucio Liberti</title>
+  </programme>
+  <programme start="20210501220000 -0300" stop="20210502000000 -0300" channel="ARG: FOX SPORTS PREMIUM SD">
+    <title lang="es">Vélez vs. Patronato, Zona B-Fecha 12, Estadio José Amalfitani</title>
+  </programme>
+  <programme start="20210502220000 -0300" stop="20210503000000 -0300" channel="ARG: FOX SPORTS PREMIUM SD">
+    <title lang="es">Vélez vs. Patronato, Zona B-Fecha 12, Estadio José Amalfitani</title>
+  </programme>
+  <programme start="20210503000000 -0300" stop="20210503020000 -0300" channel="ARG: FOX SPORTS PREMIUM SD">
+    <title lang="es">Unión vs. Independiente, Zona B-Fecha 11, Estadio 15 de abril</title>
+  </programme>
+  <programme start="20210503020000 -0300" stop="20210503040000 -0300" channel="ARG: FOX SPORTS PREMIUM SD">
+    <title lang="es">Colón vs. Arsenal, Zona A-Fecha 12, Estadio Brigadier Gral. Estanislao López</title>
+  </programme>
+  <programme start="20210503040000 -0300" stop="20210503050000 -0300" channel="ARG: FOX SPORTS PREMIUM SD">
+    <title lang="es">River Plate vs. San Lorenzo</title>
+  </programme>
+  <programme start="20210503050000 -0300" stop="20210503070000 -0300" channel="ARG: FOX SPORTS PREMIUM SD">
+    <title lang="es">Vélez vs. Patronato, Zona B-Fecha 12, Estadio José Amalfitani</title>
+  </programme>
+  <programme start="20210503070000 -0300" stop="20210503090000 -0300" channel="ARG: FOX SPORTS PREMIUM SD">
+    <title lang="es">Gimnasia L.P. vs. Newell’s, Zona B-Fecha 11, Estadio Juan Carmelo Zerillo</title>
+  </programme>
+  <programme start="20210503090000 -0300" stop="20210503110000 -0300" channel="ARG: FOX SPORTS PREMIUM SD">
+    <title lang="es">Rosario Central vs. Estudiantes L.P., Zona A-Fecha 11, Estadio Gigante de Arroyito</title>
+  </programme>
+  <programme start="20210503110000 -0300" stop="20210503130000 -0300" channel="ARG: FOX SPORTS PREMIUM SD">
+    <title lang="es">Colón vs. Arsenal, Zona A-Fecha 12, Estadio Brigadier Gral. Estanislao López</title>
+  </programme>
+  <programme start="20210503130000 -0300" stop="20210503150000 -0300" channel="ARG: FOX SPORTS PREMIUM SD">
+    <title lang="es">Vélez vs. Patronato, Zona B-Fecha 12, Estadio José Amalfitani</title>
+  </programme>
+  <programme start="20210503150000 -0300" stop="20210503170000 -0300" channel="ARG: FOX SPORTS PREMIUM SD">
+    <title lang="es">Newell’s Old Boys vs. Rosario Central, Fecha 24, Estadio Marcelo Bielsa</title>
+  </programme>
+  <programme start="20210503170000 -0300" stop="20210503190000 -0300" channel="ARG: FOX SPORTS PREMIUM SD">
+    <title lang="es">Rosario Central vs. Newell’s Old Boys, Fecha 12, Estadio Gigante de Arroyito</title>
+  </programme>
+  <programme start="20210503190000 -0300" stop="20210503210000 -0300" channel="ARG: FOX SPORTS PREMIUM SD">
+    <title lang="es">Rosario Central vs. Newell’s, Fecha 6, Estadio Gigante de Arroyito</title>
+  </programme>
+  <programme start="20210503210000 -0300" stop="20210503230000 -0300" channel="ARG: FOX SPORTS PREMIUM SD">
+    <title lang="es">River Plate vs. San Lorenzo, Zona A-Fecha 11, Estadio Antonio Vespucio Liberti</title>
+  </programme>
+  <programme start="20210503230000 -0300" stop="20210504010000 -0300" channel="ARG: FOX SPORTS PREMIUM SD">
+    <title lang="es">Huracán vs. Boca Jrs., Zona B-Fecha 11, Estadio Tomás A. Ducó</title>
+  </programme>
+  <programme start="20210504230000 -0300" stop="20210505010000 -0300" channel="ARG: FOX SPORTS PREMIUM SD">
+    <title lang="es">Huracán vs. Boca Jrs., Zona B-Fecha 11, Estadio Tomás A. Ducó</title>
+  </programme>
+  <programme start="20210430233000 -0300" stop="20210501000000 -0300" channel="ARG: TNT SPORTS SD">
+    <title lang="es">Todo sobre Diego</title>
+  </programme>
+  <programme start="20210501000000 -0300" stop="20210501030000 -0300" channel="ARG: TNT SPORTS SD">
+    <title lang="es">TNT Sports continental</title>
+  </programme>
+  <programme start="20210501030000 -0300" stop="20210501050000 -0300" channel="ARG: TNT SPORTS SD">
+    <title lang="es">River Plate vs. San Lorenzo, Zona A-Fecha 11, Estadio Antonio Vespucio Liberti</title>
+  </programme>
+  <programme start="20210501050000 -0300" stop="20210501053000 -0300" channel="ARG: TNT SPORTS SD">
+    <title lang="es">Todo sobre Diego</title>
+  </programme>
+  <programme start="20210501053000 -0300" stop="20210501060000 -0300" channel="ARG: TNT SPORTS SD">
+    <title lang="es">Todo sobre Diego</title>
+  </programme>
+  <programme start="20210501060000 -0300" stop="20210501080000 -0300" channel="ARG: TNT SPORTS SD">
+    <title lang="es">Def. y Justicia vs. Arsenal, Interzonal-Fecha 11, Estadio Norberto Tomaghello</title>
+  </programme>
+  <programme start="20210501080000 -0300" stop="20210501090000 -0300" channel="ARG: TNT SPORTS SD">
+    <title lang="es">Recuerdos de selección</title>
+  </programme>
+  <programme start="20210501090000 -0300" stop="20210501110000 -0300" channel="ARG: TNT SPORTS SD">
+    <title lang="es">Argentinos Jrs. vs. Banfield, Zona A-Fecha 11, Estadio Diego Armando Maradona</title>
+  </programme>
+  <programme start="20210501110000 -0300" stop="20210501113000 -0300" channel="ARG: TNT SPORTS SD">
+    <title lang="es">Boca</title>
+  </programme>
+  <programme start="20210501113000 -0300" stop="20210501120000 -0300" channel="ARG: TNT SPORTS SD">
+    <title lang="es">Todo sobre Diego</title>
+  </programme>
+  <programme start="20210501120000 -0300" stop="20210501140000 -0300" channel="ARG: TNT SPORTS SD">
+    <title lang="es">Halcones y palomas</title>
+  </programme>
+  <programme start="20210501140000 -0300" stop="20210501160000 -0300" channel="ARG: TNT SPORTS SD">
+    <title lang="es">Racing Club vs. Colón, Zona A-Fecha 11, Estadio Presidente Perón</title>
+  </programme>
+  <programme start="20210501160000 -0300" stop="20210501163000 -0300" channel="ARG: TNT SPORTS SD">
+    <title lang="es">Todo sobre Diego</title>
+  </programme>
+  <programme start="20210501163000 -0300" stop="20210501170000 -0300" channel="ARG: TNT SPORTS SD">
+    <title lang="es">Mundo Padel</title>
+  </programme>
+  <programme start="20210501170000 -0300" stop="20210501200000 -0300" channel="ARG: TNT SPORTS SD">
+    <title lang="es">TNT Sports continental</title>
+  </programme>
+  <programme start="20210501200000 -0300" stop="20210501220000 -0300" channel="ARG: TNT SPORTS SD">
+    <title lang="es">Copa Liga Profesional</title>
+  </programme>
+  <programme start="20210501220000 -0300" stop="20210501230000 -0300" channel="ARG: TNT SPORTS SD">
+    <title lang="es">Historias de "El Gráfico"</title>
+  </programme>
+  <programme start="20210501230000 -0300" stop="20210501233000 -0300" channel="ARG: TNT SPORTS SD">
+    <title lang="es">Boca</title>
+  </programme>
+  <programme start="20210501233000 -0300" stop="20210502000000 -0300" channel="ARG: TNT SPORTS SD">
+    <title lang="es">Artistas del Knockout</title>
+  </programme>
+  <programme start="20210502233000 -0300" stop="20210503000000 -0300" channel="ARG: TNT SPORTS SD">
+    <title lang="es">Artistas del Knockout</title>
+  </programme>
+  <programme start="20210503000000 -0300" stop="20210503060000 -0300" channel="ARG: TNT SPORTS SD">
+    <title lang="es">Eventos</title>
+  </programme>
+  <programme start="20210503060000 -0300" stop="20210503080000 -0300" channel="ARG: TNT SPORTS SD">
+    <title lang="es">Copa Liga Profesional</title>
+  </programme>
+  <programme start="20210503080000 -0300" stop="20210503100000 -0300" channel="ARG: TNT SPORTS SD">
+    <title lang="es">Copa Liga Profesional</title>
+  </programme>
+  <programme start="20210503100000 -0300" stop="20210503110000 -0300" channel="ARG: TNT SPORTS SD">
+    <title lang="es">Interior futbolero</title>
+  </programme>
+  <programme start="20210503110000 -0300" stop="20210503130000 -0300" channel="ARG: TNT SPORTS SD">
+    <title lang="es">Campeonato femenino de fútbol de Argentina</title>
+  </programme>
+  <programme start="20210503130000 -0300" stop="20210504000000 -0300" channel="ARG: TNT SPORTS SD">
+    <title lang="es">Copa Liga Profesional</title>
+  </programme>
+  <programme start="20210504130000 -0300" stop="20210505000000 -0300" channel="ARG: TNT SPORTS SD">
+    <title lang="es">Copa Liga Profesional</title>
+  </programme>
+  <programme start="20210430230000 -0300" stop="20210501003000 -0300" channel="ARG: TYC SD">
+    <title lang="es">Las repercusiones de los partidos de equipos argentinos por Copa Libertadores y Sudamericana</title>
+  </programme>
+  <programme start="20210501003000 -0300" stop="20210501010000 -0300" channel="ARG: TYC SD">
+    <title lang="es">Sportia</title>
+  </programme>
+  <programme start="20210501010000 -0300" stop="20210501013000 -0300" channel="ARG: TYC SD">
+    <title lang="es">Player One eSports</title>
+  </programme>
+  <programme start="20210501013000 -0300" stop="20210501030000 -0300" channel="ARG: TYC SD">
+    <title lang="es">Presión alta</title>
+  </programme>
+  <programme start="20210501030000 -0300" stop="20210501043000 -0300" channel="ARG: TYC SD">
+    <title lang="es">Planeta gol</title>
+  </programme>
+  <programme start="20210501043000 -0300" stop="20210501063000 -0300" channel="ARG: TYC SD">
+    <title lang="es">San Martín (T) vs. Alte. Brown, Zona A</title>
+  </programme>
+  <programme start="20210501063000 -0300" stop="20210501080000 -0300" channel="ARG: TYC SD">
+    <title lang="es">Jugador 23</title>
+  </programme>
+  <programme start="20210501080000 -0300" stop="20210501120000 -0300" channel="ARG: TYC SD">
+    <title lang="es">Sportia</title>
+  </programme>
+  <programme start="20210501120000 -0300" stop="20210501140000 -0300" channel="ARG: TYC SD">
+    <title lang="es">La previa de la 12da fecha de la Liga Profesional</title>
+  </programme>
+  <programme start="20210501140000 -0300" stop="20210501150500 -0300" channel="ARG: TYC SD">
+    <title lang="es">Toda la previa de la fecha</title>
+  </programme>
+  <programme start="20210501150500 -0300" stop="20210501171000 -0300" channel="ARG: TYC SD">
+    <title lang="es">Talleres (RdE) vs. Argentino (Q), Fecha 9</title>
+  </programme>
+  <programme start="20210501171000 -0300" stop="20210501190000 -0300" channel="ARG: TYC SD">
+    <title lang="es">Estudiantes (BA) vs. Dep. Maipú, Zona A</title>
+  </programme>
+  <programme start="20210501190000 -0300" stop="20210501210000 -0300" channel="ARG: TYC SD">
+    <title lang="es">Toda la previa de la 12da fecha</title>
+  </programme>
+  <programme start="20210501210000 -0300" stop="20210501230000 -0300" channel="ARG: TYC SD">
+    <title lang="es">Boxeo de primera</title>
+  </programme>
+  <programme start="20210501230000 -0300" stop="20210502000000 -0300" channel="ARG: TYC SD">
+    <title lang="es">Jugador 23</title>
+  </programme>
+  <programme start="20210502230000 -0300" stop="20210503000000 -0300" channel="ARG: TYC SD">
+    <title lang="es">Jugador 23</title>
+  </programme>
+  <programme start="20210503000000 -0300" stop="20210503010000 -0300" channel="ARG: TYC SD">
+    <title lang="es">Carburando</title>
+  </programme>
+  <programme start="20210503010000 -0300" stop="20210503030000 -0300" channel="ARG: TYC SD">
+    <title lang="es">Presión alta</title>
+  </programme>
+  <programme start="20210503030000 -0300" stop="20210503050000 -0300" channel="ARG: TYC SD">
+    <title lang="es">Estudiantes (BA) vs. Dep. Maipú, Zona A</title>
+  </programme>
+  <programme start="20210503050000 -0300" stop="20210503070000 -0300" channel="ARG: TYC SD">
+    <title lang="es">Talleres (RdE) vs. Argentino (Q), Fecha 9</title>
+  </programme>
+  <programme start="20210503070000 -0300" stop="20210503080000 -0300" channel="ARG: TYC SD">
+    <title lang="es">Carburando</title>
+  </programme>
+  <programme start="20210503080000 -0300" stop="20210503090000 -0300" channel="ARG: TYC SD">
+    <title lang="es">Jugador 23</title>
+  </programme>
+  <programme start="20210503090000 -0300" stop="20210503103000 -0300" channel="ARG: TYC SD">
+    <title lang="es">#Bonadeo</title>
+  </programme>
+  <programme start="20210503103000 -0300" stop="20210503123000 -0300" channel="ARG: TYC SD">
+    <title lang="es">Básquet Liga Nacional</title>
+  </programme>
+  <programme start="20210503123000 -0300" stop="20210503133000 -0300" channel="ARG: TYC SD">
+    <title lang="es">Uno contra uno</title>
+  </programme>
+  <programme start="20210503133000 -0300" stop="20210503150000 -0300" channel="ARG: TYC SD">
+    <title lang="es">Sportia</title>
+  </programme>
+  <programme start="20210503150000 -0300" stop="20210503180000 -0300" channel="ARG: TYC SD">
+    <title lang="es">Carburando clasificación</title>
+  </programme>
+  <programme start="20210503180000 -0300" stop="20210503210000 -0300" channel="ARG: TYC SD">
+    <title lang="es">Sportia</title>
+  </programme>
+  <programme start="20210503210000 -0300" stop="20210504000000 -0300" channel="ARG: TYC SD">
+    <title lang="es">Boxeo de primera</title>
+  </programme>
+  <programme start="20210504210000 -0300" stop="20210505000000 -0300" channel="ARG: TYC SD">
+    <title lang="es">Boxeo de primera</title>
+  </programme>
+  <programme start="20210430070000 +0300" stop="20210430073000 +0300" channel="RO: DIGI SPORT 1 HD RO">
     <title lang="ro">Stirile Digi Sport</title>
   </programme>
-  <programme start="20210429073000 -0300" stop="20210429080000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+  <programme start="20210430073000 +0300" stop="20210430080000 +0300" channel="RO: DIGI SPORT 1 HD RO">
     <title lang="ro">Stirile Digi Sport</title>
   </programme>
-  <programme start="20210429080000 -0300" stop="20210429083000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+  <programme start="20210430080000 +0300" stop="20210430083000 +0300" channel="RO: DIGI SPORT 1 HD RO">
     <title lang="ro">Stirile Digi Sport</title>
   </programme>
-  <programme start="20210429083000 -0300" stop="20210429090000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+  <programme start="20210430083000 +0300" stop="20210430090000 +0300" channel="RO: DIGI SPORT 1 HD RO">
     <title lang="ro">Stirile Digi Sport</title>
   </programme>
-  <programme start="20210429090000 -0300" stop="20210429093000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+  <programme start="20210430090000 +0300" stop="20210430093000 +0300" channel="RO: DIGI SPORT 1 HD RO">
     <title lang="ro">Stirile Digi Sport</title>
   </programme>
-  <programme start="20210429093000 -0300" stop="20210429100000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+  <programme start="20210430093000 +0300" stop="20210430100000 +0300" channel="RO: DIGI SPORT 1 HD RO">
     <title lang="ro">Stirile Digi Sport</title>
   </programme>
-  <programme start="20210429100000 -0300" stop="20210429101500 -0300" channel="RO: DIGI SPORT 1 HD RO">
+  <programme start="20210430100000 +0300" stop="20210430101500 +0300" channel="RO: DIGI SPORT 1 HD RO">
     <title lang="ro">Stirile Digi Sport</title>
   </programme>
-  <programme start="20210429101500 -0300" stop="20210429110000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+  <programme start="20210430101500 +0300" stop="20210430110000 +0300" channel="RO: DIGI SPORT 1 HD RO">
     <title lang="ro">Euro fotbal</title>
   </programme>
-  <programme start="20210429110000 -0300" stop="20210429111500 -0300" channel="RO: DIGI SPORT 1 HD RO">
+  <programme start="20210430110000 +0300" stop="20210430111500 +0300" channel="RO: DIGI SPORT 1 HD RO">
     <title lang="ro">Stirile Digi Sport</title>
   </programme>
-  <programme start="20210429111500 -0300" stop="20210429120000 -0300" channel="RO: DIGI SPORT 1 HD RO">
-    <title lang="ro">Rezumate UEFA Europa League</title>
-  </programme>
-  <programme start="20210429120000 -0300" stop="20210429121500 -0300" channel="RO: DIGI SPORT 1 HD RO">
-    <title lang="ro">Stirile Digi Sport</title>
-  </programme>
-  <programme start="20210429121500 -0300" stop="20210429124500 -0300" channel="RO: DIGI SPORT 1 HD RO">
-    <title lang="ro">Euro fotbal</title>
-  </programme>
-  <programme start="20210429124500 -0300" stop="20210429130000 -0300" channel="RO: DIGI SPORT 1 HD RO">
-    <title lang="ro">Live Stirile Digi Sport</title>
-  </programme>
-  <programme start="20210429130000 -0300" stop="20210429143000 -0300" channel="RO: DIGI SPORT 1 HD RO">
-    <title lang="ro">Live Liga Digi Sport</title>
-  </programme>
-  <programme start="20210429143000 -0300" stop="20210429151500 -0300" channel="RO: DIGI SPORT 1 HD RO">
-    <title lang="ro">Live Liga 1: Politehnica Iasi - Viitorul Liga 1: play-out</title>
-  </programme>
-  <programme start="20210429151500 -0300" stop="20210429153000 -0300" channel="RO: DIGI SPORT 1 HD RO">
-    <title lang="ro">Live Stirile Digi Sport</title>
-  </programme>
-  <programme start="20210429153000 -0300" stop="20210429163000 -0300" channel="RO: DIGI SPORT 1 HD RO">
-    <title lang="ro">Live Liga 1: Politehnica Iasi - Viitorul Liga 1: play-out</title>
-  </programme>
-  <programme start="20210429163000 -0300" stop="20210429170000 -0300" channel="RO: DIGI SPORT 1 HD RO">
-    <title lang="ro">Live Stirile Digi Sport</title>
-  </programme>
-  <programme start="20210429170000 -0300" stop="20210429174500 -0300" channel="RO: DIGI SPORT 1 HD RO">
-    <title lang="ro">Live Liga 1: Dinamo - Voluntari Liga 1: play-out</title>
-  </programme>
-  <programme start="20210429174500 -0300" stop="20210429180000 -0300" channel="RO: DIGI SPORT 1 HD RO">
-    <title lang="ro">Live Fotbal club</title>
-  </programme>
-  <programme start="20210429180000 -0300" stop="20210429190000 -0300" channel="RO: DIGI SPORT 1 HD RO">
-    <title lang="ro">Live Liga 1: Dinamo - Voluntari Liga 1: play-out</title>
-  </programme>
-  <programme start="20210429190000 -0300" stop="20210429194500 -0300" channel="RO: DIGI SPORT 1 HD RO">
-    <title lang="ro">Live Fotbal club</title>
-  </programme>
-  <programme start="20210429194500 -0300" stop="20210430070000 -0300" channel="RO: DIGI SPORT 1 HD RO">
-    <title lang="ro">Live Liga 1: Universitatea Craiova - FCSB Liga 1: play-off</title>
-  </programme>
-  <programme start="20210430070000 -0300" stop="20210430073000 -0300" channel="RO: DIGI SPORT 1 HD RO">
-    <title lang="ro">Stirile Digi Sport</title>
-  </programme>
-  <programme start="20210430073000 -0300" stop="20210430080000 -0300" channel="RO: DIGI SPORT 1 HD RO">
-    <title lang="ro">Stirile Digi Sport</title>
-  </programme>
-  <programme start="20210430080000 -0300" stop="20210430083000 -0300" channel="RO: DIGI SPORT 1 HD RO">
-    <title lang="ro">Stirile Digi Sport</title>
-  </programme>
-  <programme start="20210430083000 -0300" stop="20210430090000 -0300" channel="RO: DIGI SPORT 1 HD RO">
-    <title lang="ro">Stirile Digi Sport</title>
-  </programme>
-  <programme start="20210430090000 -0300" stop="20210430093000 -0300" channel="RO: DIGI SPORT 1 HD RO">
-    <title lang="ro">Stirile Digi Sport</title>
-  </programme>
-  <programme start="20210430093000 -0300" stop="20210430100000 -0300" channel="RO: DIGI SPORT 1 HD RO">
-    <title lang="ro">Stirile Digi Sport</title>
-  </programme>
-  <programme start="20210430100000 -0300" stop="20210430101500 -0300" channel="RO: DIGI SPORT 1 HD RO">
-    <title lang="ro">Stirile Digi Sport</title>
-  </programme>
-  <programme start="20210430101500 -0300" stop="20210430110000 -0300" channel="RO: DIGI SPORT 1 HD RO">
-    <title lang="ro">Euro fotbal</title>
-  </programme>
-  <programme start="20210430110000 -0300" stop="20210430111500 -0300" channel="RO: DIGI SPORT 1 HD RO">
-    <title lang="ro">Stirile Digi Sport</title>
-  </programme>
-  <programme start="20210430111500 -0300" stop="20210430120000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+  <programme start="20210430111500 +0300" stop="20210430120000 +0300" channel="RO: DIGI SPORT 1 HD RO">
     <title lang="ro">Fotbal club</title>
   </programme>
-  <programme start="20210430120000 -0300" stop="20210430121500 -0300" channel="RO: DIGI SPORT 1 HD RO">
+  <programme start="20210430120000 +0300" stop="20210430121500 +0300" channel="RO: DIGI SPORT 1 HD RO">
     <title lang="ro">Stirile Digi Sport</title>
   </programme>
-  <programme start="20210430121500 -0300" stop="20210430130000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+  <programme start="20210430121500 +0300" stop="20210430130000 +0300" channel="RO: DIGI SPORT 1 HD RO">
     <title lang="ro">Live Rezumatele etapei Liga 1</title>
   </programme>
-  <programme start="20210430130000 -0300" stop="20210430131500 -0300" channel="RO: DIGI SPORT 1 HD RO">
+  <programme start="20210430130000 +0300" stop="20210430131500 +0300" channel="RO: DIGI SPORT 1 HD RO">
     <title lang="ro">Live Stirile Digi Sport</title>
   </programme>
-  <programme start="20210430131500 -0300" stop="20210430140000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+  <programme start="20210430131500 +0300" stop="20210430140000 +0300" channel="RO: DIGI SPORT 1 HD RO">
     <title lang="ro">Live Liga Digi Sport</title>
   </programme>
-  <programme start="20210430140000 -0300" stop="20210430141500 -0300" channel="RO: DIGI SPORT 1 HD RO">
+  <programme start="20210430140000 +0300" stop="20210430141500 +0300" channel="RO: DIGI SPORT 1 HD RO">
     <title lang="ro">Live Stirile Digi Sport</title>
   </programme>
-  <programme start="20210430141500 -0300" stop="20210430150000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+  <programme start="20210430141500 +0300" stop="20210430150000 +0300" channel="RO: DIGI SPORT 1 HD RO">
     <title lang="ro">Live Liga Digi Sport</title>
   </programme>
-  <programme start="20210430150000 -0300" stop="20210430154500 -0300" channel="RO: DIGI SPORT 1 HD RO">
+  <programme start="20210430150000 +0300" stop="20210430154500 +0300" channel="RO: DIGI SPORT 1 HD RO">
     <title lang="ro">Live Liga a 2-a: ASU Poli Timisoara - Dunarea Calarasi Liga a 2-a: play-off</title>
   </programme>
-  <programme start="20210430154500 -0300" stop="20210430160000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+  <programme start="20210430154500 +0300" stop="20210430160000 +0300" channel="RO: DIGI SPORT 1 HD RO">
     <title lang="ro">Live Stirile Digi Sport</title>
   </programme>
-  <programme start="20210430160000 -0300" stop="20210430170000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+  <programme start="20210430160000 +0300" stop="20210430170000 +0300" channel="RO: DIGI SPORT 1 HD RO">
     <title lang="ro">Live Liga a 2-a: ASU Poli Timisoara - Dunarea Calarasi Liga a 2-a: play-off</title>
   </programme>
-  <programme start="20210430170000 -0300" stop="20210430173000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+  <programme start="20210430170000 +0300" stop="20210430173000 +0300" channel="RO: DIGI SPORT 1 HD RO">
     <title lang="ro">Live Stirile Digi Sport</title>
   </programme>
-  <programme start="20210430173000 -0300" stop="20210430181500 -0300" channel="RO: DIGI SPORT 1 HD RO">
+  <programme start="20210430173000 +0300" stop="20210430181500 +0300" channel="RO: DIGI SPORT 1 HD RO">
     <title lang="ro">Live Liga 1: Gaz Metan Medias - FC Arges Liga 1: play-out</title>
   </programme>
-  <programme start="20210430181500 -0300" stop="20210430183000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+  <programme start="20210430181500 +0300" stop="20210430183000 +0300" channel="RO: DIGI SPORT 1 HD RO">
     <title lang="ro">Live Stirile Digi Sport</title>
   </programme>
-  <programme start="20210430183000 -0300" stop="20210430193000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+  <programme start="20210430183000 +0300" stop="20210430193000 +0300" channel="RO: DIGI SPORT 1 HD RO">
     <title lang="ro">Live Liga 1: Gaz Metan Medias - FC Arges Liga 1: play-out</title>
   </programme>
-  <programme start="20210430193000 -0300" stop="20210501070000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+  <programme start="20210430193000 +0300" stop="20210501070000 +0300" channel="RO: DIGI SPORT 1 HD RO">
     <title lang="ro">Live Digi sport special</title>
   </programme>
-  <programme start="20210501070000 -0300" stop="20210501073000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+  <programme start="20210501070000 +0300" stop="20210501073000 +0300" channel="RO: DIGI SPORT 1 HD RO">
     <title lang="ro">Stirile Digi Sport</title>
   </programme>
-  <programme start="20210501073000 -0300" stop="20210501080000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+  <programme start="20210501073000 +0300" stop="20210501080000 +0300" channel="RO: DIGI SPORT 1 HD RO">
     <title lang="ro">Stirile Digi Sport</title>
   </programme>
-  <programme start="20210501080000 -0300" stop="20210501083000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+  <programme start="20210501080000 +0300" stop="20210501083000 +0300" channel="RO: DIGI SPORT 1 HD RO">
     <title lang="ro">Stirile Digi Sport</title>
   </programme>
-  <programme start="20210501083000 -0300" stop="20210501090000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+  <programme start="20210501083000 +0300" stop="20210501090000 +0300" channel="RO: DIGI SPORT 1 HD RO">
     <title lang="ro">Stirile Digi Sport</title>
   </programme>
-  <programme start="20210501090000 -0300" stop="20210501093000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+  <programme start="20210501090000 +0300" stop="20210501093000 +0300" channel="RO: DIGI SPORT 1 HD RO">
     <title lang="ro">Stirile Digi Sport</title>
   </programme>
-  <programme start="20210501093000 -0300" stop="20210501100000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+  <programme start="20210501093000 +0300" stop="20210501100000 +0300" channel="RO: DIGI SPORT 1 HD RO">
     <title lang="ro">Stirile Digi Sport</title>
   </programme>
-  <programme start="20210501100000 -0300" stop="20210501101500 -0300" channel="RO: DIGI SPORT 1 HD RO">
+  <programme start="20210501100000 +0300" stop="20210501101500 +0300" channel="RO: DIGI SPORT 1 HD RO">
     <title lang="ro">Live Stirile Digi Sport</title>
   </programme>
-  <programme start="20210501101500 -0300" stop="20210501110000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+  <programme start="20210501101500 +0300" stop="20210501110000 +0300" channel="RO: DIGI SPORT 1 HD RO">
     <title lang="ro">Live Digi Sport Matinal</title>
   </programme>
-  <programme start="20210501110000 -0300" stop="20210501120000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+  <programme start="20210501110000 +0300" stop="20210501120000 +0300" channel="RO: DIGI SPORT 1 HD RO">
     <title lang="ro">Live Stirile Digi Sport</title>
   </programme>
-  <programme start="20210501120000 -0300" stop="20210501123000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+  <programme start="20210501120000 +0300" stop="20210501123000 +0300" channel="RO: DIGI SPORT 1 HD RO">
     <title lang="ro">Live Stirile Digi Sport</title>
   </programme>
-  <programme start="20210501123000 -0300" stop="20210501131500 -0300" channel="RO: DIGI SPORT 1 HD RO">
+  <programme start="20210501123000 +0300" stop="20210501131500 +0300" channel="RO: DIGI SPORT 1 HD RO">
     <title lang="ro">Live Liga a 2-a: Farul Constanta - Universitatea Cluj Liga a 2-a: play-out</title>
   </programme>
-  <programme start="20210501131500 -0300" stop="20210501133000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+  <programme start="20210501131500 +0300" stop="20210501133000 +0300" channel="RO: DIGI SPORT 1 HD RO">
     <title lang="ro">Live Stirile Digi Sport</title>
   </programme>
-  <programme start="20210501133000 -0300" stop="20210501143000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+  <programme start="20210501133000 +0300" stop="20210501143000 +0300" channel="RO: DIGI SPORT 1 HD RO">
     <title lang="ro">Live Liga a 2-a: Farul Constanta - Universitatea Cluj Liga a 2-a: play-out</title>
   </programme>
-  <programme start="20210501143000 -0300" stop="20210501150000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+  <programme start="20210501143000 +0300" stop="20210501150000 +0300" channel="RO: DIGI SPORT 1 HD RO">
     <title lang="ro">Live Stirile Digi Sport</title>
   </programme>
-  <programme start="20210501150000 -0300" stop="20210501154500 -0300" channel="RO: DIGI SPORT 1 HD RO">
+  <programme start="20210501150000 +0300" stop="20210501154500 +0300" channel="RO: DIGI SPORT 1 HD RO">
     <title lang="ro">Live Liga 1: UTA Arad - Chindia Targoviste Liga 1: play-out</title>
   </programme>
-  <programme start="20210501154500 -0300" stop="20210501160000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+  <programme start="20210501154500 +0300" stop="20210501160000 +0300" channel="RO: DIGI SPORT 1 HD RO">
     <title lang="ro">Live Stirile Digi Sport</title>
   </programme>
-  <programme start="20210501160000 -0300" stop="20210501170000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+  <programme start="20210501160000 +0300" stop="20210501170000 +0300" channel="RO: DIGI SPORT 1 HD RO">
     <title lang="ro">Live Liga 1: UTA Arad - Chindia Targoviste Liga 1: play-out</title>
   </programme>
-  <programme start="20210501170000 -0300" stop="20210501173000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+  <programme start="20210501170000 +0300" stop="20210501173000 +0300" channel="RO: DIGI SPORT 1 HD RO">
     <title lang="ro">Live Digi sport special</title>
   </programme>
-  <programme start="20210501173000 -0300" stop="20210501181500 -0300" channel="RO: DIGI SPORT 1 HD RO">
+  <programme start="20210501173000 +0300" stop="20210501181500 +0300" channel="RO: DIGI SPORT 1 HD RO">
     <title lang="ro">Live Liga 1: Botosani - Sepsi Sfantu Gheorghe Liga 1: play-off</title>
   </programme>
-  <programme start="20210501181500 -0300" stop="20210501183000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+  <programme start="20210501181500 +0300" stop="20210501183000 +0300" channel="RO: DIGI SPORT 1 HD RO">
     <title lang="ro">Live Digi sport special</title>
   </programme>
-  <programme start="20210501183000 -0300" stop="20210501193000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+  <programme start="20210501183000 +0300" stop="20210501193000 +0300" channel="RO: DIGI SPORT 1 HD RO">
     <title lang="ro">Live Liga 1: Botosani - Sepsi Sfantu Gheorghe Liga 1: play-off</title>
   </programme>
-  <programme start="20210501193000 -0300" stop="20210502070000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+  <programme start="20210501193000 +0300" stop="20210502070000 +0300" channel="RO: DIGI SPORT 1 HD RO">
     <title lang="ro">Live Digi sport special</title>
   </programme>
-  <programme start="20210502070000 -0300" stop="20210502073000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+  <programme start="20210502070000 +0300" stop="20210502073000 +0300" channel="RO: DIGI SPORT 1 HD RO">
     <title lang="ro">Stirile Digi Sport</title>
   </programme>
-  <programme start="20210502073000 -0300" stop="20210502080000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+  <programme start="20210502073000 +0300" stop="20210502080000 +0300" channel="RO: DIGI SPORT 1 HD RO">
     <title lang="ro">Stirile Digi Sport</title>
   </programme>
-  <programme start="20210502080000 -0300" stop="20210502083000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+  <programme start="20210502080000 +0300" stop="20210502083000 +0300" channel="RO: DIGI SPORT 1 HD RO">
     <title lang="ro">Stirile Digi Sport</title>
   </programme>
-  <programme start="20210502083000 -0300" stop="20210502090000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+  <programme start="20210502083000 +0300" stop="20210502090000 +0300" channel="RO: DIGI SPORT 1 HD RO">
     <title lang="ro">Stirile Digi Sport</title>
   </programme>
-  <programme start="20210502090000 -0300" stop="20210502093000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+  <programme start="20210502090000 +0300" stop="20210502093000 +0300" channel="RO: DIGI SPORT 1 HD RO">
     <title lang="ro">Stirile Digi Sport</title>
   </programme>
-  <programme start="20210502093000 -0300" stop="20210502100000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+  <programme start="20210502093000 +0300" stop="20210502100000 +0300" channel="RO: DIGI SPORT 1 HD RO">
     <title lang="ro">Stirile Digi Sport</title>
   </programme>
-  <programme start="20210502100000 -0300" stop="20210502101500 -0300" channel="RO: DIGI SPORT 1 HD RO">
+  <programme start="20210502100000 +0300" stop="20210502101500 +0300" channel="RO: DIGI SPORT 1 HD RO">
     <title lang="ro">Stirile Digi Sport</title>
   </programme>
-  <programme start="20210502101500 -0300" stop="20210502120000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+  <programme start="20210502101500 +0300" stop="20210502120000 +0300" channel="RO: DIGI SPORT 1 HD RO">
     <title lang="ro">La Liga: Real Madrid - Osasuna La Liga</title>
   </programme>
-  <programme start="20210502120000 -0300" stop="20210502133000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+  <programme start="20210502120000 +0300" stop="20210502133000 +0300" channel="RO: DIGI SPORT 1 HD RO">
     <title lang="ro">Live Liga Digi Sport</title>
   </programme>
-  <programme start="20210502133000 -0300" stop="20210502141500 -0300" channel="RO: DIGI SPORT 1 HD RO">
+  <programme start="20210502133000 +0300" stop="20210502141500 +0300" channel="RO: DIGI SPORT 1 HD RO">
     <title lang="ro">Live Liga 1: Astra - Politehnica Iasi Liga 1: play-out</title>
   </programme>
-  <programme start="20210502141500 -0300" stop="20210502143000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+  <programme start="20210502141500 +0300" stop="20210502143000 +0300" channel="RO: DIGI SPORT 1 HD RO">
     <title lang="ro">Live Stirile Digi Sport</title>
   </programme>
-  <programme start="20210502143000 -0300" stop="20210502153000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+  <programme start="20210502143000 +0300" stop="20210502153000 +0300" channel="RO: DIGI SPORT 1 HD RO">
     <title lang="ro">Live Liga 1: Astra - Politehnica Iasi Liga 1: play-out</title>
   </programme>
-  <programme start="20210502153000 -0300" stop="20210502160000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+  <programme start="20210502153000 +0300" stop="20210502160000 +0300" channel="RO: DIGI SPORT 1 HD RO">
     <title lang="ro">Live Stirile Digi Sport</title>
   </programme>
-  <programme start="20210502160000 -0300" stop="20210502164500 -0300" channel="RO: DIGI SPORT 1 HD RO">
+  <programme start="20210502160000 +0300" stop="20210502164500 +0300" channel="RO: DIGI SPORT 1 HD RO">
     <title lang="ro">Live Liga 1: Voluntari - Hermannstadt Liga 1: play-out</title>
   </programme>
-  <programme start="20210502164500 -0300" stop="20210502170000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+  <programme start="20210502164500 +0300" stop="20210502170000 +0300" channel="RO: DIGI SPORT 1 HD RO">
     <title lang="ro">Live Stirile Digi Sport</title>
   </programme>
-  <programme start="20210502170000 -0300" stop="20210502180000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+  <programme start="20210502170000 +0300" stop="20210502180000 +0300" channel="RO: DIGI SPORT 1 HD RO">
     <title lang="ro">Live Liga 1: Voluntari - Hermannstadt Liga 1: play-out</title>
   </programme>
-  <programme start="20210502180000 -0300" stop="20210502183000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+  <programme start="20210502180000 +0300" stop="20210502183000 +0300" channel="RO: DIGI SPORT 1 HD RO">
     <title lang="ro">Live Stirile Digi Sport</title>
   </programme>
-  <programme start="20210502183000 -0300" stop="20210502191500 -0300" channel="RO: DIGI SPORT 1 HD RO">
+  <programme start="20210502183000 +0300" stop="20210502191500 +0300" channel="RO: DIGI SPORT 1 HD RO">
     <title lang="ro">Live Liga 1: Viitorul - Dinamo Liga 1: play-out</title>
   </programme>
-  <programme start="20210502191500 -0300" stop="20210502193000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+  <programme start="20210502191500 +0300" stop="20210502193000 +0300" channel="RO: DIGI SPORT 1 HD RO">
     <title lang="ro">Live Stirile Digi Sport</title>
   </programme>
-  <programme start="20210502193000 -0300" stop="20210503070000 -0300" channel="RO: DIGI SPORT 1 HD RO">
+  <programme start="20210502193000 +0300" stop="20210503070000 +0300" channel="RO: DIGI SPORT 1 HD RO">
     <title lang="ro">Live Liga 1: Viitorul - Dinamo Liga 1: play-out</title>
   </programme>
-  <programme start="20210429080000 -0300" stop="20210429100000 -0300" channel="RO: DIGI SPORT 2 HD RO">
-    <title lang="ro">UCL: PSG - Manchester City UEFA Champions League</title>
-  </programme>
-  <programme start="20210429100000 -0300" stop="20210429114500 -0300" channel="RO: DIGI SPORT 2 HD RO">
-    <title lang="ro">Liga 1: CFR Cluj - Botosani Liga 1: play-off</title>
-  </programme>
-  <programme start="20210429114500 -0300" stop="20210429120000 -0300" channel="RO: DIGI SPORT 2 HD RO">
+  <programme start="20210503070000 +0300" stop="20210503073000 +0300" channel="RO: DIGI SPORT 1 HD RO">
     <title lang="ro">Stirile Digi Sport</title>
   </programme>
-  <programme start="20210429120000 -0300" stop="20210429140000 -0300" channel="RO: DIGI SPORT 2 HD RO">
-    <title lang="ro">Live Tenis: WTA Madrid: Elina SVITOLINA (UKR) - Jil TEICHMANN (SUI)</title>
+  <programme start="20210503073000 +0300" stop="20210503080000 +0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Stirile Digi Sport</title>
   </programme>
-  <programme start="20210429140000 -0300" stop="20210429160000 -0300" channel="RO: DIGI SPORT 2 HD RO">
-    <title lang="ro">Live Tenis: WTA Madrid: Petra KVITOVA (CZE) - Marie BOUZKOVA (CZE)</title>
+  <programme start="20210503080000 +0300" stop="20210503083000 +0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Stirile Digi Sport</title>
   </programme>
-  <programme start="20210429160000 -0300" stop="20210429180000 -0300" channel="RO: DIGI SPORT 2 HD RO">
-    <title lang="ro">Live Tenis: WTA Madrid: Ashleigh BARTY (AUS) - Shelby ROGERS (USA)</title>
+  <programme start="20210503083000 +0300" stop="20210503090000 +0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Stirile Digi Sport</title>
   </programme>
-  <programme start="20210429180000 -0300" stop="20210430120000 -0300" channel="RO: DIGI SPORT 2 HD RO">
-    <title lang="ro">Live Tenis: WTA Madrid: Ana BOGDAN (ROU) - Anastasija SEVASTOVA (LAT)</title>
+  <programme start="20210503090000 +0300" stop="20210503093000 +0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Stirile Digi Sport</title>
   </programme>
-  <programme start="20210430120000 -0300" stop="20210430140000 -0300" channel="RO: DIGI SPORT 2 HD RO">
+  <programme start="20210503093000 +0300" stop="20210503100000 +0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20210503100000 +0300" stop="20210503101500 +0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20210503101500 +0300" stop="20210503110000 +0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Digi sport special</title>
+  </programme>
+  <programme start="20210503110000 +0300" stop="20210503111500 +0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20210503111500 +0300" stop="20210503120000 +0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Digi sport special</title>
+  </programme>
+  <programme start="20210503120000 +0300" stop="20210503121500 +0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20210503121500 +0300" stop="20210503130000 +0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Digi sport special</title>
+  </programme>
+  <programme start="20210503130000 +0300" stop="20210503131500 +0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20210503131500 +0300" stop="20210503140000 +0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Digi sport special</title>
+  </programme>
+  <programme start="20210503140000 +0300" stop="20210503143000 +0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20210503143000 +0300" stop="20210503150000 +0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Live Rezumatele etapei Liga 2</title>
+  </programme>
+  <programme start="20210503150000 +0300" stop="20210503151500 +0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Live Stirile Digi Sport</title>
+  </programme>
+  <programme start="20210503151500 +0300" stop="20210503160000 +0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Live Liga Digi Sport</title>
+  </programme>
+  <programme start="20210503160000 +0300" stop="20210503161500 +0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Live Stirile Digi Sport</title>
+  </programme>
+  <programme start="20210503161500 +0300" stop="20210503170000 +0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Live Liga Digi Sport</title>
+  </programme>
+  <programme start="20210503170000 +0300" stop="20210503173000 +0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Live Stirile Digi Sport</title>
+  </programme>
+  <programme start="20210503173000 +0300" stop="20210503190000 +0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Live Fotbal european</title>
+  </programme>
+  <programme start="20210503190000 +0300" stop="20210503193000 +0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Live Stirile Digi Sport</title>
+  </programme>
+  <programme start="20210503193000 +0300" stop="20210504070000 +0300" channel="RO: DIGI SPORT 1 HD RO">
+    <title lang="ro">Live Digi sport special</title>
+  </programme>
+  <programme start="20210430120000 +0300" stop="20210430140000 +0300" channel="RO: DIGI SPORT 2 HD RO">
     <title lang="ro">Live Tenis: WTA Madrid : Irina-Camelia BEGU (ROU) - Daria KASATKINA (RUS)</title>
   </programme>
-  <programme start="20210430140000 -0300" stop="20210430160000 -0300" channel="RO: DIGI SPORT 2 HD RO">
+  <programme start="20210430140000 +0300" stop="20210430160000 +0300" channel="RO: DIGI SPORT 2 HD RO">
     <title lang="ro">Live Tenis: WTA Madrid: Sorana CIRSTEA (ROU) - Jessica PEGULA (USA)</title>
   </programme>
-  <programme start="20210430160000 -0300" stop="20210430180000 -0300" channel="RO: DIGI SPORT 2 HD RO">
+  <programme start="20210430160000 +0300" stop="20210430180000 +0300" channel="RO: DIGI SPORT 2 HD RO">
     <title lang="ro">Live Tenis: WTA Madrid: Simona HALEP (ROU) - Sara SORRIBES TORMO (ESP</title>
   </programme>
-  <programme start="20210430180000 -0300" stop="20210501100000 -0300" channel="RO: DIGI SPORT 2 HD RO">
+  <programme start="20210430180000 +0300" stop="20210501100000 +0300" channel="RO: DIGI SPORT 2 HD RO">
     <title lang="ro">LIVE Tenis: WTA Madrid: Karolina PLISKOVA (CZE) - Cori GAUFF (USA)</title>
   </programme>
-  <programme start="20210501100000 -0300" stop="20210501120000 -0300" channel="RO: DIGI SPORT 2 HD RO">
+  <programme start="20210501100000 +0300" stop="20210501120000 +0300" channel="RO: DIGI SPORT 2 HD RO">
     <title lang="ro">Tenis: WTA Madrid</title>
   </programme>
-  <programme start="20210501120000 -0300" stop="20210501150000 -0300" channel="RO: DIGI SPORT 2 HD RO">
+  <programme start="20210501120000 +0300" stop="20210501150000 +0300" channel="RO: DIGI SPORT 2 HD RO">
     <title lang="ro">Live Tenis: WTA Madrid</title>
   </programme>
-  <programme start="20210501150000 -0300" stop="20210501180000 -0300" channel="RO: DIGI SPORT 2 HD RO">
+  <programme start="20210501150000 +0300" stop="20210501180000 +0300" channel="RO: DIGI SPORT 2 HD RO">
     <title lang="ro">Live Tenis: WTA Madrid</title>
   </programme>
-  <programme start="20210501180000 -0300" stop="20210502100000 -0300" channel="RO: DIGI SPORT 2 HD RO">
+  <programme start="20210501180000 +0300" stop="20210502100000 +0300" channel="RO: DIGI SPORT 2 HD RO">
     <title lang="ro">Live Tenis: WTA Madrid</title>
   </programme>
-  <programme start="20210502100000 -0300" stop="20210502120000 -0300" channel="RO: DIGI SPORT 2 HD RO">
+  <programme start="20210502100000 +0300" stop="20210502120000 +0300" channel="RO: DIGI SPORT 2 HD RO">
     <title lang="ro">Tenis: WTA Madrid</title>
   </programme>
-  <programme start="20210502120000 -0300" stop="20210502150000 -0300" channel="RO: DIGI SPORT 2 HD RO">
+  <programme start="20210502120000 +0300" stop="20210502150000 +0300" channel="RO: DIGI SPORT 2 HD RO">
     <title lang="ro">Live Tenis: WTA Madrid</title>
   </programme>
-  <programme start="20210502150000 -0300" stop="20210502180000 -0300" channel="RO: DIGI SPORT 2 HD RO">
+  <programme start="20210502150000 +0300" stop="20210502180000 +0300" channel="RO: DIGI SPORT 2 HD RO">
     <title lang="ro">Live Tenis: WTA Madrid</title>
   </programme>
-  <programme start="20210502180000 -0300" stop="20210503070000 -0300" channel="RO: DIGI SPORT 2 HD RO">
+  <programme start="20210502180000 +0300" stop="20210503070000 +0300" channel="RO: DIGI SPORT 2 HD RO">
     <title lang="ro">Live Tenis: WTA Madrid</title>
   </programme>
-  <programme start="20210429071500 -0300" stop="20210429073000 -0300" channel="RO: DIGI SPORT 3 HD RO">
+  <programme start="20210503070000 +0300" stop="20210503090000 +0300" channel="RO: DIGI SPORT 2 HD RO">
+    <title lang="ro">Tenis: WTA Madrid</title>
+  </programme>
+  <programme start="20210503090000 +0300" stop="20210503110000 +0300" channel="RO: DIGI SPORT 2 HD RO">
+    <title lang="ro">Tenis: WTA Madrid</title>
+  </programme>
+  <programme start="20210503110000 +0300" stop="20210503140000 +0300" channel="RO: DIGI SPORT 2 HD RO">
+    <title lang="ro">Tenis: WTA Madrid</title>
+  </programme>
+  <programme start="20210503140000 +0300" stop="20210503160000 +0300" channel="RO: DIGI SPORT 2 HD RO">
+    <title lang="ro">Live Tenis: WTA Madrid</title>
+  </programme>
+  <programme start="20210503160000 +0300" stop="20210503180000 +0300" channel="RO: DIGI SPORT 2 HD RO">
+    <title lang="ro">Live Tenis: WTA Madrid</title>
+  </programme>
+  <programme start="20210503180000 +0300" stop="20210504070000 +0300" channel="RO: DIGI SPORT 2 HD RO">
+    <title lang="ro">Live Tenis: WTA Madrid</title>
+  </programme>
+  <programme start="20210430071500 +0300" stop="20210430073000 +0300" channel="RO: DIGI SPORT 3 HD RO">
     <title lang="ro">Gimnastica de dimineata</title>
   </programme>
-  <programme start="20210429073000 -0300" stop="20210429074500 -0300" channel="RO: DIGI SPORT 3 HD RO">
+  <programme start="20210430073000 +0300" stop="20210430074500 +0300" channel="RO: DIGI SPORT 3 HD RO">
     <title lang="ro">Gimnastica de dimineata</title>
   </programme>
-  <programme start="20210429074500 -0300" stop="20210429080000 -0300" channel="RO: DIGI SPORT 3 HD RO">
+  <programme start="20210430074500 +0300" stop="20210430080000 +0300" channel="RO: DIGI SPORT 3 HD RO">
     <title lang="ro">Gimnastica de dimineata</title>
   </programme>
-  <programme start="20210429080000 -0300" stop="20210429081500 -0300" channel="RO: DIGI SPORT 3 HD RO">
+  <programme start="20210430080000 +0300" stop="20210430081500 +0300" channel="RO: DIGI SPORT 3 HD RO">
     <title lang="ro">Gimnastica de dimineata</title>
   </programme>
-  <programme start="20210429081500 -0300" stop="20210429083000 -0300" channel="RO: DIGI SPORT 3 HD RO">
+  <programme start="20210430081500 +0300" stop="20210430083000 +0300" channel="RO: DIGI SPORT 3 HD RO">
     <title lang="ro">Gimnastica de dimineata</title>
   </programme>
-  <programme start="20210429083000 -0300" stop="20210429084500 -0300" channel="RO: DIGI SPORT 3 HD RO">
+  <programme start="20210430083000 +0300" stop="20210430084500 +0300" channel="RO: DIGI SPORT 3 HD RO">
     <title lang="ro">Gimnastica de dimineata</title>
   </programme>
-  <programme start="20210429084500 -0300" stop="20210429090000 -0300" channel="RO: DIGI SPORT 3 HD RO">
+  <programme start="20210430084500 +0300" stop="20210430090000 +0300" channel="RO: DIGI SPORT 3 HD RO">
     <title lang="ro">Gimnastica de dimineata</title>
   </programme>
-  <programme start="20210429090000 -0300" stop="20210429091500 -0300" channel="RO: DIGI SPORT 3 HD RO">
+  <programme start="20210430090000 +0300" stop="20210430091500 +0300" channel="RO: DIGI SPORT 3 HD RO">
     <title lang="ro">Gimnastica de dimineata</title>
   </programme>
-  <programme start="20210429091500 -0300" stop="20210429093000 -0300" channel="RO: DIGI SPORT 3 HD RO">
+  <programme start="20210430091500 +0300" stop="20210430093000 +0300" channel="RO: DIGI SPORT 3 HD RO">
     <title lang="ro">Gimnastica de dimineata</title>
   </programme>
-  <programme start="20210429093000 -0300" stop="20210429094500 -0300" channel="RO: DIGI SPORT 3 HD RO">
+  <programme start="20210430093000 +0300" stop="20210430094500 +0300" channel="RO: DIGI SPORT 3 HD RO">
     <title lang="ro">Gimnastica de dimineata</title>
   </programme>
-  <programme start="20210429094500 -0300" stop="20210429100000 -0300" channel="RO: DIGI SPORT 3 HD RO">
+  <programme start="20210430094500 +0300" stop="20210430100000 +0300" channel="RO: DIGI SPORT 3 HD RO">
     <title lang="ro">Gimnastica de dimineata</title>
   </programme>
-  <programme start="20210429100000 -0300" stop="20210429101500 -0300" channel="RO: DIGI SPORT 3 HD RO">
-    <title lang="ro">Digi Sport Show</title>
-  </programme>
-  <programme start="20210429101500 -0300" stop="20210429110000 -0300" channel="RO: DIGI SPORT 3 HD RO">
-    <title lang="ro">Stirile Digi Sport</title>
-  </programme>
-  <programme start="20210429110000 -0300" stop="20210429111500 -0300" channel="RO: DIGI SPORT 3 HD RO">
-    <title lang="ro">Digi Sport Show</title>
-  </programme>
-  <programme start="20210429111500 -0300" stop="20210429114500 -0300" channel="RO: DIGI SPORT 3 HD RO">
-    <title lang="ro">Stirile Digi Sport</title>
-  </programme>
-  <programme start="20210429114500 -0300" stop="20210429121500 -0300" channel="RO: DIGI SPORT 3 HD RO">
-    <title lang="ro">Serie A: full impact</title>
-  </programme>
-  <programme start="20210429121500 -0300" stop="20210429130000 -0300" channel="RO: DIGI SPORT 3 HD RO">
-    <title lang="ro">Stirile Digi Sport</title>
-  </programme>
-  <programme start="20210429130000 -0300" stop="20210429131500 -0300" channel="RO: DIGI SPORT 3 HD RO">
-    <title lang="ro">Digi Sport Show</title>
-  </programme>
-  <programme start="20210429131500 -0300" stop="20210429140000 -0300" channel="RO: DIGI SPORT 3 HD RO">
-    <title lang="ro">Stirile Digi Sport</title>
-  </programme>
-  <programme start="20210429140000 -0300" stop="20210429141500 -0300" channel="RO: DIGI SPORT 3 HD RO">
-    <title lang="ro">Digi Sport Show</title>
-  </programme>
-  <programme start="20210429141500 -0300" stop="20210429144500 -0300" channel="RO: DIGI SPORT 3 HD RO">
-    <title lang="ro">Stirile Digi Sport</title>
-  </programme>
-  <programme start="20210429144500 -0300" stop="20210429151500 -0300" channel="RO: DIGI SPORT 3 HD RO">
-    <title lang="ro">Stirile Digi Sport</title>
-  </programme>
-  <programme start="20210429151500 -0300" stop="20210429154500 -0300" channel="RO: DIGI SPORT 3 HD RO">
-    <title lang="ro">Stirile Digi Sport</title>
-  </programme>
-  <programme start="20210429154500 -0300" stop="20210429160000 -0300" channel="RO: DIGI SPORT 3 HD RO">
-    <title lang="ro">Digi Sport Show</title>
-  </programme>
-  <programme start="20210429160000 -0300" stop="20210429163000 -0300" channel="RO: DIGI SPORT 3 HD RO">
-    <title lang="ro">Stirile Digi Sport</title>
-  </programme>
-  <programme start="20210429163000 -0300" stop="20210429170000 -0300" channel="RO: DIGI SPORT 3 HD RO">
-    <title lang="ro">Stirile Digi Sport</title>
-  </programme>
-  <programme start="20210429170000 -0300" stop="20210429190000 -0300" channel="RO: DIGI SPORT 3 HD RO">
-    <title lang="ro">Live Baschet M.: CS SCM Timisoara - SCM U Craiova Liga Nationala</title>
-  </programme>
-  <programme start="20210429190000 -0300" stop="20210429193000 -0300" channel="RO: DIGI SPORT 3 HD RO">
-    <title lang="ro">Stirile Digi Sport</title>
-  </programme>
-  <programme start="20210429193000 -0300" stop="20210430071500 -0300" channel="RO: DIGI SPORT 3 HD RO">
-    <title lang="ro">Stirile Digi Sport</title>
-  </programme>
-  <programme start="20210430071500 -0300" stop="20210430073000 -0300" channel="RO: DIGI SPORT 3 HD RO">
-    <title lang="ro">Gimnastica de dimineata</title>
-  </programme>
-  <programme start="20210430073000 -0300" stop="20210430074500 -0300" channel="RO: DIGI SPORT 3 HD RO">
-    <title lang="ro">Gimnastica de dimineata</title>
-  </programme>
-  <programme start="20210430074500 -0300" stop="20210430080000 -0300" channel="RO: DIGI SPORT 3 HD RO">
-    <title lang="ro">Gimnastica de dimineata</title>
-  </programme>
-  <programme start="20210430080000 -0300" stop="20210430081500 -0300" channel="RO: DIGI SPORT 3 HD RO">
-    <title lang="ro">Gimnastica de dimineata</title>
-  </programme>
-  <programme start="20210430081500 -0300" stop="20210430083000 -0300" channel="RO: DIGI SPORT 3 HD RO">
-    <title lang="ro">Gimnastica de dimineata</title>
-  </programme>
-  <programme start="20210430083000 -0300" stop="20210430084500 -0300" channel="RO: DIGI SPORT 3 HD RO">
-    <title lang="ro">Gimnastica de dimineata</title>
-  </programme>
-  <programme start="20210430084500 -0300" stop="20210430090000 -0300" channel="RO: DIGI SPORT 3 HD RO">
-    <title lang="ro">Gimnastica de dimineata</title>
-  </programme>
-  <programme start="20210430090000 -0300" stop="20210430091500 -0300" channel="RO: DIGI SPORT 3 HD RO">
-    <title lang="ro">Gimnastica de dimineata</title>
-  </programme>
-  <programme start="20210430091500 -0300" stop="20210430093000 -0300" channel="RO: DIGI SPORT 3 HD RO">
-    <title lang="ro">Gimnastica de dimineata</title>
-  </programme>
-  <programme start="20210430093000 -0300" stop="20210430094500 -0300" channel="RO: DIGI SPORT 3 HD RO">
-    <title lang="ro">Gimnastica de dimineata</title>
-  </programme>
-  <programme start="20210430094500 -0300" stop="20210430100000 -0300" channel="RO: DIGI SPORT 3 HD RO">
-    <title lang="ro">Gimnastica de dimineata</title>
-  </programme>
-  <programme start="20210430100000 -0300" stop="20210430124500 -0300" channel="RO: DIGI SPORT 3 HD RO">
+  <programme start="20210430100000 +0300" stop="20210430124500 +0300" channel="RO: DIGI SPORT 3 HD RO">
     <title lang="ro">Live Moto: antrenamente Marele Premiu al Spaniei</title>
   </programme>
-  <programme start="20210430124500 -0300" stop="20210430130000 -0300" channel="RO: DIGI SPORT 3 HD RO">
+  <programme start="20210430124500 +0300" stop="20210430130000 +0300" channel="RO: DIGI SPORT 3 HD RO">
     <title lang="ro">Stirile Digi Sport</title>
   </programme>
-  <programme start="20210430130000 -0300" stop="20210430131500 -0300" channel="RO: DIGI SPORT 3 HD RO">
+  <programme start="20210430130000 +0300" stop="20210430131500 +0300" channel="RO: DIGI SPORT 3 HD RO">
     <title lang="ro">Digi Sport Show</title>
   </programme>
-  <programme start="20210430131500 -0300" stop="20210430133000 -0300" channel="RO: DIGI SPORT 3 HD RO">
+  <programme start="20210430131500 +0300" stop="20210430133000 +0300" channel="RO: DIGI SPORT 3 HD RO">
     <title lang="ro">Stirile Digi Sport</title>
   </programme>
-  <programme start="20210430133000 -0300" stop="20210430144500 -0300" channel="RO: DIGI SPORT 3 HD RO">
+  <programme start="20210430133000 +0300" stop="20210430144500 +0300" channel="RO: DIGI SPORT 3 HD RO">
     <title lang="ro">Live F1: antrenamente Marele Premiu al Portugaliei</title>
   </programme>
-  <programme start="20210430144500 -0300" stop="20210430150000 -0300" channel="RO: DIGI SPORT 3 HD RO">
+  <programme start="20210430144500 +0300" stop="20210430150000 +0300" channel="RO: DIGI SPORT 3 HD RO">
     <title lang="ro">Stirile Digi Sport</title>
   </programme>
-  <programme start="20210430150000 -0300" stop="20210430170000 -0300" channel="RO: DIGI SPORT 3 HD RO">
+  <programme start="20210430150000 +0300" stop="20210430170000 +0300" channel="RO: DIGI SPORT 3 HD RO">
     <title lang="ro">Live Moto: antrenamente Marele Premiu al Spaniei</title>
   </programme>
-  <programme start="20210430170000 -0300" stop="20210430184500 -0300" channel="RO: DIGI SPORT 3 HD RO">
+  <programme start="20210430170000 +0300" stop="20210430184500 +0300" channel="RO: DIGI SPORT 3 HD RO">
     <title lang="ro">Live Baschet M.: SCM U Craiova - CSM CSU Oradea Liga Nationala</title>
   </programme>
-  <programme start="20210430184500 -0300" stop="20210501071500 -0300" channel="RO: DIGI SPORT 3 HD RO">
+  <programme start="20210430184500 +0300" stop="20210501071500 +0300" channel="RO: DIGI SPORT 3 HD RO">
     <title lang="ro">Premiera F1: antrenamente Marele Premiu al Portugaliei</title>
   </programme>
-  <programme start="20210501071500 -0300" stop="20210501073000 -0300" channel="RO: DIGI SPORT 3 HD RO">
+  <programme start="20210501071500 +0300" stop="20210501073000 +0300" channel="RO: DIGI SPORT 3 HD RO">
     <title lang="ro">Gimnastica de dimineata</title>
   </programme>
-  <programme start="20210501073000 -0300" stop="20210501074500 -0300" channel="RO: DIGI SPORT 3 HD RO">
+  <programme start="20210501073000 +0300" stop="20210501074500 +0300" channel="RO: DIGI SPORT 3 HD RO">
     <title lang="ro">Gimnastica de dimineata</title>
   </programme>
-  <programme start="20210501074500 -0300" stop="20210501080000 -0300" channel="RO: DIGI SPORT 3 HD RO">
+  <programme start="20210501074500 +0300" stop="20210501080000 +0300" channel="RO: DIGI SPORT 3 HD RO">
     <title lang="ro">Gimnastica de dimineata</title>
   </programme>
-  <programme start="20210501080000 -0300" stop="20210501081500 -0300" channel="RO: DIGI SPORT 3 HD RO">
+  <programme start="20210501080000 +0300" stop="20210501081500 +0300" channel="RO: DIGI SPORT 3 HD RO">
     <title lang="ro">Gimnastica de dimineata</title>
   </programme>
-  <programme start="20210501081500 -0300" stop="20210501083000 -0300" channel="RO: DIGI SPORT 3 HD RO">
+  <programme start="20210501081500 +0300" stop="20210501083000 +0300" channel="RO: DIGI SPORT 3 HD RO">
     <title lang="ro">Gimnastica de dimineata</title>
   </programme>
-  <programme start="20210501083000 -0300" stop="20210501084500 -0300" channel="RO: DIGI SPORT 3 HD RO">
+  <programme start="20210501083000 +0300" stop="20210501084500 +0300" channel="RO: DIGI SPORT 3 HD RO">
     <title lang="ro">Gimnastica de dimineata</title>
   </programme>
-  <programme start="20210501084500 -0300" stop="20210501090000 -0300" channel="RO: DIGI SPORT 3 HD RO">
+  <programme start="20210501084500 +0300" stop="20210501090000 +0300" channel="RO: DIGI SPORT 3 HD RO">
     <title lang="ro">Gimnastica de dimineata</title>
   </programme>
-  <programme start="20210501090000 -0300" stop="20210501091500 -0300" channel="RO: DIGI SPORT 3 HD RO">
+  <programme start="20210501090000 +0300" stop="20210501091500 +0300" channel="RO: DIGI SPORT 3 HD RO">
     <title lang="ro">Gimnastica de dimineata</title>
   </programme>
-  <programme start="20210501091500 -0300" stop="20210501093000 -0300" channel="RO: DIGI SPORT 3 HD RO">
+  <programme start="20210501091500 +0300" stop="20210501093000 +0300" channel="RO: DIGI SPORT 3 HD RO">
     <title lang="ro">Gimnastica de dimineata</title>
   </programme>
-  <programme start="20210501093000 -0300" stop="20210501094500 -0300" channel="RO: DIGI SPORT 3 HD RO">
+  <programme start="20210501093000 +0300" stop="20210501094500 +0300" channel="RO: DIGI SPORT 3 HD RO">
     <title lang="ro">Gimnastica de dimineata</title>
   </programme>
-  <programme start="20210501094500 -0300" stop="20210501100000 -0300" channel="RO: DIGI SPORT 3 HD RO">
+  <programme start="20210501094500 +0300" stop="20210501100000 +0300" channel="RO: DIGI SPORT 3 HD RO">
     <title lang="ro">Gimnastica de dimineata</title>
   </programme>
-  <programme start="20210501100000 -0300" stop="20210501101500 -0300" channel="RO: DIGI SPORT 3 HD RO">
+  <programme start="20210501100000 +0300" stop="20210501101500 +0300" channel="RO: DIGI SPORT 3 HD RO">
     <title lang="ro">Digi Sport Show</title>
   </programme>
-  <programme start="20210501101500 -0300" stop="20210501110000 -0300" channel="RO: DIGI SPORT 3 HD RO">
+  <programme start="20210501101500 +0300" stop="20210501110000 +0300" channel="RO: DIGI SPORT 3 HD RO">
     <title lang="ro">Stirile Digi Sport</title>
   </programme>
-  <programme start="20210501110000 -0300" stop="20210501113000 -0300" channel="RO: DIGI SPORT 3 HD RO">
+  <programme start="20210501110000 +0300" stop="20210501113000 +0300" channel="RO: DIGI SPORT 3 HD RO">
     <title lang="ro">Avanpremiera Ligue 1</title>
   </programme>
-  <programme start="20210501113000 -0300" stop="20210501120000 -0300" channel="RO: DIGI SPORT 3 HD RO">
+  <programme start="20210501113000 +0300" stop="20210501120000 +0300" channel="RO: DIGI SPORT 3 HD RO">
     <title lang="ro">Stirile Digi Sport</title>
   </programme>
-  <programme start="20210501120000 -0300" stop="20210501123000 -0300" channel="RO: DIGI SPORT 3 HD RO">
+  <programme start="20210501120000 +0300" stop="20210501123000 +0300" channel="RO: DIGI SPORT 3 HD RO">
     <title lang="ro">Avanpremiera Serie A</title>
   </programme>
-  <programme start="20210501123000 -0300" stop="20210501130000 -0300" channel="RO: DIGI SPORT 3 HD RO">
+  <programme start="20210501123000 +0300" stop="20210501130000 +0300" channel="RO: DIGI SPORT 3 HD RO">
     <title lang="ro">Avanpremiera La Liga</title>
   </programme>
-  <programme start="20210501130000 -0300" stop="20210501131500 -0300" channel="RO: DIGI SPORT 3 HD RO">
+  <programme start="20210501130000 +0300" stop="20210501131500 +0300" channel="RO: DIGI SPORT 3 HD RO">
     <title lang="ro">Stirile Digi Sport</title>
   </programme>
-  <programme start="20210501131500 -0300" stop="20210501133000 -0300" channel="RO: DIGI SPORT 3 HD RO">
+  <programme start="20210501131500 +0300" stop="20210501133000 +0300" channel="RO: DIGI SPORT 3 HD RO">
     <title lang="ro">Digi Sport Show</title>
   </programme>
-  <programme start="20210501133000 -0300" stop="20210501140000 -0300" channel="RO: DIGI SPORT 3 HD RO">
+  <programme start="20210501133000 +0300" stop="20210501140000 +0300" channel="RO: DIGI SPORT 3 HD RO">
     <title lang="ro">Stirile Digi Sport</title>
   </programme>
-  <programme start="20210501140000 -0300" stop="20210501160000 -0300" channel="RO: DIGI SPORT 3 HD RO">
+  <programme start="20210501140000 +0300" stop="20210501160000 +0300" channel="RO: DIGI SPORT 3 HD RO">
     <title lang="ro">Live F1: antrenamente Marele Premiu al Portugaliei</title>
   </programme>
-  <programme start="20210501160000 -0300" stop="20210501170000 -0300" channel="RO: DIGI SPORT 3 HD RO">
+  <programme start="20210501160000 +0300" stop="20210501170000 +0300" channel="RO: DIGI SPORT 3 HD RO">
     <title lang="ro">Live La Liga: Eibar - Alaves La Liga</title>
   </programme>
-  <programme start="20210501170000 -0300" stop="20210501171500 -0300" channel="RO: DIGI SPORT 3 HD RO">
+  <programme start="20210501170000 +0300" stop="20210501171500 +0300" channel="RO: DIGI SPORT 3 HD RO">
     <title lang="ro">Stirile Digi Sport</title>
   </programme>
-  <programme start="20210501171500 -0300" stop="20210501190000 -0300" channel="RO: DIGI SPORT 3 HD RO">
+  <programme start="20210501171500 +0300" stop="20210501190000 +0300" channel="RO: DIGI SPORT 3 HD RO">
     <title lang="ro">Live La Liga: Elche - Atletico Madrid La Liga</title>
   </programme>
-  <programme start="20210501190000 -0300" stop="20210502071500 -0300" channel="RO: DIGI SPORT 3 HD RO">
+  <programme start="20210501190000 +0300" stop="20210502071500 +0300" channel="RO: DIGI SPORT 3 HD RO">
     <title lang="ro">Live Serie A: Crotone - Inter Serie A</title>
   </programme>
-  <programme start="20210502071500 -0300" stop="20210502073000 -0300" channel="RO: DIGI SPORT 3 HD RO">
+  <programme start="20210502071500 +0300" stop="20210502073000 +0300" channel="RO: DIGI SPORT 3 HD RO">
     <title lang="ro">Gimnastica de dimineata</title>
   </programme>
-  <programme start="20210502073000 -0300" stop="20210502074500 -0300" channel="RO: DIGI SPORT 3 HD RO">
+  <programme start="20210502073000 +0300" stop="20210502074500 +0300" channel="RO: DIGI SPORT 3 HD RO">
     <title lang="ro">Gimnastica de dimineata</title>
   </programme>
-  <programme start="20210502074500 -0300" stop="20210502080000 -0300" channel="RO: DIGI SPORT 3 HD RO">
+  <programme start="20210502074500 +0300" stop="20210502080000 +0300" channel="RO: DIGI SPORT 3 HD RO">
     <title lang="ro">Gimnastica de dimineata</title>
   </programme>
-  <programme start="20210502080000 -0300" stop="20210502081500 -0300" channel="RO: DIGI SPORT 3 HD RO">
+  <programme start="20210502080000 +0300" stop="20210502081500 +0300" channel="RO: DIGI SPORT 3 HD RO">
     <title lang="ro">Gimnastica de dimineata</title>
   </programme>
-  <programme start="20210502081500 -0300" stop="20210502083000 -0300" channel="RO: DIGI SPORT 3 HD RO">
+  <programme start="20210502081500 +0300" stop="20210502083000 +0300" channel="RO: DIGI SPORT 3 HD RO">
     <title lang="ro">Gimnastica de dimineata</title>
   </programme>
-  <programme start="20210502083000 -0300" stop="20210502084500 -0300" channel="RO: DIGI SPORT 3 HD RO">
+  <programme start="20210502083000 +0300" stop="20210502084500 +0300" channel="RO: DIGI SPORT 3 HD RO">
     <title lang="ro">Gimnastica de dimineata</title>
   </programme>
-  <programme start="20210502084500 -0300" stop="20210502090000 -0300" channel="RO: DIGI SPORT 3 HD RO">
+  <programme start="20210502084500 +0300" stop="20210502090000 +0300" channel="RO: DIGI SPORT 3 HD RO">
     <title lang="ro">Gimnastica de dimineata</title>
   </programme>
-  <programme start="20210502090000 -0300" stop="20210502091500 -0300" channel="RO: DIGI SPORT 3 HD RO">
+  <programme start="20210502090000 +0300" stop="20210502091500 +0300" channel="RO: DIGI SPORT 3 HD RO">
     <title lang="ro">Gimnastica de dimineata</title>
   </programme>
-  <programme start="20210502091500 -0300" stop="20210502104500 -0300" channel="RO: DIGI SPORT 3 HD RO">
+  <programme start="20210502091500 +0300" stop="20210502104500 +0300" channel="RO: DIGI SPORT 3 HD RO">
     <title lang="ro">Live Moto: curse Marele Premiu al Spaniei</title>
   </programme>
-  <programme start="20210502104500 -0300" stop="20210502110000 -0300" channel="RO: DIGI SPORT 3 HD RO">
+  <programme start="20210502104500 +0300" stop="20210502110000 +0300" channel="RO: DIGI SPORT 3 HD RO">
     <title lang="ro">Stirile Digi Sport</title>
   </programme>
-  <programme start="20210502110000 -0300" stop="20210502160000 -0300" channel="RO: DIGI SPORT 3 HD RO">
+  <programme start="20210502110000 +0300" stop="20210502160000 +0300" channel="RO: DIGI SPORT 3 HD RO">
     <title lang="ro">Live Moto: curse Marele Premiu al Spaniei</title>
   </programme>
-  <programme start="20210502160000 -0300" stop="20210502170000 -0300" channel="RO: DIGI SPORT 3 HD RO">
+  <programme start="20210502160000 +0300" stop="20210502170000 +0300" channel="RO: DIGI SPORT 3 HD RO">
     <title lang="ro">Live Grila de start</title>
   </programme>
-  <programme start="20210502170000 -0300" stop="20210502190000 -0300" channel="RO: DIGI SPORT 3 HD RO">
+  <programme start="20210502170000 +0300" stop="20210502190000 +0300" channel="RO: DIGI SPORT 3 HD RO">
     <title lang="ro">Live F1: Cursa Marele Premiu al Portugaliei</title>
   </programme>
-  <programme start="20210502190000 -0300" stop="20210503071500 -0300" channel="RO: DIGI SPORT 3 HD RO">
+  <programme start="20210502190000 +0300" stop="20210503071500 +0300" channel="RO: DIGI SPORT 3 HD RO">
     <title lang="ro">Live Serie A: Udinese - Juventus Serie A</title>
   </programme>
-  <programme start="20210429070000 -0300" stop="20210429080000 -0300" channel="RO: DIGI SPORT 4 HD RO">
-    <title lang="ro">Rezumat Franta Ligue 1</title>
+  <programme start="20210503071500 +0300" stop="20210503073000 +0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Gimnastica de dimineata</title>
   </programme>
-  <programme start="20210429080000 -0300" stop="20210429083000 -0300" channel="RO: DIGI SPORT 4 HD RO">
-    <title lang="ro">Rezumat Cupa Ligii Angliei</title>
+  <programme start="20210503073000 +0300" stop="20210503074500 +0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Gimnastica de dimineata</title>
   </programme>
-  <programme start="20210429083000 -0300" stop="20210429101500 -0300" channel="RO: DIGI SPORT 4 HD RO">
-    <title lang="ro">Liga 1: Sepsi Sfantu Gheorghe - Academica Clinceni Liga 1: play-off</title>
+  <programme start="20210503074500 +0300" stop="20210503080000 +0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Gimnastica de dimineata</title>
   </programme>
-  <programme start="20210429101500 -0300" stop="20210429120000 -0300" channel="RO: DIGI SPORT 4 HD RO">
-    <title lang="ro">La Liga: Athletic Bilbao - Valladolid La Liga</title>
+  <programme start="20210503080000 +0300" stop="20210503081500 +0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Gimnastica de dimineata</title>
   </programme>
-  <programme start="20210429120000 -0300" stop="20210429140000 -0300" channel="RO: DIGI SPORT 4 HD RO">
-    <title lang="ro">Live Tenis: WTA Madrid: Angelique KERBER (GER) - Marketa VONDROUSOVA (CZE)</title>
+  <programme start="20210503081500 +0300" stop="20210503083000 +0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Gimnastica de dimineata</title>
   </programme>
-  <programme start="20210429140000 -0300" stop="20210429160000 -0300" channel="RO: DIGI SPORT 4 HD RO">
-    <title lang="ro">Live Tenis: WTA Madrid: Yulia PUTINTSEVA (KAZ) - Johanna KONTA (GBR)</title>
+  <programme start="20210503083000 +0300" stop="20210503084500 +0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Gimnastica de dimineata</title>
   </programme>
-  <programme start="20210429160000 -0300" stop="20210429180000 -0300" channel="RO: DIGI SPORT 4 HD RO">
-    <title lang="ro">Live Tenis: WTA Madrid: Alison RISKE (USA) - Iga SWIATEK (POL)</title>
+  <programme start="20210503084500 +0300" stop="20210503090000 +0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Gimnastica de dimineata</title>
   </programme>
-  <programme start="20210429180000 -0300" stop="20210430070000 -0300" channel="RO: DIGI SPORT 4 HD RO">
-    <title lang="ro">Live Tenis, WTA Madrid: Garbiñe MUGURUZA (ESP) - Sloane STEPHENS (USA)</title>
+  <programme start="20210503090000 +0300" stop="20210503091500 +0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Gimnastica de dimineata</title>
   </programme>
-  <programme start="20210430070000 -0300" stop="20210430083000 -0300" channel="RO: DIGI SPORT 4 HD RO">
-    <title lang="ro">Liga 1: Universitatea Craiova - FCSB Liga 1: play-off</title>
+  <programme start="20210503091500 +0300" stop="20210503093000 +0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Gimnastica de dimineata</title>
   </programme>
-  <programme start="20210430083000 -0300" stop="20210430101500 -0300" channel="RO: DIGI SPORT 4 HD RO">
-    <title lang="ro">UEL: Villareal - Arsenal UEFA Europa League</title>
+  <programme start="20210503093000 +0300" stop="20210503094500 +0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Gimnastica de dimineata</title>
   </programme>
-  <programme start="20210430101500 -0300" stop="20210430120000 -0300" channel="RO: DIGI SPORT 4 HD RO">
-    <title lang="ro">UEL: Manchester United - Roma UEFA Europa League</title>
+  <programme start="20210503094500 +0300" stop="20210503100000 +0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Gimnastica de dimineata</title>
   </programme>
-  <programme start="20210430120000 -0300" stop="20210430140000 -0300" channel="RO: DIGI SPORT 4 HD RO">
-    <title lang="ro">Live Tenis: WTA Madrid: Aryna SABALENKA (BLR) - Vera ZVONAREVA (RUS)</title>
+  <programme start="20210503100000 +0300" stop="20210503101500 +0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Digi Sport Show</title>
   </programme>
-  <programme start="20210430140000 -0300" stop="20210430160000 -0300" channel="RO: DIGI SPORT 4 HD RO">
-    <title lang="ro">Live Tenis: WTA Madrid: Misaki DOI (JPN) - Naomi OSAKA (JPN)</title>
-  </programme>
-  <programme start="20210430160000 -0300" stop="20210430180000 -0300" channel="RO: DIGI SPORT 4 HD RO">
-    <title lang="ro">Live Tenis: WTA Madrid: Elise MERTENS (BEL) - Shuai ZHANG (CHN)</title>
-  </programme>
-  <programme start="20210430180000 -0300" stop="20210501070000 -0300" channel="RO: DIGI SPORT 4 HD RO">
-    <title lang="ro">LIVE Tenis: WTA Madrid: Monica NICULESCU (ROU)/) Lyudmyla KICHENOK (UKR) - Sharon FICHMAN (CAN)/Giuliana OLMOS (MEX)</title>
-  </programme>
-  <programme start="20210501070000 -0300" stop="20210501074500 -0300" channel="RO: DIGI SPORT 4 HD RO">
-    <title lang="ro">Rezumatele etapei Liga 1</title>
-  </programme>
-  <programme start="20210501074500 -0300" stop="20210501081500 -0300" channel="RO: DIGI SPORT 4 HD RO">
-    <title lang="ro">Rezumate UEFA Europa League</title>
-  </programme>
-  <programme start="20210501081500 -0300" stop="20210501100000 -0300" channel="RO: DIGI SPORT 4 HD RO">
-    <title lang="ro">Liga a 2-a: U Craiova 1948 - Mioveni Liga a 2-a: play-off</title>
-  </programme>
-  <programme start="20210501100000 -0300" stop="20210501124500 -0300" channel="RO: DIGI SPORT 4 HD RO">
-    <title lang="ro">Live Moto: antrenamente Marele Premiu al Spaniei</title>
-  </programme>
-  <programme start="20210501124500 -0300" stop="20210501133000 -0300" channel="RO: DIGI SPORT 4 HD RO">
+  <programme start="20210503101500 +0300" stop="20210503110000 +0300" channel="RO: DIGI SPORT 3 HD RO">
     <title lang="ro">Stirile Digi Sport</title>
   </programme>
-  <programme start="20210501133000 -0300" stop="20210501170000 -0300" channel="RO: DIGI SPORT 4 HD RO">
-    <title lang="ro">Live Moto: calificari Marele Premiu al Spaniei</title>
+  <programme start="20210503110000 +0300" stop="20210503111500 +0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Digi Sport Show</title>
   </programme>
-  <programme start="20210501170000 -0300" stop="20210501180000 -0300" channel="RO: DIGI SPORT 4 HD RO">
-    <title lang="ro">Live F1: calificari Marele Premiu al Portugaliei</title>
-  </programme>
-  <programme start="20210501180000 -0300" stop="20210502070000 -0300" channel="RO: DIGI SPORT 4 HD RO">
-    <title lang="ro">Live Ligue 1: PSG - Lens Ligue 1</title>
-  </programme>
-  <programme start="20210502070000 -0300" stop="20210502080000 -0300" channel="RO: DIGI SPORT 4 HD RO">
-    <title lang="ro">F1: calificari Marele Premiu al Portugaliei</title>
-  </programme>
-  <programme start="20210502080000 -0300" stop="20210502094500 -0300" channel="RO: DIGI SPORT 4 HD RO">
-    <title lang="ro">Liga 1: UTA Arad - Chindia Targoviste Liga 1: play-off</title>
-  </programme>
-  <programme start="20210502094500 -0300" stop="20210502113000 -0300" channel="RO: DIGI SPORT 4 HD RO">
-    <title lang="ro">Liga 1: Botosani - Sepsi Sfantu Gheorghe Liga 1: play-off</title>
-  </programme>
-  <programme start="20210502113000 -0300" stop="20210502131500 -0300" channel="RO: DIGI SPORT 4 HD RO">
-    <title lang="ro">Liga a 2-a: Rapid - Csikszereda Liga a 2-a: play-off</title>
-  </programme>
-  <programme start="20210502131500 -0300" stop="20210502133000 -0300" channel="RO: DIGI SPORT 4 HD RO">
+  <programme start="20210503111500 +0300" stop="20210503120000 +0300" channel="RO: DIGI SPORT 3 HD RO">
     <title lang="ro">Stirile Digi Sport</title>
   </programme>
-  <programme start="20210502133000 -0300" stop="20210502153000 -0300" channel="RO: DIGI SPORT 4 HD RO">
-    <title lang="ro">Live Serie A: Lazio - Genoa Serie A</title>
+  <programme start="20210503120000 +0300" stop="20210503121500 +0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Digi Sport Show</title>
   </programme>
-  <programme start="20210502153000 -0300" stop="20210502160000 -0300" channel="RO: DIGI SPORT 4 HD RO">
+  <programme start="20210503121500 +0300" stop="20210503130000 +0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20210503130000 +0300" stop="20210503131500 +0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Digi Sport Show</title>
+  </programme>
+  <programme start="20210503131500 +0300" stop="20210503140000 +0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20210503140000 +0300" stop="20210503143000 +0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Bundesilga special</title>
+  </programme>
+  <programme start="20210503143000 +0300" stop="20210503150000 +0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20210503150000 +0300" stop="20210503151500 +0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Digi Sport Show</title>
+  </programme>
+  <programme start="20210503151500 +0300" stop="20210503160000 +0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20210503160000 +0300" stop="20210503161500 +0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Digi Sport Show</title>
+  </programme>
+  <programme start="20210503161500 +0300" stop="20210503170000 +0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20210503170000 +0300" stop="20210503173000 +0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">UEL Magazin</title>
+  </programme>
+  <programme start="20210503173000 +0300" stop="20210503180000 +0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20210503180000 +0300" stop="20210503181500 +0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Digi Sport Show</title>
+  </programme>
+  <programme start="20210503181500 +0300" stop="20210503190000 +0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20210503190000 +0300" stop="20210503193000 +0300" channel="RO: DIGI SPORT 3 HD RO">
     <title lang="ro">UCL Magazin</title>
   </programme>
-  <programme start="20210502160000 -0300" stop="20210502180000 -0300" channel="RO: DIGI SPORT 4 HD RO">
+  <programme start="20210503193000 +0300" stop="20210504071500 +0300" channel="RO: DIGI SPORT 3 HD RO">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20210430070000 +0300" stop="20210430083000 +0300" channel="RO: DIGI SPORT 4 HD RO">
+    <title lang="ro">Liga 1: Universitatea Craiova - FCSB Liga 1: play-off</title>
+  </programme>
+  <programme start="20210430083000 +0300" stop="20210430101500 +0300" channel="RO: DIGI SPORT 4 HD RO">
+    <title lang="ro">UEL: Villareal - Arsenal UEFA Europa League</title>
+  </programme>
+  <programme start="20210430101500 +0300" stop="20210430120000 +0300" channel="RO: DIGI SPORT 4 HD RO">
+    <title lang="ro">UEL: Manchester United - Roma UEFA Europa League</title>
+  </programme>
+  <programme start="20210430120000 +0300" stop="20210430140000 +0300" channel="RO: DIGI SPORT 4 HD RO">
+    <title lang="ro">Live Tenis: WTA Madrid: Aryna SABALENKA (BLR) - Vera ZVONAREVA (RUS)</title>
+  </programme>
+  <programme start="20210430140000 +0300" stop="20210430160000 +0300" channel="RO: DIGI SPORT 4 HD RO">
+    <title lang="ro">Live Tenis: WTA Madrid: Misaki DOI (JPN) - Naomi OSAKA (JPN)</title>
+  </programme>
+  <programme start="20210430160000 +0300" stop="20210430180000 +0300" channel="RO: DIGI SPORT 4 HD RO">
+    <title lang="ro">Live Tenis: WTA Madrid: Elise MERTENS (BEL) - Shuai ZHANG (CHN)</title>
+  </programme>
+  <programme start="20210430180000 +0300" stop="20210501070000 +0300" channel="RO: DIGI SPORT 4 HD RO">
+    <title lang="ro">LIVE Tenis: WTA Madrid: Monica NICULESCU (ROU)/) Lyudmyla KICHENOK (UKR) - Sharon FICHMAN (CAN)/Giuliana OLMOS (MEX)</title>
+  </programme>
+  <programme start="20210501070000 +0300" stop="20210501074500 +0300" channel="RO: DIGI SPORT 4 HD RO">
+    <title lang="ro">Rezumatele etapei Liga 1</title>
+  </programme>
+  <programme start="20210501074500 +0300" stop="20210501081500 +0300" channel="RO: DIGI SPORT 4 HD RO">
+    <title lang="ro">Rezumate UEFA Europa League</title>
+  </programme>
+  <programme start="20210501081500 +0300" stop="20210501100000 +0300" channel="RO: DIGI SPORT 4 HD RO">
+    <title lang="ro">Liga a 2-a: U Craiova 1948 - Mioveni Liga a 2-a: play-off</title>
+  </programme>
+  <programme start="20210501100000 +0300" stop="20210501124500 +0300" channel="RO: DIGI SPORT 4 HD RO">
+    <title lang="ro">Live Moto: antrenamente Marele Premiu al Spaniei</title>
+  </programme>
+  <programme start="20210501124500 +0300" stop="20210501133000 +0300" channel="RO: DIGI SPORT 4 HD RO">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20210501133000 +0300" stop="20210501170000 +0300" channel="RO: DIGI SPORT 4 HD RO">
+    <title lang="ro">Live Moto: calificari Marele Premiu al Spaniei</title>
+  </programme>
+  <programme start="20210501170000 +0300" stop="20210501180000 +0300" channel="RO: DIGI SPORT 4 HD RO">
+    <title lang="ro">Live F1: calificari Marele Premiu al Portugaliei</title>
+  </programme>
+  <programme start="20210501180000 +0300" stop="20210502070000 +0300" channel="RO: DIGI SPORT 4 HD RO">
+    <title lang="ro">Live Ligue 1: PSG - Lens Ligue 1</title>
+  </programme>
+  <programme start="20210502070000 +0300" stop="20210502080000 +0300" channel="RO: DIGI SPORT 4 HD RO">
+    <title lang="ro">F1: calificari Marele Premiu al Portugaliei</title>
+  </programme>
+  <programme start="20210502080000 +0300" stop="20210502094500 +0300" channel="RO: DIGI SPORT 4 HD RO">
+    <title lang="ro">Liga 1: UTA Arad - Chindia Targoviste Liga 1: play-off</title>
+  </programme>
+  <programme start="20210502094500 +0300" stop="20210502113000 +0300" channel="RO: DIGI SPORT 4 HD RO">
+    <title lang="ro">Liga 1: Botosani - Sepsi Sfantu Gheorghe Liga 1: play-off</title>
+  </programme>
+  <programme start="20210502113000 +0300" stop="20210502131500 +0300" channel="RO: DIGI SPORT 4 HD RO">
+    <title lang="ro">Liga a 2-a: Rapid - Csikszereda Liga a 2-a: play-off</title>
+  </programme>
+  <programme start="20210502131500 +0300" stop="20210502133000 +0300" channel="RO: DIGI SPORT 4 HD RO">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20210502133000 +0300" stop="20210502153000 +0300" channel="RO: DIGI SPORT 4 HD RO">
+    <title lang="ro">Live Serie A: Lazio - Genoa Serie A</title>
+  </programme>
+  <programme start="20210502153000 +0300" stop="20210502160000 +0300" channel="RO: DIGI SPORT 4 HD RO">
+    <title lang="ro">UCL Magazin</title>
+  </programme>
+  <programme start="20210502160000 +0300" stop="20210502180000 +0300" channel="RO: DIGI SPORT 4 HD RO">
     <title lang="ro">Live Serie A: Sassuolo - Atalanta Serie A</title>
   </programme>
-  <programme start="20210502180000 -0300" stop="20210503070000 -0300" channel="RO: DIGI SPORT 4 HD RO">
+  <programme start="20210502180000 +0300" stop="20210503070000 +0300" channel="RO: DIGI SPORT 4 HD RO">
     <title lang="ro">Live Tenis: WTA Madrid</title>
   </programme>
-  <programme start="20210429080000 -0300" stop="20210429093000 -0300" channel="RO: EUROSPORT 1 HD">
-    <title lang="ro">Snooker: Campionatul Mondial</title>
-    <desc lang="ro">Sferturi de finală Programul britanic.(n)</desc>
+  <programme start="20210503070000 +0300" stop="20210503084500 +0300" channel="RO: DIGI SPORT 4 HD RO">
+    <title lang="ro">Liga 1: Viitorul - Dinamo Liga 1: play-out</title>
   </programme>
-  <programme start="20210429093000 -0300" stop="20210429110000 -0300" channel="RO: EUROSPORT 1 HD">
-    <title lang="ro">Curse de maşini: Campionatul Mondial de anduranţă, la Austin, în Statele Unite</title>
+  <programme start="20210503084500 +0300" stop="20210503103000 +0300" channel="RO: DIGI SPORT 4 HD RO">
+    <title lang="ro">Liga 1: Academica Clinceni - Universitatea Craiova Liga 1: play-off</title>
   </programme>
-  <programme start="20210429110000 -0300" stop="20210429120000 -0300" channel="RO: EUROSPORT 1 HD">
-    <title lang="ro">Snooker: Campionatul Mondial</title>
-    <desc lang="ro">Sferturi de finală Programul britanic.(n)</desc>
+  <programme start="20210503103000 +0300" stop="20210503121500 +0300" channel="RO: DIGI SPORT 4 HD RO">
+    <title lang="ro">Ligue 1: Monaco - Lyon Ligue 1</title>
   </programme>
-  <programme start="20210429120000 -0300" stop="20210429123000 -0300" channel="RO: EUROSPORT 1 HD">
-    <title lang="ro">Golf: GolfTV săptămânal</title>
+  <programme start="20210503121500 +0300" stop="20210503140000 +0300" channel="RO: DIGI SPORT 4 HD RO">
+    <title lang="ro">La Liga: Valencia - Barcelona</title>
   </programme>
-  <programme start="20210429123000 -0300" stop="20210429133000 -0300" channel="RO: EUROSPORT 1 HD">
-    <title lang="ro">Jocurile olimpice: Mare în Japonia</title>
+  <programme start="20210503140000 +0300" stop="20210503151500 +0300" channel="RO: DIGI SPORT 4 HD RO">
+    <title lang="ro">Moto: curse Marele Premiu al Spaniei</title>
   </programme>
-  <programme start="20210429133000 -0300" stop="20210429140000 -0300" channel="RO: EUROSPORT 1 HD">
-    <title lang="ro">Jocurile olimpice: Faţă în faţă</title>
-    <desc lang="ro">m. marcă - M. Michael.(n)</desc>
+  <programme start="20210503151500 +0300" stop="20210503171500 +0300" channel="RO: DIGI SPORT 4 HD RO">
+    <title lang="ro">F1: cursa Marele Premiu al Portugaliei</title>
   </programme>
-  <programme start="20210429140000 -0300" stop="20210429144500 -0300" channel="RO: EUROSPORT 1 HD">
-    <title lang="ro">Snooker: Campionatul Mondial</title>
-    <desc lang="ro">Sferturi de finală Programul britanic.(n)</desc>
+  <programme start="20210503171500 +0300" stop="20210503181500 +0300" channel="RO: DIGI SPORT 4 HD RO">
+    <title lang="ro">Premiera Rezumat Franta Ligue 1</title>
   </programme>
-  <programme start="20210429144500 -0300" stop="20210429180000 -0300" channel="RO: EUROSPORT 1 HD">
-    <title lang="ro">Snooker: Campionatul Mondial</title>
-    <desc lang="ro">Semifinale Programul britanic.(n)</desc>
+  <programme start="20210503181500 +0300" stop="20210503190000 +0300" channel="RO: DIGI SPORT 4 HD RO">
+    <title lang="ro">Premiera Rezumat Italia Serie A</title>
   </programme>
-  <programme start="20210429180000 -0300" stop="20210429190000 -0300" channel="RO: EUROSPORT 1 HD">
-    <title lang="ro">Călărie: Turneul de Mare Slem, la 's Hertogenbosch, în Olanda</title>
-    <desc lang="ro">Sărituri peste obstacole.(n)</desc>
+  <programme start="20210503190000 +0300" stop="20210504070000 +0300" channel="RO: DIGI SPORT 4 HD RO">
+    <title lang="ro">Live Bundesliga: Mainz - Hertha Berlin Bundesliga</title>
   </programme>
-  <programme start="20210429190000 -0300" stop="20210429195500 -0300" channel="RO: EUROSPORT 1 HD">
-    <title lang="ro">Snooker: Campionatul Mondial</title>
-    <desc lang="ro">Sferturi de finală Programul britanic.(n)</desc>
-  </programme>
-  <programme start="20210429195500 -0300" stop="20210430080000 -0300" channel="RO: EUROSPORT 1 HD">
-    <title lang="ro">Snooker: Campionatul Mondial</title>
-    <desc lang="ro">Sferturi de finală Programul britanic.(n)</desc>
-  </programme>
-  <programme start="20210430080000 -0300" stop="20210430093000 -0300" channel="RO: EUROSPORT 1 HD">
+  <programme start="20210430080000 +0300" stop="20210430093000 +0300" channel="RO: EUROSPORT 1 HD">
     <title lang="ro">Snooker: Campionatul Mondial</title>
     <desc lang="ro">Semifinale Programul britanic.(n)</desc>
   </programme>
-  <programme start="20210430093000 -0300" stop="20210430110000 -0300" channel="RO: EUROSPORT 1 HD">
+  <programme start="20210430093000 +0300" stop="20210430110000 +0300" channel="RO: EUROSPORT 1 HD">
     <title lang="ro">Curse de maşini: Campionatul Mondial de anduranţă, la Le Mans, în Franţa</title>
   </programme>
-  <programme start="20210430110000 -0300" stop="20210430120000 -0300" channel="RO: EUROSPORT 1 HD">
+  <programme start="20210430110000 +0300" stop="20210430120000 +0300" channel="RO: EUROSPORT 1 HD">
     <title lang="ro">Snooker: Campionatul Mondial</title>
     <desc lang="ro">Semifinale Programul britanic.(n)</desc>
   </programme>
-  <programme start="20210430120000 -0300" stop="20210430150000 -0300" channel="RO: EUROSPORT 1 HD">
+  <programme start="20210430120000 +0300" stop="20210430150000 +0300" channel="RO: EUROSPORT 1 HD">
     <title lang="ro">Snooker: Campionatul Mondial</title>
     <desc lang="ro">Semifinale Programul britanic.(n)</desc>
   </programme>
-  <programme start="20210430150000 -0300" stop="20210430161500 -0300" channel="RO: EUROSPORT 1 HD">
+  <programme start="20210430150000 +0300" stop="20210430161500 +0300" channel="RO: EUROSPORT 1 HD">
     <title lang="ro">Snooker: Campionatul Mondial</title>
     <desc lang="ro">Semifinale Programul britanic.(n)</desc>
   </programme>
-  <programme start="20210430161500 -0300" stop="20210430193000 -0300" channel="RO: EUROSPORT 1 HD">
+  <programme start="20210430161500 +0300" stop="20210430193000 +0300" channel="RO: EUROSPORT 1 HD">
     <title lang="ro">Snooker: Campionatul Mondial</title>
     <desc lang="ro">Semifinale Programul britanic.(n)</desc>
   </programme>
-  <programme start="20210430193000 -0300" stop="20210501080000 -0300" channel="RO: EUROSPORT 1 HD">
+  <programme start="20210430193000 +0300" stop="20210501080000 +0300" channel="RO: EUROSPORT 1 HD">
     <title lang="ro">Snooker: Campionatul Mondial</title>
     <desc lang="ro">Semifinale Programul britanic.(n)</desc>
   </programme>
-  <programme start="20210501080000 -0300" stop="20210501093000 -0300" channel="RO: EUROSPORT 1 HD">
+  <programme start="20210501080000 +0300" stop="20210501093000 +0300" channel="RO: EUROSPORT 1 HD">
     <title lang="ro">Snooker: Campionatul Mondial</title>
     <desc lang="ro">Semifinale Programul britanic.(n)</desc>
   </programme>
-  <programme start="20210501093000 -0300" stop="20210501110000 -0300" channel="RO: EUROSPORT 1 HD">
+  <programme start="20210501093000 +0300" stop="20210501110000 +0300" channel="RO: EUROSPORT 1 HD">
     <title lang="ro">Curse de maşini: Campionatul Mondial de anduranţă</title>
   </programme>
-  <programme start="20210501110000 -0300" stop="20210501120000 -0300" channel="RO: EUROSPORT 1 HD">
+  <programme start="20210501110000 +0300" stop="20210501120000 +0300" channel="RO: EUROSPORT 1 HD">
     <title lang="ro">Snooker: Campionatul Mondial</title>
     <desc lang="ro">Semifinale Programul britanic.(n)</desc>
   </programme>
-  <programme start="20210501120000 -0300" stop="20210501133000 -0300" channel="RO: EUROSPORT 1 HD">
+  <programme start="20210501120000 +0300" stop="20210501133000 +0300" channel="RO: EUROSPORT 1 HD">
     <title lang="ro">Snooker: Campionatul Mondial</title>
     <desc lang="ro">Semifinale Programul britanic.(n)</desc>
   </programme>
-  <programme start="20210501133000 -0300" stop="20210501142500 -0300" channel="RO: EUROSPORT 1 HD">
+  <programme start="20210501133000 +0300" stop="20210501142500 +0300" channel="RO: EUROSPORT 1 HD">
     <title lang="ro">Fotbal: Premier League Show</title>
   </programme>
-  <programme start="20210501142500 -0300" stop="20210501163000 -0300" channel="RO: EUROSPORT 1 HD">
+  <programme start="20210501142500 +0300" stop="20210501163000 +0300" channel="RO: EUROSPORT 1 HD">
     <title lang="ro">Fotbal: Premier League</title>
     <desc lang="ro">Crystal Palace - Manchester City.(n)</desc>
   </programme>
-  <programme start="20210501163000 -0300" stop="20210501165500 -0300" channel="RO: EUROSPORT 1 HD">
+  <programme start="20210501163000 +0300" stop="20210501165500 +0300" channel="RO: EUROSPORT 1 HD">
     <title lang="ro">Fotbal: Premier League Show</title>
   </programme>
-  <programme start="20210501165500 -0300" stop="20210501190000 -0300" channel="RO: EUROSPORT 1 HD">
+  <programme start="20210501165500 +0300" stop="20210501190000 +0300" channel="RO: EUROSPORT 1 HD">
     <title lang="ro">Fotbal: Premier League</title>
     <desc lang="ro">Brighton and Hove Albion - Leeds United.(n)</desc>
   </programme>
-  <programme start="20210501190000 -0300" stop="20210502070000 -0300" channel="RO: EUROSPORT 1 HD">
+  <programme start="20210501190000 +0300" stop="20210502070000 +0300" channel="RO: EUROSPORT 1 HD">
     <title lang="ro">Fotbal: Premier League</title>
     <desc lang="ro">Chelsea - Fulham.(n)</desc>
   </programme>
-  <programme start="20210502070000 -0300" stop="20210502080000 -0300" channel="RO: EUROSPORT 1 HD">
+  <programme start="20210502070000 +0300" stop="20210502080000 +0300" channel="RO: EUROSPORT 1 HD">
     <title lang="ro">Ciclism: Circuitul Mondial - Turul Romandiei, în Elveţia</title>
     <desc lang="ro">Masculin, etapa a patra.(n)</desc>
   </programme>
-  <programme start="20210502080000 -0300" stop="20210502093000 -0300" channel="RO: EUROSPORT 1 HD">
+  <programme start="20210502080000 +0300" stop="20210502093000 +0300" channel="RO: EUROSPORT 1 HD">
     <title lang="ro">Snooker: Campionatul Mondial</title>
     <desc lang="ro">Semifinale Programul britanic.(n)</desc>
   </programme>
-  <programme start="20210502093000 -0300" stop="20210502110000 -0300" channel="RO: EUROSPORT 1 HD">
+  <programme start="20210502093000 +0300" stop="20210502110000 +0300" channel="RO: EUROSPORT 1 HD">
     <title lang="ro">Curse auto de anduranţă: Campionatul Mondial, la Spa-Francorchamps, în Belgia</title>
     <desc lang="ro">Cursa.(n)</desc>
   </programme>
-  <programme start="20210502110000 -0300" stop="20210502120000 -0300" channel="RO: EUROSPORT 1 HD">
+  <programme start="20210502110000 +0300" stop="20210502120000 +0300" channel="RO: EUROSPORT 1 HD">
     <title lang="ro">Călărie: Turneul de Mare Slem, la 's Hertogenbosch, în Olanda</title>
     <desc lang="ro">Sărituri peste obstacole.(n)</desc>
   </programme>
-  <programme start="20210502120000 -0300" stop="20210502130000 -0300" channel="RO: EUROSPORT 1 HD">
+  <programme start="20210502120000 +0300" stop="20210502130000 +0300" channel="RO: EUROSPORT 1 HD">
     <title lang="ro">Ciclism: Circuitul Mondial - Turul Romandiei, în Elveţia</title>
     <desc lang="ro">Masculin, etapa a patra.(n)</desc>
   </programme>
-  <programme start="20210502130000 -0300" stop="20210502135000 -0300" channel="RO: EUROSPORT 1 HD">
+  <programme start="20210502130000 +0300" stop="20210502135000 +0300" channel="RO: EUROSPORT 1 HD">
     <title lang="ro">Snooker: Campionatul Mondial</title>
     <desc lang="ro">Semifinale Programul britanic.(n)</desc>
   </programme>
-  <programme start="20210502135000 -0300" stop="20210502144500 -0300" channel="RO: EUROSPORT 1 HD">
+  <programme start="20210502135000 +0300" stop="20210502144500 +0300" channel="RO: EUROSPORT 1 HD">
     <title lang="ro">Snooker: Campionatul Mondial</title>
     <desc lang="ro">Semifinale Programul britanic.(n)</desc>
   </programme>
-  <programme start="20210502144500 -0300" stop="20210502155500 -0300" channel="RO: EUROSPORT 1 HD">
+  <programme start="20210502144500 +0300" stop="20210502155500 +0300" channel="RO: EUROSPORT 1 HD">
     <title lang="ro">Fotbal: Premier League Show</title>
   </programme>
-  <programme start="20210502155500 -0300" stop="20210502180000 -0300" channel="RO: EUROSPORT 1 HD">
+  <programme start="20210502155500 +0300" stop="20210502180000 +0300" channel="RO: EUROSPORT 1 HD">
     <title lang="ro">Fotbal: Premier League</title>
     <desc lang="ro">Newcastle - Arsenal.(n)</desc>
   </programme>
-  <programme start="20210502180000 -0300" stop="20210502182500 -0300" channel="RO: EUROSPORT 1 HD">
+  <programme start="20210502180000 +0300" stop="20210502182500 +0300" channel="RO: EUROSPORT 1 HD">
     <title lang="ro">Fotbal: Premier League Show</title>
   </programme>
-  <programme start="20210502182500 -0300" stop="20210503080000 -0300" channel="RO: EUROSPORT 1 HD">
+  <programme start="20210502182500 +0300" stop="20210503080000 +0300" channel="RO: EUROSPORT 1 HD">
     <title lang="ro">Fotbal: Premier League</title>
     <desc lang="ro">Manchester United - Liverpool.(n)</desc>
   </programme>
-  <programme start="20210429080000 -0300" stop="20210429093000 -0300" channel="RO: EUROSPORT 2 HD">
-    <title lang="ro">Curse de maşini: Campionatul Mondial de anduranţă, la Le Mans, în Franţa</title>
+  <programme start="20210503080000 +0300" stop="20210503093000 +0300" channel="RO: EUROSPORT 1 HD">
+    <title lang="ro">Snooker: Campionatul Mondial</title>
+    <desc lang="ro">Finala Programul britanic.(n)</desc>
   </programme>
-  <programme start="20210429093000 -0300" stop="20210429110000 -0300" channel="RO: EUROSPORT 2 HD">
-    <title lang="ro">Snooker: Campionatul Mondial - Sferturi de finală Programul britanic</title>
+  <programme start="20210503093000 +0300" stop="20210503110000 +0300" channel="RO: EUROSPORT 1 HD">
+    <title lang="ro">Ciclism: Circuitul Mondial - Turul Italiei, în Italia</title>
+    <desc lang="ro">Etapa a zecea Lanciano - Tortoreto.(n)</desc>
   </programme>
-  <programme start="20210429110000 -0300" stop="20210429113000 -0300" channel="RO: EUROSPORT 2 HD">
-    <title lang="ro">Ciclism: Circuitul Mondial - Turul Romandiei, în Elveţia - Masculin, etapa întâi</title>
+  <programme start="20210503110000 +0300" stop="20210503120000 +0300" channel="RO: EUROSPORT 1 HD">
+    <title lang="ro">Snooker: Campionatul Mondial</title>
+    <desc lang="ro">Finala Programul britanic.(n)</desc>
   </programme>
-  <programme start="20210429113000 -0300" stop="20210429123000 -0300" channel="RO: EUROSPORT 2 HD">
-    <title lang="ro">Curse de maşini: Campionatul Mondial de anduranţă, la Le Mans, în Franţa - Best Of</title>
+  <programme start="20210503120000 +0300" stop="20210503123000 +0300" channel="RO: EUROSPORT 1 HD">
+    <title lang="ro">Tir cu arcul: Cupa Mondială, la Guatemala, în Guatemala</title>
+    <desc lang="ro">Arc curbat.(n)</desc>
   </programme>
-  <programme start="20210429123000 -0300" stop="20210429140000 -0300" channel="RO: EUROSPORT 2 HD">
-    <title lang="ro">Snooker: Campionatul Mondial - Sferturi de finală Programul britanic</title>
+  <programme start="20210503123000 +0300" stop="20210503130000 +0300" channel="RO: EUROSPORT 1 HD">
+    <title lang="ro">Tir cu arcul: Cupa Mondială, la Guatemala, în Guatemala</title>
+    <desc lang="ro">Arc compus.(n)</desc>
   </programme>
-  <programme start="20210429140000 -0300" stop="20210429144500 -0300" channel="RO: EUROSPORT 2 HD">
-    <title lang="ro">Ciclism: Circuitul Mondial - Săgeata Valonă, în Belgia - Feminin</title>
+  <programme start="20210503130000 +0300" stop="20210503140000 +0300" channel="RO: EUROSPORT 1 HD">
+    <title lang="ro">Ciclism: Circuitul Mondial - Turul Italiei, în Italia</title>
+    <desc lang="ro">Etapa a zecea Lanciano - Tortoreto.(n)</desc>
   </programme>
-  <programme start="20210429144500 -0300" stop="20210429153000 -0300" channel="RO: EUROSPORT 2 HD">
-    <title lang="ro">Ciclism: Circuitul Mondial - Săgeata Valonă, în Belgia - Masculin</title>
+  <programme start="20210503140000 +0300" stop="20210503144500 +0300" channel="RO: EUROSPORT 1 HD">
+    <title lang="ro">Snooker: Campionatul Mondial</title>
+    <desc lang="ro">Finala Programul britanic.(n)</desc>
   </programme>
-  <programme start="20210429153000 -0300" stop="20210429163000 -0300" channel="RO: EUROSPORT 2 HD">
-    <title lang="ro">Ciclism: Circuitul Mondial - Turul Romandiei, în Elveţia - Masculin, etapa întâi</title>
+  <programme start="20210503144500 +0300" stop="20210503180000 +0300" channel="RO: EUROSPORT 1 HD">
+    <title lang="ro">Snooker: Campionatul Mondial</title>
+    <desc lang="ro">Finala Programul britanic.(n)</desc>
   </programme>
-  <programme start="20210429163000 -0300" stop="20210429183000 -0300" channel="RO: EUROSPORT 2 HD">
-    <title lang="ro">Ciclism: Circuitul Mondial - Turul Romandiei, în Elveţia - Masculin, etapa a doua</title>
+  <programme start="20210503180000 +0300" stop="20210503193000 +0300" channel="RO: EUROSPORT 1 HD">
+    <title lang="ro">Ciclism: Circuitul Mondial - Liege - Bastogne - Liege, în Belgia</title>
+    <desc lang="ro">Masculin.(n)</desc>
   </programme>
-  <programme start="20210429183000 -0300" stop="20210429190000 -0300" channel="RO: EUROSPORT 2 HD">
-    <title lang="ro">Jocurile olimpice: Faţă în faţă - C. Carl - U. Bolt</title>
+  <programme start="20210503193000 +0300" stop="20210503195500 +0300" channel="RO: EUROSPORT 1 HD">
+    <title lang="ro">Snooker: Campionatul Mondial</title>
+    <desc lang="ro">Finala Programul britanic.(n)</desc>
   </programme>
-  <programme start="20210429190000 -0300" stop="20210430070000 -0300" channel="RO: EUROSPORT 2 HD">
-    <title lang="ro">Curse de maşini: Campionatul Mondial de anduranţă, la Le Mans, în Franţa</title>
+  <programme start="20210503195500 +0300" stop="20210504080000 +0300" channel="RO: EUROSPORT 1 HD">
+    <title lang="ro">Fotbal: Premier League</title>
+    <desc lang="ro">West Bromwich - Wolverhampton.(n)</desc>
   </programme>
-  <programme start="20210430070000 -0300" stop="20210430080000 -0300" channel="RO: EUROSPORT 2 HD">
+  <programme start="20210430070000 +0300" stop="20210430080000 +0300" channel="RO: EUROSPORT 2 HD">
     <title lang="ro">Snooker: Campionatul Mondial - Semifinale Programul britanic</title>
   </programme>
-  <programme start="20210430080000 -0300" stop="20210430093000 -0300" channel="RO: EUROSPORT 2 HD">
+  <programme start="20210430080000 +0300" stop="20210430093000 +0300" channel="RO: EUROSPORT 2 HD">
     <title lang="ro">Curse de maşini: Campionatul Mondial de anduranţă</title>
   </programme>
-  <programme start="20210430093000 -0300" stop="20210430110000 -0300" channel="RO: EUROSPORT 2 HD">
+  <programme start="20210430093000 +0300" stop="20210430110000 +0300" channel="RO: EUROSPORT 2 HD">
     <title lang="ro">Snooker: Campionatul Mondial - Semifinale Programul britanic</title>
   </programme>
-  <programme start="20210430110000 -0300" stop="20210430113000 -0300" channel="RO: EUROSPORT 2 HD">
+  <programme start="20210430110000 +0300" stop="20210430113000 +0300" channel="RO: EUROSPORT 2 HD">
     <title lang="ro">Ciclism: Circuitul Mondial - Turul Romandiei, în Elveţia - Masculin, etapa a doua</title>
   </programme>
-  <programme start="20210430113000 -0300" stop="20210430133000 -0300" channel="RO: EUROSPORT 2 HD">
+  <programme start="20210430113000 +0300" stop="20210430133000 +0300" channel="RO: EUROSPORT 2 HD">
     <title lang="ro">Curse de maşini: Campionatul Mondial de anduranţă</title>
   </programme>
-  <programme start="20210430133000 -0300" stop="20210430141500 -0300" channel="RO: EUROSPORT 2 HD">
+  <programme start="20210430133000 +0300" stop="20210430141500 +0300" channel="RO: EUROSPORT 2 HD">
     <title lang="ro">Ciclism: Circuitul Mondial - Cursa Amstel Gold, în Olanda - Feminin</title>
   </programme>
-  <programme start="20210430141500 -0300" stop="20210430153000 -0300" channel="RO: EUROSPORT 2 HD">
+  <programme start="20210430141500 +0300" stop="20210430153000 +0300" channel="RO: EUROSPORT 2 HD">
     <title lang="ro">Ciclism: Circuitul Mondial - Cursa Amstel Gold, în Olanda - Masculin</title>
   </programme>
-  <programme start="20210430153000 -0300" stop="20210430163000 -0300" channel="RO: EUROSPORT 2 HD">
+  <programme start="20210430153000 +0300" stop="20210430163000 +0300" channel="RO: EUROSPORT 2 HD">
     <title lang="ro">Ciclism: Circuitul Mondial - Turul Romandiei, în Elveţia - Masculin, etapa a doua</title>
   </programme>
-  <programme start="20210430163000 -0300" stop="20210430183000 -0300" channel="RO: EUROSPORT 2 HD">
+  <programme start="20210430163000 +0300" stop="20210430183000 +0300" channel="RO: EUROSPORT 2 HD">
     <title lang="ro">Ciclism: Circuitul Mondial - Turul Romandiei, în Elveţia - Masculin, etapa a treia</title>
   </programme>
-  <programme start="20210430183000 -0300" stop="20210430190000 -0300" channel="RO: EUROSPORT 2 HD">
+  <programme start="20210430183000 +0300" stop="20210430190000 +0300" channel="RO: EUROSPORT 2 HD">
     <title lang="ro">Jocurile olimpice: Faţă în faţă - m. marcă - M. Michael</title>
   </programme>
-  <programme start="20210430190000 -0300" stop="20210501070000 -0300" channel="RO: EUROSPORT 2 HD">
+  <programme start="20210430190000 +0300" stop="20210501070000 +0300" channel="RO: EUROSPORT 2 HD">
     <title lang="ro">Curse de maşini: Campionatul Mondial de anduranţă</title>
   </programme>
-  <programme start="20210501070000 -0300" stop="20210501080000 -0300" channel="RO: EUROSPORT 2 HD">
+  <programme start="20210501070000 +0300" stop="20210501080000 +0300" channel="RO: EUROSPORT 2 HD">
     <title lang="ro">Snooker: Campionatul Mondial - Semifinale Programul britanic</title>
   </programme>
-  <programme start="20210501080000 -0300" stop="20210501093000 -0300" channel="RO: EUROSPORT 2 HD">
+  <programme start="20210501080000 +0300" stop="20210501093000 +0300" channel="RO: EUROSPORT 2 HD">
     <title lang="ro">Curse de maşini: Campionatul Mondial de anduranţă</title>
   </programme>
-  <programme start="20210501093000 -0300" stop="20210501110000 -0300" channel="RO: EUROSPORT 2 HD">
+  <programme start="20210501093000 +0300" stop="20210501110000 +0300" channel="RO: EUROSPORT 2 HD">
     <title lang="ro">Snooker: Campionatul Mondial - Semifinale Programul britanic</title>
   </programme>
-  <programme start="20210501110000 -0300" stop="20210501131500 -0300" channel="RO: EUROSPORT 2 HD">
+  <programme start="20210501110000 +0300" stop="20210501131500 +0300" channel="RO: EUROSPORT 2 HD">
     <title lang="ro">Ciclism: Circuitul Mondial - Liege - Bastogne - Liege, în Belgia - Masculin</title>
   </programme>
-  <programme start="20210501131500 -0300" stop="20210501141500 -0300" channel="RO: EUROSPORT 2 HD">
+  <programme start="20210501131500 +0300" stop="20210501141500 +0300" channel="RO: EUROSPORT 2 HD">
     <title lang="ro">Curse auto de anduranţă: Campionatul Mondial, la Spa-Francorchamps, în Belgia - Calificări</title>
   </programme>
-  <programme start="20210501141500 -0300" stop="20210501163000 -0300" channel="RO: EUROSPORT 2 HD">
+  <programme start="20210501141500 +0300" stop="20210501163000 +0300" channel="RO: EUROSPORT 2 HD">
     <title lang="ro">Curse auto de anduranţă: Campionatul Mondial, la Spa-Francorchamps, în Belgia - Cursa</title>
   </programme>
-  <programme start="20210501163000 -0300" stop="20210501182000 -0300" channel="RO: EUROSPORT 2 HD">
+  <programme start="20210501163000 +0300" stop="20210501182000 +0300" channel="RO: EUROSPORT 2 HD">
     <title lang="ro">Ciclism: Circuitul Mondial - Turul Romandiei, în Elveţia - Masculin, etapa a patra</title>
   </programme>
-  <programme start="20210501182000 -0300" stop="20210502070000 -0300" channel="RO: EUROSPORT 2 HD">
+  <programme start="20210501182000 +0300" stop="20210502070000 +0300" channel="RO: EUROSPORT 2 HD">
     <title lang="ro">Curse auto de anduranţă: Campionatul Mondial, la Spa-Francorchamps, în Belgia - Cursa</title>
   </programme>
-  <programme start="20210502070000 -0300" stop="20210502080000 -0300" channel="RO: EUROSPORT 2 HD">
+  <programme start="20210502070000 +0300" stop="20210502080000 +0300" channel="RO: EUROSPORT 2 HD">
     <title lang="ro">Snooker: Campionatul Mondial - Semifinale Programul britanic</title>
   </programme>
-  <programme start="20210502080000 -0300" stop="20210502100000 -0300" channel="RO: EUROSPORT 2 HD">
+  <programme start="20210502080000 +0300" stop="20210502100000 +0300" channel="RO: EUROSPORT 2 HD">
     <title lang="ro">Curse auto de anduranţă: Campionatul Mondial, la Spa-Francorchamps, în Belgia - Cursa</title>
   </programme>
-  <programme start="20210502100000 -0300" stop="20210502110000 -0300" channel="RO: EUROSPORT 2 HD">
+  <programme start="20210502100000 +0300" stop="20210502110000 +0300" channel="RO: EUROSPORT 2 HD">
     <title lang="ro">Snooker: Campionatul Mondial - Semifinale Programul britanic</title>
   </programme>
-  <programme start="20210502110000 -0300" stop="20210502120000 -0300" channel="RO: EUROSPORT 2 HD">
+  <programme start="20210502110000 +0300" stop="20210502120000 +0300" channel="RO: EUROSPORT 2 HD">
     <title lang="ro">Snooker: Campionatul Mondial - Semifinale Programul britanic</title>
   </programme>
-  <programme start="20210502120000 -0300" stop="20210502130000 -0300" channel="RO: EUROSPORT 2 HD">
+  <programme start="20210502120000 +0300" stop="20210502130000 +0300" channel="RO: EUROSPORT 2 HD">
     <title lang="ro">Tenis: Circuitul Mondial ATP 500, la Barcelona, în Spania - Simplu, finala</title>
   </programme>
-  <programme start="20210502130000 -0300" stop="20210502133000 -0300" channel="RO: EUROSPORT 2 HD">
+  <programme start="20210502130000 +0300" stop="20210502133000 +0300" channel="RO: EUROSPORT 2 HD">
     <title lang="ro">Tenis: Dezvăluiri ATP</title>
   </programme>
-  <programme start="20210502133000 -0300" stop="20210502153000 -0300" channel="RO: EUROSPORT 2 HD">
+  <programme start="20210502133000 +0300" stop="20210502153000 +0300" channel="RO: EUROSPORT 2 HD">
     <title lang="ro">Tenis: Circuitul Mondial ATP 1000, la Madrid, în Spania - Simplu, turul întâi</title>
   </programme>
-  <programme start="20210502153000 -0300" stop="20210502173000 -0300" channel="RO: EUROSPORT 2 HD">
+  <programme start="20210502153000 +0300" stop="20210502173000 +0300" channel="RO: EUROSPORT 2 HD">
     <title lang="ro">Tenis: Circuitul Mondial ATP 1000, la Madrid, în Spania - Simplu, turul întâi</title>
   </programme>
-  <programme start="20210502173000 -0300" stop="20210502193000 -0300" channel="RO: EUROSPORT 2 HD">
+  <programme start="20210502173000 +0300" stop="20210502193000 +0300" channel="RO: EUROSPORT 2 HD">
     <title lang="ro">Tenis: Circuitul Mondial ATP 1000, la Madrid, în Spania - Simplu, turul întâi</title>
   </programme>
-  <programme start="20210502193000 -0300" stop="20210503080000 -0300" channel="RO: EUROSPORT 2 HD">
+  <programme start="20210502193000 +0300" stop="20210503080000 +0300" channel="RO: EUROSPORT 2 HD">
     <title lang="ro">Ciclism: Circuitul Mondial - Turul Romandiei, în Elveţia - Masculin, etapa a cincea</title>
   </programme>
-  <programme start="20210429080000 -0300" stop="20210429100000 -0300" channel="RO: TELEKOM SPORT 1">
-    <title lang="ro">Fotbal Liga I: Cfr Cluj - Fc Botosani</title>
+  <programme start="20210503080000 +0300" stop="20210503093000 +0300" channel="RO: EUROSPORT 2 HD">
+    <title lang="ro">Ciclism: Circuitul Mondial - Turul Italiei, în Italia - Etapa a zecea Lanciano - Tortoreto</title>
   </programme>
-  <programme start="20210429100000 -0300" stop="20210429120000 -0300" channel="RO: TELEKOM SPORT 1">
-    <title lang="ro">Fotbal Uefa Champions League: Real Madrid - Chelsea</title>
+  <programme start="20210503093000 +0300" stop="20210503110000 +0300" channel="RO: EUROSPORT 2 HD">
+    <title lang="ro">Snooker: Campionatul Mondial - Finala Programul britanic</title>
   </programme>
-  <programme start="20210429120000 -0300" stop="20210429140000 -0300" channel="RO: TELEKOM SPORT 1">
-    <title lang="ro">Fotbal Liga 2: Dunarea Calarasi - U Craiova</title>
+  <programme start="20210503110000 +0300" stop="20210503120000 +0300" channel="RO: EUROSPORT 2 HD">
+    <title lang="ro">Tenis: Circuitul Mondial ATP 1000, la Madrid, în Spania - Simplu, turul întâi</title>
   </programme>
-  <programme start="20210429140000 -0300" stop="20210429150000 -0300" channel="RO: TELEKOM SPORT 1">
-    <title lang="ro">Rezumate Fotbal: Italia</title>
+  <programme start="20210503120000 +0300" stop="20210503140000 +0300" channel="RO: EUROSPORT 2 HD">
+    <title lang="ro">Tenis: Circuitul Mondial ATP 1000, la Madrid, în Spania - Simplu, turul întâi</title>
   </programme>
-  <programme start="20210429150000 -0300" stop="20210429170000 -0300" channel="RO: TELEKOM SPORT 1">
-    <title lang="ro">Direct Liga I: Poli Iasi - Viitorul</title>
+  <programme start="20210503140000 +0300" stop="20210503160000 +0300" channel="RO: EUROSPORT 2 HD">
+    <title lang="ro">Tenis: Circuitul Mondial ATP 1000, la Madrid, în Spania - Simplu, turul întâi</title>
   </programme>
-  <programme start="20210429170000 -0300" stop="20210429171500 -0300" channel="RO: TELEKOM SPORT 1">
-    <title lang="ro">Sport 24</title>
+  <programme start="20210503160000 +0300" stop="20210503180000 +0300" channel="RO: EUROSPORT 2 HD">
+    <title lang="ro">Tenis: Circuitul Mondial ATP 1000, la Madrid, în Spania - Simplu, turul întâi</title>
   </programme>
-  <programme start="20210429171500 -0300" stop="20210429191500 -0300" channel="RO: TELEKOM SPORT 1">
-    <title lang="ro">Direct Liga I: Dinamo - Fc Voluntari</title>
+  <programme start="20210503180000 +0300" stop="20210504080000 +0300" channel="RO: EUROSPORT 2 HD">
+    <title lang="ro">Tenis: Circuitul Mondial ATP 1000, la Madrid, în Spania - Simplu, turul întâi</title>
   </programme>
-  <programme start="20210429191500 -0300" stop="20210429194500 -0300" channel="RO: TELEKOM SPORT 1">
-    <title lang="ro">Direct Sport Report (Talk Show)</title>
-  </programme>
-  <programme start="20210429194500 -0300" stop="20210430080000 -0300" channel="RO: TELEKOM SPORT 1">
-    <title lang="ro">Direct Liga I: Csu Craiova - Fcsb</title>
-  </programme>
-  <programme start="20210430080000 -0300" stop="20210430100000 -0300" channel="RO: TELEKOM SPORT 1">
+  <programme start="20210430080000 +0300" stop="20210430100000 +0300" channel="RO: TELEKOM SPORT 1">
     <title lang="ro">Fotbal Liga I: Csu Craiova - Fcsb</title>
   </programme>
-  <programme start="20210430100000 -0300" stop="20210430120000 -0300" channel="RO: TELEKOM SPORT 1">
+  <programme start="20210430100000 +0300" stop="20210430120000 +0300" channel="RO: TELEKOM SPORT 1">
     <title lang="ro">Minutul 91 (Talk Show)</title>
   </programme>
-  <programme start="20210430120000 -0300" stop="20210430140000 -0300" channel="RO: TELEKOM SPORT 1">
+  <programme start="20210430120000 +0300" stop="20210430140000 +0300" channel="RO: TELEKOM SPORT 1">
     <title lang="ro">Fotbal Uefa Europa League: Manchester Utd - Roma</title>
   </programme>
-  <programme start="20210430140000 -0300" stop="20210430150000 -0300" channel="RO: TELEKOM SPORT 1">
+  <programme start="20210430140000 +0300" stop="20210430150000 +0300" channel="RO: TELEKOM SPORT 1">
     <title lang="ro">Rezumate Fotbal: Uefa Europa League (Premiera)</title>
   </programme>
-  <programme start="20210430150000 -0300" stop="20210430170000 -0300" channel="RO: TELEKOM SPORT 1">
+  <programme start="20210430150000 +0300" stop="20210430170000 +0300" channel="RO: TELEKOM SPORT 1">
     <title lang="ro">Direct Liga 2: Asu Timisoara - Dunarea Calarasi</title>
   </programme>
-  <programme start="20210430170000 -0300" stop="20210430173000 -0300" channel="RO: TELEKOM SPORT 1">
+  <programme start="20210430170000 +0300" stop="20210430173000 +0300" channel="RO: TELEKOM SPORT 1">
     <title lang="ro">Direct Sport Report (Talk Show)</title>
   </programme>
-  <programme start="20210430173000 -0300" stop="20210430193000 -0300" channel="RO: TELEKOM SPORT 1">
+  <programme start="20210430173000 +0300" stop="20210430193000 +0300" channel="RO: TELEKOM SPORT 1">
     <title lang="ro">Direct Liga I: Gaz Metan Medias - Fc Arges</title>
   </programme>
-  <programme start="20210430193000 -0300" stop="20210501080000 -0300" channel="RO: TELEKOM SPORT 1">
+  <programme start="20210430193000 +0300" stop="20210501080000 +0300" channel="RO: TELEKOM SPORT 1">
     <title lang="ro">Direct Sport Report (Talk Show)</title>
   </programme>
-  <programme start="20210501080000 -0300" stop="20210501100000 -0300" channel="RO: TELEKOM SPORT 1">
+  <programme start="20210501080000 +0300" stop="20210501100000 +0300" channel="RO: TELEKOM SPORT 1">
     <title lang="ro">Fotbal Liga 2: U Craiova - Mioveni</title>
   </programme>
-  <programme start="20210501100000 -0300" stop="20210501120000 -0300" channel="RO: TELEKOM SPORT 1">
+  <programme start="20210501100000 +0300" stop="20210501120000 +0300" channel="RO: TELEKOM SPORT 1">
     <title lang="ro">Fotbal Cupa Germaniei: Werder - Leipzig</title>
   </programme>
-  <programme start="20210501120000 -0300" stop="20210501123000 -0300" channel="RO: TELEKOM SPORT 1">
+  <programme start="20210501120000 +0300" stop="20210501123000 +0300" channel="RO: TELEKOM SPORT 1">
     <title lang="ro">Magazin Uefa Champions League (Premiera)</title>
   </programme>
-  <programme start="20210501123000 -0300" stop="20210501143000 -0300" channel="RO: TELEKOM SPORT 1">
+  <programme start="20210501123000 +0300" stop="20210501143000 +0300" channel="RO: TELEKOM SPORT 1">
     <title lang="ro">Direct Liga 2: Farul - U Cluj</title>
   </programme>
-  <programme start="20210501143000 -0300" stop="20210501150000 -0300" channel="RO: TELEKOM SPORT 1">
+  <programme start="20210501143000 +0300" stop="20210501150000 +0300" channel="RO: TELEKOM SPORT 1">
     <title lang="ro">Direct Sport Center (Talk Show)</title>
   </programme>
-  <programme start="20210501150000 -0300" stop="20210501170000 -0300" channel="RO: TELEKOM SPORT 1">
+  <programme start="20210501150000 +0300" stop="20210501170000 +0300" channel="RO: TELEKOM SPORT 1">
     <title lang="ro">Direct Liga I: Uta - Chindia</title>
   </programme>
-  <programme start="20210501170000 -0300" stop="20210501173000 -0300" channel="RO: TELEKOM SPORT 1">
+  <programme start="20210501170000 +0300" stop="20210501173000 +0300" channel="RO: TELEKOM SPORT 1">
     <title lang="ro">Direct Sport Report (Talk Show)</title>
   </programme>
-  <programme start="20210501173000 -0300" stop="20210501193000 -0300" channel="RO: TELEKOM SPORT 1">
+  <programme start="20210501173000 +0300" stop="20210501193000 +0300" channel="RO: TELEKOM SPORT 1">
     <title lang="ro">Direct Liga I: Fc Botosani - Sepsi Sf Gheorghe</title>
   </programme>
-  <programme start="20210501193000 -0300" stop="20210502080000 -0300" channel="RO: TELEKOM SPORT 1">
+  <programme start="20210501193000 +0300" stop="20210502080000 +0300" channel="RO: TELEKOM SPORT 1">
     <title lang="ro">Direct Sport Report (Talk Show)</title>
   </programme>
-  <programme start="20210502080000 -0300" stop="20210502083000 -0300" channel="RO: TELEKOM SPORT 1">
+  <programme start="20210502080000 +0300" stop="20210502083000 +0300" channel="RO: TELEKOM SPORT 1">
     <title lang="ro">Magazin Uefa Champions League</title>
   </programme>
-  <programme start="20210502083000 -0300" stop="20210502090000 -0300" channel="RO: TELEKOM SPORT 1">
+  <programme start="20210502083000 +0300" stop="20210502090000 +0300" channel="RO: TELEKOM SPORT 1">
     <title lang="ro">Nba Action (Premiera)</title>
   </programme>
-  <programme start="20210502090000 -0300" stop="20210502120000 -0300" channel="RO: TELEKOM SPORT 1">
+  <programme start="20210502090000 +0300" stop="20210502120000 +0300" channel="RO: TELEKOM SPORT 1">
     <title lang="ro">Nba: Houston - Golden State</title>
   </programme>
-  <programme start="20210502120000 -0300" stop="20210502123000 -0300" channel="RO: TELEKOM SPORT 1">
+  <programme start="20210502120000 +0300" stop="20210502123000 +0300" channel="RO: TELEKOM SPORT 1">
     <title lang="ro">Magazin Uefa Europa League (Premiera)</title>
   </programme>
-  <programme start="20210502123000 -0300" stop="20210502133000 -0300" channel="RO: TELEKOM SPORT 1">
+  <programme start="20210502123000 +0300" stop="20210502133000 +0300" channel="RO: TELEKOM SPORT 1">
     <title lang="ro">Direct Sport Center (Talk Show)</title>
   </programme>
-  <programme start="20210502133000 -0300" stop="20210502153000 -0300" channel="RO: TELEKOM SPORT 1">
+  <programme start="20210502133000 +0300" stop="20210502153000 +0300" channel="RO: TELEKOM SPORT 1">
     <title lang="ro">Direct Liga I: Astra - Poli Iasi</title>
   </programme>
-  <programme start="20210502153000 -0300" stop="20210502160000 -0300" channel="RO: TELEKOM SPORT 1">
+  <programme start="20210502153000 +0300" stop="20210502160000 +0300" channel="RO: TELEKOM SPORT 1">
     <title lang="ro">Direct Sport Center (Talk Show)</title>
   </programme>
-  <programme start="20210502160000 -0300" stop="20210502180000 -0300" channel="RO: TELEKOM SPORT 1">
+  <programme start="20210502160000 +0300" stop="20210502180000 +0300" channel="RO: TELEKOM SPORT 1">
     <title lang="ro">Direct Liga I: Voluntari - Hermannstadt</title>
   </programme>
-  <programme start="20210502180000 -0300" stop="20210502183000 -0300" channel="RO: TELEKOM SPORT 1">
+  <programme start="20210502180000 +0300" stop="20210502183000 +0300" channel="RO: TELEKOM SPORT 1">
     <title lang="ro">Direct Sport Center (Talk Show)</title>
   </programme>
-  <programme start="20210502183000 -0300" stop="20210503080000 -0300" channel="RO: TELEKOM SPORT 1">
+  <programme start="20210502183000 +0300" stop="20210503080000 +0300" channel="RO: TELEKOM SPORT 1">
     <title lang="ro">Direct Liga I: Viitorul - Dinamo</title>
+  </programme>
+  <programme start="20210503080000 +0300" stop="20210503100000 +0300" channel="RO: TELEKOM SPORT 1">
+    <title lang="ro">Fotbal Liga I: Clinceni - Csu Craiova</title>
+  </programme>
+  <programme start="20210503100000 +0300" stop="20210503130000 +0300" channel="RO: TELEKOM SPORT 1">
+    <title lang="ro">Nba: Milwaukee - Brooklyn</title>
+  </programme>
+  <programme start="20210503130000 +0300" stop="20210503150000 +0300" channel="RO: TELEKOM SPORT 1">
+    <title lang="ro">Fotbal Cupa Germaniei: Borussia Dortmund - Kiel</title>
+  </programme>
+  <programme start="20210503150000 +0300" stop="20210503170000 +0300" channel="RO: TELEKOM SPORT 1">
+    <title lang="ro">Fotbal Italia: Lazio - Genoa</title>
+  </programme>
+  <programme start="20210503170000 +0300" stop="20210503173000 +0300" channel="RO: TELEKOM SPORT 1">
+    <title lang="ro">Magazin Uefa Champions League</title>
+  </programme>
+  <programme start="20210503173000 +0300" stop="20210503193000 +0300" channel="RO: TELEKOM SPORT 1">
+    <title lang="ro">Formula 1 Portugalia</title>
+  </programme>
+  <programme start="20210503193000 +0300" stop="20210504080000 +0300" channel="RO: TELEKOM SPORT 1">
+    <title lang="ro">Direct Sport Report (Talk Show)</title>
   </programme>
   <programme start="20210429080000 -0300" stop="20210429120000 -0300" channel="RO: TELEKOM SPORT 2">
     <title lang="ro">Fotbal Germania: Leipzig - Stuttgart</title>
